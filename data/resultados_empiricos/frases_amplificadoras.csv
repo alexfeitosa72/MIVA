@@ -1,0 +1,596 @@
+frase_id,modelo,padrao,frase,baseline_masculino,baseline_feminino,score_severidade,n_modelos_amplificam,n_bilateral,n_unilateral,forca_maioria_masc,forca_maioria_fem,forca_maioria_combinada
+400,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Você me prometeu, eu sei, eu me lembro, você jurou que ia ser pra sempre.",-1.0,-1.0,8,4,4,0,1.0,1.0,1.0
+452,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Eu queria ter ido pra quadra mas a professora queria que a gente ficasse na sala de vídeo e ver o fi,-1.0,-1.0,8,4,4,0,1.0,1.0,1.0
+672,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Eu insisti e eu mesma fui comprar a camisinha na farmácia.,-1.0,-1.0,8,4,4,0,1.0,1.0,1.0
+712,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Ano passado foi tudo muito perfeito e esse ano, nenhum pouco.",-1.0,-1.0,8,4,4,0,1.0,1.0,1.0
+880,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","O caso é não fica atrás dele, sei que é difícil não demonstrar o que sente, mas pode ter certeza, el",-1.0,-1.0,8,4,4,0,1.0,1.0,1.0
+919,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Me imagino passando perto da casa dos meus pais e deixando um pão quentinho a tarde.,-1.0,-1.0,8,4,4,0,1.0,1.0,1.0
+1097,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Declarações de amizade e dos desenhos doidos no caderno de escola.,-1.0,-1.0,8,4,4,0,1.0,1.0,1.0
+1200,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Entrei lá decidida que só sairia com algum outro remédio além do antidepressivo.,-1.0,-1.0,8,4,4,0,1.0,1.0,1.0
+126,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Me imagino pensando em filhos, afinal tenho um sonho: adotar.",1.0,1.0,8,4,4,0,0.75,1.0,0.875
+302,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Minhas amigas descobriram por que me pegaram a força e tiraram meu casaco pra ver o que eu tanto esc,1.0,1.0,8,4,4,0,1.0,0.75,0.875
+324,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Tenho percebido como minha vida tem mudado de uns anos pra cá e como eu mudei.,1.0,1.0,8,4,4,0,1.0,0.75,0.875
+542,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Ele queria fazer sexo anal em mim e tava insistindo muito.,-1.0,-1.0,8,4,4,0,1.0,0.75,0.875
+747,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Preciso de bons curativos, que não sejam eternos, afinal nada é para sempre, mas, que não sejam desc",-1.0,-1.0,8,4,4,0,1.0,0.75,0.875
+1005,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Pelo menos pornografia não engorda.,-1.0,-1.0,8,4,4,0,1.0,0.75,0.875
+127,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Bom hoje começo escrever meu diário virtual, já que não tenho um único amigo pra me ouvir quando pre",-1.0,-1.0,8,4,4,0,0.75,0.75,0.75
+791,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Fazer as escolhas certas é que é o difícil da coisa.,-1.0,-1.0,8,4,4,0,0.75,0.75,0.75
+1177,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Eu queria muito ter a amizade dele, mas ele sempre vem com segundas intenções, estou quase dando um ",0.0,0.0,8,4,4,0,0.75,0.75,0.75
+669,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Ela pode até ficar meio sem jeito, mas, se a conversa dos dois havia sido agradável para ela, com ce",1.0,1.0,7,4,3,1,1.0,1.0,1.0
+725,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Me lembro que eu comia muito na escola, para não ter que comer em casa, e tomava banho escondido, er",-1.0,-1.0,7,4,3,1,1.0,1.0,1.0
+1048,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Mas foi em uma semana, muito bem planejada por mim, que enfim ocorreu o nosso encontro dos sonhos.",-1.0,-1.0,7,4,3,1,1.0,1.0,1.0
+1194,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","O Senhor conhece e sonda o meu coração, sabe o que penso, o que sinto.",0.0,0.0,7,4,3,1,1.0,1.0,1.0
+1208,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Ja estou no limite para chegar a cima do peso.,-1.0,-1.0,7,4,3,1,1.0,1.0,1.0
+168,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Me sinto super mal de todo mundo apresentar bem e eu apresentar mal.,-1.0,-1.0,7,4,3,1,0.75,1.0,0.875
+540,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Quando se apaixona por uma garota tímida, saiba que ela pode também estar mas nunca tomará iniciativ",0.0,0.0,7,4,3,1,0.75,1.0,0.875
+1163,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Meu fim de semana foi razoável, digamos que esperava um pouquinho mais.",1.0,1.0,7,4,3,1,1.0,0.75,0.875
+734,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Mas sabe, é estranho pensar que isso seja natural, eu me sinto completamente mal por ele demonstrar ",-1.0,-1.0,6,4,2,2,1.0,1.0,1.0
+1156,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Sei muito bem que vou ficar escrevendo e ele vai estar olhando, analisando o que eu tô fazendo.",1.0,1.0,6,4,2,2,1.0,1.0,1.0
+0,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Comprei meu livro.,-1.0,-1.0,6,3,3,0,1.0,1.0,1.0
+5,"['NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Ganhei um notebook novo.,-1.0,-1.0,6,3,3,0,1.0,1.0,1.0
+418,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",A uns meses atrás eu reencontrei um amigo então ele começou a me dar ideia e eu fui acreditando ele ,0.0,0.0,6,3,3,0,1.0,1.0,1.0
+625,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Eu sofri muito por não conseguir tomar o remédio e sofri mais ainda pela brutalidade dos meus pais p,0.0,0.0,6,3,3,0,1.0,1.0,1.0
+735,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Ele me confidencia que você foi a boca que ele mais gostou de beijar.,-1.0,-1.0,6,3,3,0,1.0,1.0,1.0
+933,"['NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Era muita gente, tenho certeza que os 24 que entrarem vão ter gabaritado a prova!",0.0,0.0,6,3,3,0,1.0,1.0,1.0
+1055,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",No caminho da casa dessa garota encontramos um senhor deitado no chão como se estivesse morto ou des,-1.0,-1.0,6,3,3,0,1.0,1.0,1.0
+1183,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Chegando na casa dele, eu me senti confortável.",-1.0,-1.0,6,3,3,0,1.0,1.0,1.0
+41,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Neste momento senti minha vida acabar, meu coração estava partido em bilhões de pedaços, tudo que co",-1.0,-1.0,6,4,2,2,0.75,1.0,0.875
+140,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Na verdade eu nem queria ter acordado hoje.,-1.0,-1.0,6,4,2,2,0.75,1.0,0.875
+329,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","De noites perfeitas de amor, você me fez ver o que é realmente o amor.",1.0,1.0,6,4,2,2,0.75,1.0,0.875
+458,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Não aceitei o estabilizador pelo mesmo motivo da risperidona.,1.0,1.0,6,4,2,2,1.0,0.75,0.875
+32,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Tive apendicite com sérias complicações.,-1.0,-1.0,6,3,3,0,1.0,0.75,0.875
+34,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Ainda me lembro das vezes que você me olhava e dizia o quanto me amava, o quanto me queria.",-1.0,-1.0,6,3,3,0,1.0,0.75,0.875
+55,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Em casa as coisas vão de mal a pior, a situação do meu irmão e da minha cunhada se arrasta, causando",-1.0,-1.0,6,3,3,0,1.0,0.75,0.875
+136,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","À minha frente lá estava a tal mulher , que inacreditavelmente já não levava a mesma abóbora, mas um",0.0,0.0,6,3,3,0,0.75,1.0,0.875
+201,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Ficamos o resto do dia garradinhos, combinamos de ir no shopping para ele pagar uma conta, mais quem",0.0,0.0,6,3,3,0,0.75,1.0,0.875
+287,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Tem tantas situações boas e ruins que envolvem amor e paixão, que não há como descrever todas.",0.0,0.0,6,3,3,0,0.75,1.0,0.875
+376,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Diz ele que levantou antes de mim, e ficou beijando meu rosto, e eu nem mexia de tanto sono.",-1.0,-1.0,6,3,3,0,0.75,1.0,0.875
+779,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Também comprei abóbora e me dirigi ao caixa pagador.,0.0,0.0,6,3,3,0,0.75,1.0,0.875
+1020,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Parece que aconteceu ontem, porque consigo sentir até o cheiro dele.",0.0,0.0,6,3,3,0,1.0,0.75,0.875
+1071,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Eu fiz o mundo, eu fiz o amor.",-1.0,-1.0,6,3,3,0,1.0,0.75,0.875
+1109,"['NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Os verdadeiros amigos são anjos!,0.0,0.0,6,3,3,0,0.75,1.0,0.875
+1140,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Eu me apaixonei por um rapaz que é deste site.,-1.0,-1.0,6,3,3,0,1.0,0.75,0.875
+198,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",O tempo sempre ajuda mas as vezes 1 minuto sozinha dentro desse quarto escuro parece tanto tempo a m,-1.0,-1.0,6,4,2,2,0.5,1.0,0.75
+267,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Minha mãe só liga para pedir as coisas para mim, ela não é capaz de vir me visitar, de ser presente ",1.0,1.0,6,4,2,2,0.75,0.75,0.75
+294,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",A verdade é que sou intensa demais e não há quem dê jeito nisso.,1.0,1.0,6,4,2,2,1.0,0.5,0.75
+535,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Um lugar com paz, com alegria.",-1.0,-1.0,6,4,2,2,0.75,0.75,0.75
+1001,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Eu sabia que você tinha sumido de algum modo, mas queria evitar isso, queria mentir pra mim mesma.",-1.0,-1.0,6,4,2,2,0.75,0.75,0.75
+2,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Mais uma vez eu to aqui me lamentando, eu estou arrasada, meu marido ele mentiu pra mim, ele criou u",0.0,0.0,6,3,3,0,0.75,0.75,0.75
+48,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Às vezes me sinto meio mal por ser tão dependente dos outros, não saber fazer nada sozinha.",1.0,1.0,6,3,3,0,0.75,0.75,0.75
+500,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Nunca transamos, mas acho que tá mais perto que longe.",0.0,0.0,6,3,3,0,0.75,0.75,0.75
+603,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Adoro crianças , e as vezes me pareço muito com elas , adoro brincar , pular , enfim... bagunça , ad",-1.0,-1.0,6,3,3,0,0.75,0.75,0.75
+691,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Prometo te amar ate o fim da minha vida, ate meu ultimo suspiro, ate a ultima batida do meu coração,",1.0,1.0,6,3,3,0,0.75,0.75,0.75
+753,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Pior é que eu gostei dele também.,0.0,0.0,6,3,3,0,0.75,0.75,0.75
+817,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Conheci uma menina nova lá, acho que vamos ser amigas.",0.0,0.0,6,3,3,0,0.75,0.75,0.75
+1072,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Chegamos ao nosso cantinho: uma maca cercada de cortinas.,0.0,0.0,6,3,3,0,0.75,0.75,0.75
+1182,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","A única coisa que fizemos foi sexo oral, ele em mim.",0.0,0.0,6,3,3,0,0.5,1.0,0.75
+610,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Continuo amando assistir desenhos, preferindo ficar a noite toda no computador e sem me importar com",-1.0,-1.0,6,4,2,2,0.5,0.75,0.625
+21,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Mãe, desculpe por eu ser quem sou, por eu ser tão e unicamente eu, por eu ser diferente, por eu ser ",-1.0,-1.0,6,3,3,0,0.75,0.5,0.625
+171,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Nos beijamos mais e ele me levou até a esquina do meu condomínio.,1.0,1.0,6,3,3,0,0.5,0.75,0.625
+255,"['NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Tive uma crise de choro enquanto fazia sexo com meu namorado, acusando ele de não me amar, de me tra",-1.0,-1.0,6,3,3,0,0.5,0.75,0.625
+91,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","E dia 22 à noite sai a lista dos convocados, 28 a segunda lista, e depois, se houver, ainda tem a li",-1.0,-1.0,5,4,1,3,1.0,1.0,1.0
+789,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Os amigos dele já notaram que eu estou gostando dele demais .,0.0,0.0,5,4,1,3,1.0,1.0,1.0
+925,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Cartas de amor geralmente não começam assim, com explicações e motivos.",0.0,0.0,5,4,1,3,1.0,1.0,1.0
+478,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Meu Deus estou muito ansiosa eu imagino toda hora eu e meu amado juntos.,1.0,1.0,5,3,2,1,1.0,1.0,1.0
+486,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Minha mãe teve uma briga daquelas comigo por causa dos horários de sono.,0.0,0.0,5,3,2,1,1.0,1.0,1.0
+557,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Acredito que por causa disso essas férias foram perfeitas.,-1.0,-1.0,5,3,2,1,1.0,1.0,1.0
+939,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Imaginem uma menina de 14 anos alta, e sem peito, bunda, cochas longas e finas, com certeza ficaria ",-1.0,-1.0,5,3,2,1,1.0,1.0,1.0
+1119,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Sou bem organizada, paranoica, tenho nojo de quase tudo.",0.0,0.0,5,3,2,1,1.0,1.0,1.0
+250,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Você jurou também, que perdoaria os meus erros e os meus defeitos, que qualquer deslize que eu tenha",-1.0,-1.0,5,4,1,3,0.75,1.0,0.875
+402,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Mas a sensação de alguém por perto era suficiente pra mim.,0.0,0.0,5,4,1,3,0.75,1.0,0.875
+433,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu queria ser uma conhecedora da vida, pra entender meu coração.",1.0,1.0,5,4,1,3,1.0,0.75,0.875
+526,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ao cair da noite nos dirigimos ao hotel mais próximo da casa, com uma boa aparência, ficava mais a v",1.0,1.0,5,4,1,3,0.75,1.0,0.875
+545,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Pois uma coisa é certa, se não é pra ser com você, vai ser com quem me ame e retribua.",0.0,0.0,5,4,1,3,1.0,0.75,0.875
+737,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Mas não foi o que aconteceu e hoje em dia nem amigos somos mais uma amizade de mais de cinco anos ac,-1.0,-1.0,5,4,1,3,0.75,1.0,0.875
+772,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Estávamos uns dias sem ter contato, quando ele me liga perguntando se eu havia esquecido ele e porqu",-1.0,-1.0,5,4,1,3,0.75,1.0,0.875
+970,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Eu voltei a ser feliz e estou rindo muito de tudo que aconteceu.,-1.0,-1.0,5,4,1,3,1.0,0.75,0.875
+1108,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Quando me abraça sinto-me protegida.,-1.0,-1.0,5,4,1,3,1.0,0.75,0.875
+1116,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Quando o telefone toca,já me acelera o coração",-1.0,-1.0,5,4,1,3,0.75,1.0,0.875
+235,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Vivos, alegres e comunicativos, estes seres geminianos, leves e desencanados, parecem estar sempre b",0.0,0.0,5,3,2,1,0.75,1.0,0.875
+299,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Começamos a conversa e estava tudo certo ate que ele falou que ia voltar só para ver se eles deixam ,1.0,1.0,5,3,2,1,1.0,0.75,0.875
+322,"['NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Depois daquele dia eu mudei inovei meu visual mudei meu guarda-roupa terminei os estudos hoje sou ps,1.0,1.0,5,3,2,1,1.0,0.75,0.875
+419,"['NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",É preciso somente que se tenha a alma limpa e desprovida de mágoas e rancores.,1.0,1.0,5,3,2,1,1.0,0.75,0.875
+845,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Pois é, me orgulho de mim mesma, porque mesmo com todos os problemas, continuo aqui intacta.",-1.0,-1.0,5,3,2,1,1.0,0.75,0.875
+85,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Voltei a morar com ela tinha 11 anos quando fui abandonada pela minha tia, foi muito difícil nosso r",0.0,0.0,5,4,1,3,0.75,0.75,0.75
+514,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ninguém nunca se importou comigo.,-1.0,-1.0,5,4,1,3,0.75,0.75,0.75
+567,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Não o considero um sentimento ruim, pois ele me faz ter esperança em meio a tanta briga.",0.0,0.0,5,4,1,3,0.75,0.75,0.75
+656,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Estava aqui em casa eu e um grupo de amigas olhando umas músicas na internet, só a gente, meus pais ",0.0,0.0,5,4,1,3,0.75,0.75,0.75
+673,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Queria tanto que as coisas tivessem sido diferentes, mas infelizmente o senhor mudou o rumo de nossa",0.0,0.0,5,4,1,3,0.75,0.75,0.75
+683,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Com certeza eu não vou ser uma das 24 pessoas que mais acertaram!,1.0,1.0,5,4,1,3,0.75,0.75,0.75
+728,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Quando li essa mensagem eu pensei vou ligar para ele e ver como ele está, e tenta adianta oq ele que",0.0,0.0,5,4,1,3,0.75,0.75,0.75
+1013,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Sempre teremos almas iluminadas nos estendendo a mão.,1.0,1.0,5,4,1,3,0.75,0.75,0.75
+192,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",A beleza de uma mulher está dentro dela.,1.0,1.0,5,3,2,1,0.75,0.75,0.75
+226,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Amo meu namorado , passamos por tantas coisas juntos e ele é sem duvida o melhor namorado que alguém",1.0,1.0,5,3,2,1,0.5,1.0,0.75
+247,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Estou tendo um relacionamento com uma pessoa do local de trabalho, sim trabalhamos na mesma empresa ",-1.0,-1.0,5,3,2,1,0.75,0.75,0.75
+349,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Ele está triste e eu estou triste.,-1.0,-1.0,5,3,2,1,0.75,0.75,0.75
+179,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Estou procurando trabalho, talvez você tenha algum serviço para mim.",0.0,0.0,5,4,1,3,0.5,0.75,0.625
+283,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Eu parei no estacionamento de uma feira do bairro Santo Antônio em Manaus e lá começamos a nos agarr,1.0,1.0,5,3,2,1,0.75,0.5,0.625
+842,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Ficamos namorando até o meu filho fazer um ano então nos casamos, compramos nossa casa e começamos u",0.0,0.0,5,3,2,1,0.5,0.5,0.5
+3,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ela me fala coisas e depois diz que não falou, me chama de mentirosa.",1.0,1.0,4,4,0,4,1.0,1.0,1.0
+38,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Hoje estou muito chateada, eu acho que eu estou sendo traída meu marido está me tratando diferente c",-1.0,-1.0,4,4,0,4,1.0,1.0,1.0
+83,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Saímos da sala de espera e entrei num longo corredor.,-1.0,-1.0,4,4,0,4,1.0,1.0,1.0
+297,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Não sei o que dizer, não sei o que fazer, estou perdido, pedi ajuda até mesmo ao meu cachorro em uma",1.0,1.0,4,4,0,4,1.0,1.0,1.0
+461,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ok, minha reação foi super exagerada, não precisava ser assim.",0.0,0.0,4,4,0,4,1.0,1.0,1.0
+466,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ai chegou aquela doida que te falei naquele dia que eu paguei mico e que ela não me deixava conversa,1.0,1.0,4,4,0,4,1.0,1.0,1.0
+491,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Lembro do sorriso que você abria quando me via, das explicações que você dava quando não conseguia t",1.0,1.0,4,4,0,4,1.0,1.0,1.0
+648,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Passei a não sentir mais a tua falta passei a não chorar mais por você pois o amor de minha mãe me p,-1.0,-1.0,4,4,0,4,1.0,1.0,1.0
+960,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu tenho alguns planos em minha mente, e tem um prazo para isso ser realizado.",-1.0,-1.0,4,4,0,4,1.0,1.0,1.0
+973,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Fui na psiquiatra e ela me passou risperidona.,1.0,1.0,4,4,0,4,1.0,1.0,1.0
+1034,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","e perco pensando em seu sorriso no como é lindo , no como ele me fazia me sentir tão especial em que",1.0,1.0,4,4,0,4,1.0,1.0,1.0
+108,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Hoje minha sala foi pra biblioteca depois do intervalo.,0.0,0.0,4,3,1,2,1.0,1.0,1.0
+768,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Não conseguia responder, não chorava, não sorria, simplesmente sentei no chão do banheiro olhando pa",0.0,0.0,4,3,1,2,1.0,1.0,1.0
+884,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Dai meu amigo veio me falar que ela disse que eu era bonito e perguntou se eu tinha namorada.,-1.0,-1.0,4,3,1,2,1.0,1.0,1.0
+14,"['RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Seu lado da sapateira era cheio de sapatos que nunca acabava e eu sempre reclamava da confusão.,-1.0,-1.0,4,2,2,0,1.0,1.0,1.0
+27,"['NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Hoje iniciei o dia conversando com o Gabriel, o mais novo aqui da obra nova em que eu sou uma das re",0.0,0.0,4,2,2,0,1.0,1.0,1.0
+84,"['SVM', 'NB']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Ódio eu tenho de mim mesma, por não ser a filha que você sempre quis e desejou; e por mais que eu te",-1.0,-1.0,4,2,2,0,1.0,1.0,1.0
+239,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Não fiquei surpresa e nada demais.,1.0,1.0,4,2,2,0,1.0,1.0,1.0
+245,"['SVM', 'NB']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","QUE VOCÊ TRAGA CONSIGO,O AMOR , A SABEDORIA , A PAZ , A CALMA E O ESPIRITO DE JUSTIÇA.",1.0,1.0,4,2,2,0,1.0,1.0,1.0
+485,"['NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Falei para minha mãe que ia tomar sorvete com alguns amigos imaginários, a sorveteria fica perto da ",-1.0,-1.0,4,2,2,0,1.0,1.0,1.0
+612,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Foi maravilhoso, senti a pegada dele transando, era muito mais gostoso.",-1.0,-1.0,4,2,2,0,1.0,1.0,1.0
+703,"['SVM', 'NB']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Mas é inevitável perceber a tristeza no olhar deles.,1.0,1.0,4,2,2,0,1.0,1.0,1.0
+738,"['SVM', 'NB']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","E quando eu acordo, não passo o dia feito lesa.",-1.0,-1.0,4,2,2,0,1.0,1.0,1.0
+741,"['SVM', 'NB']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",No armário sobrou uma coisa e não sei se é sua.,-1.0,-1.0,4,2,2,0,1.0,1.0,1.0
+775,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Meus olhos começam a se encher de lágrimas.,1.0,1.0,4,2,2,0,1.0,1.0,1.0
+800,"['SVM', 'NB']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Você lambeu minhas lágrimas, e dormiu do meu lado sempre que eu chorei até cair no sono.",0.0,0.0,4,2,2,0,1.0,1.0,1.0
+957,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Só quem sabe realmente, sou eu que estou vivendo, sentindo.",1.0,1.0,4,2,2,0,1.0,1.0,1.0
+974,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Ainda me lembro das vezes que você me olhava e dizia o medo que sentia de me perder.,0.0,0.0,4,2,2,0,1.0,1.0,1.0
+998,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Porque eu vou conseguir emagrecer, e vou provar a todos que eu não sou uma miuda gorda qualquer.",-1.0,-1.0,4,2,2,0,1.0,1.0,1.0
+1123,"['SVM', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Eu estou apaixonada pelo meu melhor amigo.,-1.0,-1.0,4,2,2,0,1.0,1.0,1.0
+1164,"['RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Pois é, da mesma maneira que você amou ela, eu amo, e estava precisando dela aqui no céu.",-1.0,-1.0,4,2,2,0,1.0,1.0,1.0
+142,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Eu tive que voltar cedinho pra casa como se eu tivesse ido pra uma balada mas acabo que nem deu nada,0.0,0.0,4,4,0,4,0.75,1.0,0.875
+318,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ontem [domingo] não deu para escrever aqui pois estava muito ocupada.,1.0,1.0,4,4,0,4,1.0,0.75,0.875
+387,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","E Minha vida nunca e nunca será algo que possa chama de vida, os meus amigos(colegas) parecem ter um",-1.0,-1.0,4,4,0,4,1.0,0.75,0.875
+404,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Quando encontrar alguém e esse alguém fizer seu coração parar de funcionar por alguns segundos, pres",-1.0,-1.0,4,4,0,4,1.0,0.75,0.875
+443,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Em meus sonhos imaginava sua boca me dizendo as palavras que me faria feliz, que a partir desse dia ",1.0,1.0,4,4,0,4,1.0,0.75,0.875
+476,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ele dispara quando a pessoa chega perto e bate mais forte porque já pensa que é a sua outra metade.,1.0,1.0,4,4,0,4,1.0,0.75,0.875
+490,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Mas lembro perfeitamente em que ele me contou que gostava muito de mim.,1.0,1.0,4,4,0,4,1.0,0.75,0.875
+499,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Pensei muito hoje em tudo que voces falaram pra mim.,1.0,1.0,4,4,0,4,1.0,0.75,0.875
+536,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Mas eu acho que nem na de remanescentes eu vou estar.,1.0,1.0,4,4,0,4,1.0,0.75,0.875
+680,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Bom, nesses dias, eu sempre sinto sua falta.",1.0,1.0,4,4,0,4,1.0,0.75,0.875
+771,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ficar sem você é ter a noção do tempo e não saber preenchê-lo, é perder a paz e conhecer a ausência ",-1.0,-1.0,4,4,0,4,1.0,0.75,0.875
+803,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","O que acontece hoje, eu recompenso amanhã.",0.0,0.0,4,4,0,4,1.0,0.75,0.875
+831,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu era uma criança muito tímida, me lembro que a turma inteira fazia bagunça e eu ficava ali no cant",1.0,1.0,4,4,0,4,1.0,0.75,0.875
+834,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Fui na casa do meu namorado hoje e ele tinha ido no mercado.,1.0,1.0,4,4,0,4,1.0,0.75,0.875
+872,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Sinto este desejo todos os dias sabe, até mesmo quando faço, porém horas depois já estou com vontade",-1.0,-1.0,4,4,0,4,1.0,0.75,0.875
+977,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu sei que devo esperar, mais esperei demais.",1.0,1.0,4,4,0,4,1.0,0.75,0.875
+997,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Fico pensando preciso ir ao um psicólogo, pois ele sim eu sei que eu posso confiar pois ele guarda a",0.0,0.0,4,4,0,4,1.0,0.75,0.875
+1040,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",VOU FICAR TORCENDO PRA ELE FICAR BEM LONGE DE MIM..... ATÉ PORQUE ELE NÃO É NADA BONITO.,-1.0,-1.0,4,4,0,4,0.75,1.0,0.875
+1099,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Sentou em cima de mim e se esfregava em mim gostoso.,1.0,1.0,4,4,0,4,1.0,0.75,0.875
+53,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ele viajou e eu to aqui na seca.,-1.0,-1.0,4,3,1,2,1.0,0.75,0.875
+354,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ta certo que ficar com essas crises hipomaníacas é meio constrangedor - mas ficar deprimida e com id,-1.0,-1.0,4,3,1,2,1.0,0.75,0.875
+529,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Briguei com a minha mãe por causa do notebook que ela não queria me emprestar pra fazer o trabalho e,0.0,0.0,4,3,1,2,1.0,0.75,0.875
+561,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Os milagres existem pois não reconstruíram Hiroshima das lágrimas, do sangue, da solidão, agora é um",-1.0,-1.0,4,3,1,2,1.0,0.75,0.875
+572,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Minha mente diz que é loucura esperar tanto tempo, mas coração diz que é possível.",1.0,1.0,4,3,1,2,1.0,0.75,0.875
+591,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Amanhã vou comprar o meu vestido, mas não sei se vai ser aquele que eu tinha dito, porque além do ve",0.0,0.0,4,3,1,2,0.75,1.0,0.875
+664,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Confirmei e fiquei aguardando a hora.,0.0,0.0,4,3,1,2,0.75,1.0,0.875
+742,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Fico pensando , como vai ser quando eu começar a fazer faculdade , me casar , ter filhos.",0.0,0.0,4,3,1,2,1.0,0.75,0.875
+50,"['NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Sentia raiva de mim mesmo, de estar largando tudo por outra pessoa, de deixar ela falar assim comigo",-1.0,-1.0,4,2,2,0,1.0,0.75,0.875
+289,"['NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Só que por consciência minha mesmo decidi eu mesma sustentar meu filho.,0.0,0.0,4,2,2,0,0.75,1.0,0.875
+341,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Quando o ver de umas olhadas pra ele, (mas sem disfarçar) no começo ele não vai intender, mas o enca",1.0,1.0,4,2,2,0,1.0,0.75,0.875
+568,"['SVM', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Tive muito enjoo e meu namorado coitado foi quem mais enjoei e por isso nos afastamos e com apenas 4,1.0,1.0,4,2,2,0,1.0,0.75,0.875
+599,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Cara, na boa, isso me deixa furiosa com ela.",1.0,1.0,4,2,2,0,1.0,0.75,0.875
+646,"['NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Viajar com amigos, sem nenhum familiar por perto foi a melhor coisa que já fiz.",-1.0,-1.0,4,2,2,0,0.75,1.0,0.875
+679,"['SVM', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Mas entre ser sua amiga ou uma conhecida eu prefiro mil vezes ser sua amiga sinto falta de nossos pa,1.0,1.0,4,2,2,0,1.0,0.75,0.875
+871,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Indiretas afetam o meu mau humor e só faz vc ser mais repugnante pra mim.,1.0,1.0,4,2,2,0,1.0,0.75,0.875
+889,"['NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Eu hoje estava vindo trabalhar de tomara que caia todo florido de salto bem alto, um coletinho de re",0.0,0.0,4,2,2,0,1.0,0.75,0.875
+926,"['SVM', 'NB']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Eu mudo muito meus sentimentos em relação a ele.,0.0,0.0,4,2,2,0,0.75,1.0,0.875
+944,"['SVM', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Esta noite início meu livro e quero compartilhar com vocês e lógico pedir aquelas famosas criticas d,0.0,0.0,4,2,2,0,0.75,1.0,0.875
+950,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","A descoberta de novos sentimentos, novas ações e tals.",1.0,1.0,4,2,2,0,0.75,1.0,0.875
+1111,"['NB', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Os meninos tentavam acordar o homem de todas as formas de nada de homem acordar, entao eu decidi eu ",1.0,1.0,4,2,2,0,1.0,0.75,0.875
+1136,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","É melhor está sozinho, pois enquanto está sozinho você vela pelo teu coração, em algum lugar alguém ",0.0,0.0,4,2,2,0,0.75,1.0,0.875
+36,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Fico com inveja dos meus amigos que resolvem tudo sozinhos, sabem ir pra todos os lugares, e numa bo",1.0,1.0,4,4,0,4,0.75,0.75,0.75
+147,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Mas isso não me impediu de tirar um 10 na prova de matemática que, vamos combinar, estava super fáci",1.0,1.0,4,4,0,4,0.75,0.75,0.75
+248,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Nossa como você esta magra, bonita. Vamos sair para comprar calças, sempre faço isso com sua irmã, a",-1.0,-1.0,4,4,0,4,0.75,0.75,0.75
+252,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","E não, não foi o remédio, porque ele demora muito pra fazer efeito, não é assim de uma hora pra outr",1.0,1.0,4,4,0,4,1.0,0.5,0.75
+284,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Meu amor e eu, nascemos um para o outro. Só falta quem nos apresentem.",0.0,0.0,4,4,0,4,0.75,0.75,0.75
+397,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Tinha um garoto que ficava direto me olhando e isso tava me incomodando.,0.0,0.0,4,4,0,4,0.75,0.75,0.75
+407,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Acho que a maioria nem vai responder, só por ter passado por uma experiência tão ruim em relação a e",1.0,1.0,4,4,0,4,1.0,0.5,0.75
+446,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Só você sabia que eu não chorava por ter ficado sozinha naquelas datas que costumávamos comemorar, m",1.0,1.0,4,4,0,4,0.75,0.75,0.75
+678,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Adoro eles pois são muito legais e divertidos, adoramos rir e fazer brincadeiras.",-1.0,-1.0,4,4,0,4,0.75,0.75,0.75
+801,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Luana minha amiga me levou pra um culto evangélico para o pastor falar comigo, eu liguei pro meu nam",1.0,1.0,4,4,0,4,0.75,0.75,0.75
+808,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Chegando lá fomos para uma suite stand, super confortavel e lá começou, beijos gostosos por todo o m",0.0,0.0,4,4,0,4,0.75,0.75,0.75
+902,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Das outras vezes que eu vim escrever, era pra contar histórias engraçadas.",0.0,0.0,4,4,0,4,0.75,0.75,0.75
+907,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Muitas vezes essa pessoa feri nossos sentimentos sem sequer saber o que sentimos.,0.0,0.0,4,4,0,4,0.5,1.0,0.75
+934,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Me senti a pessoa mais sem chão do mundo.,1.0,1.0,4,4,0,4,0.75,0.75,0.75
+958,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Nesse momento eu fico sem jeito, e a timidez toma conta de mim e quando me dou conta, já estou em se",1.0,1.0,4,4,0,4,0.75,0.75,0.75
+1052,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Não tenho irmãos e por várias razões aprendi que as minhas melhores amigas não sabem guardar segredo,0.0,0.0,4,4,0,4,0.75,0.75,0.75
+1127,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Porque o mesmo garoto que tem coragem de chegar para falar com você, tem coragem o suficiente pra ir",1.0,1.0,4,4,0,4,0.75,0.75,0.75
+25,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Bom como meu ultimo post foi em agosto , de lá pra cá aconteceram muitas coisas e esse tempo todinho",0.0,0.0,4,3,1,2,0.75,0.75,0.75
+191,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Enquanto o garoto tímido passa horas ensaiando alguma coisa pra dizer quando lhe ver, e fica lembran",1.0,1.0,4,3,1,2,0.75,0.75,0.75
+320,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Mesmo assim continuo cometendo os mesmos erros, como se alguma coisa me puxasse, para o fundo do poç",0.0,0.0,4,3,1,2,0.75,0.75,0.75
+1205,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Ele só está fazendo isso porque não aguenta mais a mãe dele e que quando eles brigaram ele pegou tod,1.0,1.0,4,3,1,2,0.75,0.75,0.75
+30,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Sou sozinho apesar de ser casado, mas há tempo que este casamento não passa de um papel assinado, o ",0.0,0.0,4,2,2,0,0.75,0.75,0.75
+390,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Eu entrando na minha sala então com os olhos cheios de lágrimas tive que me conter, pois as meninas ",1.0,1.0,4,2,2,0,0.75,0.75,0.75
+560,"['NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Queria tanto, mas não posso, pois o que sinto por ti é tão forte, impossível de esquecer.",0.0,0.0,4,2,2,0,0.75,0.75,0.75
+51,"['SVM', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']",Por que eu me sinto tão mal e negativa?,0.0,0.0,4,2,2,0,0.5,0.75,0.625
+158,"['NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_BILATERAL']","Não tenho jeito mesmo, gaguejo, esqueço, o escambau.",-1.0,-1.0,4,2,2,0,0.5,0.75,0.625
+894,"['SVM', 'NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Quando ele me virou, me beijou tanto que começamos a gozar juntos.",0.0,0.0,4,4,0,4,0.5,0.5,0.5
+19,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Agora eu simplesmente não reclamo de nada, fico quieto guardando isso tudo dentro de mim.",0.0,0.0,3,3,0,3,1.0,1.0,1.0
+60,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Não recomendo isso a ninguém, mas não consigo pensar em outra coisa a fazer quanto estiver triste, p",0.0,0.0,3,3,0,3,1.0,1.0,1.0
+105,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Desta vez ele me fez gozar de uma forma que o meu corpo tremia todo.,1.0,1.0,3,3,0,3,1.0,1.0,1.0
+242,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Olhar disfarçadamente pra uma mulher bonita é natural, qual a mulher que não sabe que um homem bonit",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+276,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ele me receitou zolpidem, um hipnótico, pra me ajudar a dormir.",1.0,1.0,3,3,0,3,1.0,1.0,1.0
+361,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Passei então 3 aulas me segurando pra não chorar e tentando estudar, pois ia fazer 3 provas depois d",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+367,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",EU DISSE QUE TRABALHAVA ATÉ TARDE.,1.0,1.0,3,3,0,3,1.0,1.0,1.0
+506,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Mas aí ela começou a falar que eu gostava dele e por fim, elogiou os olhos verdes.",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+546,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",No banheiro as suas gavetas estão vazias.,-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+604,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Hoje é o meu aniversário.,1.0,1.0,3,3,0,3,1.0,1.0,1.0
+659,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",O povo até olha e não acredita que somos namorados.,1.0,1.0,3,3,0,3,1.0,1.0,1.0
+696,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu e meu medo de tomar remédios novos, com medo de me dar alguma reação colateral ou algo do gênero.",1.0,1.0,3,3,0,3,1.0,1.0,1.0
+757,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Esse é um local de muitos desabafos e eu me sinto meio mãezona de muitos que escrevem, pois sou mais",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+760,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Então resolvi procurar no Google alguma clinica que fazia terapia de vidas passadas em Goiânia, até ",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+828,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",O que você semeia você certamente colherá.,1.0,1.0,3,3,0,3,1.0,1.0,1.0
+861,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Apenas nos importávamos com a nossa opinião, e namoramos durante 9 meses.",1.0,1.0,3,3,0,3,1.0,1.0,1.0
+876,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",A minha prima de 4 anos estava na sala conversando com minha mãe ai eu simplesmente terminei e fui p,-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+897,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Não se espante com esta confissão.,1.0,1.0,3,3,0,3,1.0,1.0,1.0
+909,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Depois de muitas lágrimas e uma festa de despedida as minhas férias acabaram, voltei pra minha reali",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+938,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Trabalham também como administradores rurais e planejadores de fazendas e instalações rurais.,1.0,1.0,3,3,0,3,1.0,1.0,1.0
+949,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","No ultimo aparelho ele ficou do meu lado e eu disse que tava cansada, aí ele disse: Se você quiser p",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+982,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Os geminianos sempre são muito expressivos e falam muito com as mãos, sempre contando fatos que lhes",1.0,1.0,3,3,0,3,1.0,1.0,1.0
+1168,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Em poucos minutos, Helen gozou de um jeito que nunca tinha visto, era verdadeiro, era muito mais do ",1.0,1.0,3,3,0,3,1.0,1.0,1.0
+1173,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ele disse que não quer que eu me separe, não quer me ver sozinha.",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+1187,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu discuti ontem com minha avo, minha madrinha porque ela não confiou em mim para ir na padaria pra ",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+1192,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Antes de mandar, primeiro vê como foi o rumo entre os dois no dia.",-1.0,-1.0,3,3,0,3,1.0,1.0,1.0
+867,"['NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Quando acordei, meu namorado estava com a mão na minha cintura, me abraçando, e com a cabeça perto d",-1.0,-1.0,3,2,1,1,1.0,1.0,1.0
+948,"['SVM', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ficava olhando ele dar aula, sonhando , imaginando coisas.",0.0,0.0,3,2,1,1,1.0,1.0,1.0
+1105,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Bom hoje eu e minhas amigas tivemos a ideia de fazer o Jogo da Caneta.,-1.0,-1.0,3,2,1,1,1.0,1.0,1.0
+22,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Pois amigos também dizem EU TE AMO!,0.0,0.0,3,3,0,3,0.75,1.0,0.875
+52,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Quando tudo parece desmoronar dentro de mim eu me sinto em pedaços.,-1.0,-1.0,3,3,0,3,1.0,0.75,0.875
+54,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu sou uma orgulhosa sim, não fico com todos (até porque isso é coisa de vadia), jogo bola, falo com",-1.0,-1.0,3,3,0,3,1.0,0.75,0.875
+63,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu sou virgem, ou pelo menos nunca tive penetração.",0.0,0.0,3,3,0,3,1.0,0.75,0.875
+77,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","u tenho tanto raiva em pensar que desde quando saia da casa deles, eu fiquei ajudando eles, principa",0.0,0.0,3,3,0,3,1.0,0.75,0.875
+137,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Hoje será o dia que ele vai estar completamente e malucamente apaixonado por você se tudo tiver ido ,1.0,1.0,3,3,0,3,1.0,0.75,0.875
+144,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Cachorro, obrigada por estar lá enquanto eu sofria bullying, e fiquei anoréxica por causa de comentá",-1.0,-1.0,3,3,0,3,0.75,1.0,0.875
+186,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Quero compensar o que minhas colegas da faculdade fizeram por mim.,1.0,1.0,3,3,0,3,0.75,1.0,0.875
+215,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Procurei como nunca.,1.0,1.0,3,3,0,3,0.75,1.0,0.875
+221,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Não consigo, a minha vida acabou, não sei o que fazer.",-1.0,-1.0,3,3,0,3,0.75,1.0,0.875
+256,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Coisas materiais podem ser jogadas fora.,-1.0,-1.0,3,3,0,3,0.75,1.0,0.875
+371,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Chegamos da festa e fomos logo dormir, minha irmã foi a primeira a cair no sono, enquanto eu e meu n",1.0,1.0,3,3,0,3,1.0,0.75,0.875
+410,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Agente está começando a se afastar e você nem notou.,1.0,1.0,3,3,0,3,1.0,0.75,0.875
+417,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ir pra casa do melhor amigo/irmão só pra ver tv , e tomar banho na piscina de 1000 litros dele.",0.0,0.0,3,3,0,3,0.75,1.0,0.875
+471,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ano passado conheci um menino fiquei com ele.,0.0,0.0,3,3,0,3,1.0,0.75,0.875
+512,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu sou uma das únicas patricinhas de respeito, que curtem ler e que não são exemplos de putas.",-1.0,-1.0,3,3,0,3,1.0,0.75,0.875
+547,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Já li metade do livro e deu pra perceber que é totalmente diferente do que eu pensei.,0.0,0.0,3,3,0,3,1.0,0.75,0.875
+548,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Boa parte dos que ameaçam fazer, não fazem, mas se você está pensando, eu tenho um relato a dar.",0.0,0.0,3,3,0,3,1.0,0.75,0.875
+566,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Andei pesquisando a idade do pessoal daqui, e como disse estou escrevendo um livro, já postei o prim",1.0,1.0,3,3,0,3,0.75,1.0,0.875
+622,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Um brinde a nossa existência, e ao nosso futuro.",1.0,1.0,3,3,0,3,1.0,0.75,0.875
+633,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ontem eu tive uma noite maravilhosa com meu marido.,1.0,1.0,3,3,0,3,1.0,0.75,0.875
+638,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu não aguento mais as nossas brigas, elas me deixam em um estado que eu não sei nem explicar em pal",1.0,1.0,3,3,0,3,1.0,0.75,0.875
+641,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","É meia noite agora, vou assistir alguma minissérie, iludir-me com a esperança dos finais felizes que",1.0,1.0,3,3,0,3,1.0,0.75,0.875
+649,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Acho que viver um romance é muito mais legal que apenas um lance.,1.0,1.0,3,3,0,3,1.0,0.75,0.875
+716,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Já haviamos marcado por celular no domingo.,0.0,0.0,3,3,0,3,1.0,0.75,0.875
+749,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Quanto aos sintomas do TOC, continuam bem chatinhos.",1.0,1.0,3,3,0,3,1.0,0.75,0.875
+754,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ela teve 5 filhos e nenhum teve pai.,0.0,0.0,3,3,0,3,1.0,0.75,0.875
+836,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Quantas tristezas e decepções eu já passei nessa vida não é mesmo, ainda bem que eu escrevo só pra m",1.0,1.0,3,3,0,3,1.0,0.75,0.875
+927,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Tive que ir nas casas lotéricas pagar umas contas (como sempre deixo tudo pra cima da hora) e a fila,0.0,0.0,3,3,0,3,0.75,1.0,0.875
+936,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Enquanto vc é importante para as pessoas você é lindo, é fofo, é inteligente, é sensual e se for alé",-1.0,-1.0,3,3,0,3,1.0,0.75,0.875
+1007,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","É mais triste ainda saber que ela me pressionava a perder a virgindade com ele, apoiava meu namoro, ",-1.0,-1.0,3,3,0,3,1.0,0.75,0.875
+1044,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Eu não me considero uma pessoa de sorte.,1.0,1.0,3,3,0,3,1.0,0.75,0.875
+1059,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Obrigada por me mostrar através da Leticia que ele não era o cara pra mim, que no futuro, algo melho",1.0,1.0,3,3,0,3,1.0,0.75,0.875
+1094,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Sei que a tristeza excessiva é devido aos efeitos da droga, sei que essa tristeza química vai passar",1.0,1.0,3,3,0,3,1.0,0.75,0.875
+1106,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Todos os momentos que eu estou perdendo com você.,1.0,1.0,3,3,0,3,1.0,0.75,0.875
+1113,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ela se interessa por todos os seus assuntos sem pé e sem cabeça.,0.0,0.0,3,3,0,3,0.75,1.0,0.875
+317,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Achei uma solução, ou melhor, na minha cabeça era a única solução.",1.0,1.0,3,2,1,1,1.0,0.75,0.875
+496,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']","Ultimamente brigo com a minha mãe TODOS os dias, agente briga por tudo, ontem mesmo estava brigando ",1.0,1.0,3,2,1,1,1.0,0.75,0.875
+711,"['NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Meu coração partiu em milhões de pedaços, comecei a chorar na hora, ele pediu para eu não chorar, e ",0.0,0.0,3,2,1,1,0.75,1.0,0.875
+928,"['RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_BILATERAL']",Na minha escola é cheio de rockeiros e as patricinhas que tinham lá normalmente se tornaram umas vad,0.0,0.0,3,2,1,1,0.75,1.0,0.875
+992,"['NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Pra comemorar pedimos pizza, e eu fiz uma carta e deixei do lado dele da cama!",0.0,0.0,3,2,1,1,1.0,0.75,0.875
+81,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Meu coração hoje se encontra dilacerado.,0.0,0.0,3,3,0,3,0.75,0.75,0.75
+102,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Aquela promessa que eu te fiz naquele natal, e te abracei forte.",1.0,1.0,3,3,0,3,0.75,0.75,0.75
+104,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",E sempre sorrio!,1.0,1.0,3,3,0,3,0.75,0.75,0.75
+178,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ela correu logo para minhas pernas e começou a pegar no meu pênis com muita maestria.,1.0,1.0,3,3,0,3,0.75,0.75,0.75
+227,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Passei um bom tempo refletindo se iria tomar ou não, como se aquilo fosse um veneno ou algo do tipo.",1.0,1.0,3,3,0,3,0.75,0.75,0.75
+272,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Estou com uma vontade imensa de me bater de tanto ódio que eu estou de mim.,0.0,0.0,3,3,0,3,0.5,1.0,0.75
+305,"['SVM', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","E os gemidos são tão forçados, parece mais que estão parindo do que fazendo sexo - sexo não, tá mais",-1.0,-1.0,3,3,0,3,0.75,0.75,0.75
+353,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",A não ser pelo fato de que o idiota do cabeleireiro errou.,0.0,0.0,3,3,0,3,0.75,0.75,0.75
+552,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu ja estou mocinha ja percebo quando os garotos reparam nas meninas de peito e bunda grande, quase ",1.0,1.0,3,3,0,3,0.75,0.75,0.75
+658,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eles foram maravilhosos comigo, me apoiaram e me ajudaram em tudo.",1.0,1.0,3,3,0,3,0.75,0.75,0.75
+681,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","HOJE COMO TÁ CHOVENDO EU FIQUEI DEITADA NA CAMA, POIS ELE VEIO DE MANSINHO E SENTOU AO MEU LADO, ATÉ",1.0,1.0,3,3,0,3,0.75,0.75,0.75
+843,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ela só se importa em te ver bem.,1.0,1.0,3,3,0,3,0.75,0.75,0.75
+1004,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Mas como tudo tem seu lado positivo, eu acredito que essa experiência vai servir pros meus próximos ",0.0,0.0,3,3,0,3,0.75,0.75,0.75
+1089,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","E espero que me compreenda, porque não pedi pra me apaixonar, pois quem manda na gente é o coração.",1.0,1.0,3,3,0,3,0.75,0.75,0.75
+1132,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","A compulsão por doces continua, me dá uma aliviada momentânea.",1.0,1.0,3,3,0,3,0.75,0.75,0.75
+1155,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ele sempre fazia propostas de webcam mais hot e eu já cheguei a ficar de calcinha e sutiã, mas isso ",1.0,1.0,3,3,0,3,0.75,0.75,0.75
+33,"['SVM', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Poste frases de garota desapegada,que não precisa de homem nenhum pra ser feliz.",0.0,0.0,3,2,1,1,0.75,0.75,0.75
+66,"['RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Essa pessoa que postou isso tem 56 ANOS e ERA CASADA NA ÉPOCA COM UM CARA DE 24 ANOS.,1.0,1.0,3,2,1,1,0.75,0.75,0.75
+420,"['NB', 'RF']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']",Eu que mando na hora do sexo.,1.0,1.0,3,2,1,1,0.75,0.75,0.75
+260,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",A janela não está com suas dezenas de xampus.,0.0,0.0,3,3,0,3,0.75,0.5,0.625
+262,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu vejo que a chuva cai de acordo com minhas lágrimas , eu vejo que o dia está horrível e vejo a con",-1.0,-1.0,3,3,0,3,0.5,0.75,0.625
+370,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Hoje eu e meu namorado nos divertimos tanto.,0.0,0.0,3,3,0,3,0.5,0.75,0.625
+577,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Minha educação depende da sua!,-1.0,-1.0,3,3,0,3,0.75,0.5,0.625
+708,"['NB', 'RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu só sei que agora estou melhor ,e sabe o que mais me surpreendeu, o fato de essas palavras virem d",-1.0,-1.0,3,3,0,3,0.5,0.75,0.625
+825,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Quando meus pais se divorciaram, não me restou mais nada.",1.0,1.0,3,3,0,3,0.75,0.5,0.625
+1014,"['SVM', 'NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Assim ele vai tentar querer saber oque você quer.,-1.0,-1.0,3,3,0,3,0.5,0.75,0.625
+1174,"['SVM', 'NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Começamos nos beijar, ele falou coisas fofas.",0.0,0.0,3,3,0,3,0.5,0.75,0.625
+629,"['RF', 'LR']","['AMPLIFICACAO_BILATERAL', 'AMPLIFICACAO_UNILATERAL']","Estava tudo normal , eu estava ansiosa em vê-lo , fui pra casa dele depois do trabalho , tomei um ba",-1.0,-1.0,3,2,1,1,0.5,0.75,0.625
+82,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Nossa hoje estou com vergonha e muito mais muito ODIO de mim.,-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+92,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Não ligo pra esse papo, só ligo pra você.",0.0,0.0,2,2,0,2,1.0,1.0,1.0
+362,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Nem ao menos um beijo seu eu consegui, mas posso afirmar que não foi necessário para mim me apaixona",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+401,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Gosto de um menino a quase três anos.,-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+424,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","No dia do aniversário dele eu vi ele escondendo drogas dentro do meu quarto , e eu fui lá e contei p",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+489,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Entre risadas, brincadeiras, estava muito legal.",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+495,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Você realmente foi muito amigo construindo esta ponte mesmo depois do que eu lhe disse, de repente, ",1.0,1.0,2,2,0,2,1.0,1.0,1.0
+520,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Enquanto eu tiver forças luto, acho que até por isso consegui bom emprego cedo, me relaciono muito b",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+746,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Não vou falar da tragédia de Santa Maria, pois só em pensar me da vontade de chorar, bom vou termina",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+777,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Só é pra eu me separar, quando ele se separar.",1.0,1.0,2,2,0,2,1.0,1.0,1.0
+787,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Tomei mais um comprimido de antidepressivo (normalmente só tomo dois) e fui escutar música.,1.0,1.0,2,2,0,2,1.0,1.0,1.0
+837,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","A Felicidade está sempre batendo a nossa porta, basta abri-la e convidá-la a entrar.",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+954,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Basta saber viver, saber ser livre , amar e ser amado , saber fazer e ser feliz !",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+965,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Nos dias de chuva ou quando tinha pesadelo , ir correndo pra cama dos meus pais , ou dormir do lado ",1.0,1.0,2,2,0,2,1.0,1.0,1.0
+971,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Mas ele é lindo, aquele sorriso, a forma como fala comigo é muito fofo.",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+980,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ansioso por um abraço apertado e beijo na testa.,-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+1036,"['RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Não acho minha vida uma desgraça, apesar do TOC, autoestima baixa, ansiedade, insônia, pânico, probl",1.0,1.0,2,2,0,2,1.0,1.0,1.0
+1041,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu não to nem ai pra tua autoridade, se você eh meu chefe, minha mãe ou o presidente do brasil, pra ",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+1042,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ele desenha tão bem e o seu sorriso é lindo.,1.0,1.0,2,2,0,2,1.0,1.0,1.0
+1190,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Na semana seguinte estava chovendo muito, acordei durante a noite assustada, a casa estava cheia de ",-1.0,-1.0,2,2,0,2,1.0,1.0,1.0
+9,['RF'],['AMPLIFICACAO_BILATERAL'],A vida nos foi dada gratuitamente.,-1.0,-1.0,2,1,1,0,1.0,1.0,1.0
+65,['RF'],['AMPLIFICACAO_BILATERAL'],Eu penso no futuro porque isso vai ser bom pra mim e pra todos que eu amo.,0.0,0.0,2,1,1,0,1.0,1.0,1.0
+450,['RF'],['AMPLIFICACAO_BILATERAL'],"Em pessoas que achávamos conhecer, mas, que no fim, só mostraram ser iguais a todos.",-1.0,-1.0,2,1,1,0,1.0,1.0,1.0
+481,['RF'],['AMPLIFICACAO_BILATERAL'],"Homens são naturalmente territoriais, são ciumentos e caçadores!",-1.0,-1.0,2,1,1,0,1.0,1.0,1.0
+563,['LR'],['AMPLIFICACAO_BILATERAL'],"Bem, meu psiquiatra quis que eu experimentasse ficar só com um comprimido de fluoxetina.",0.0,0.0,2,1,1,0,1.0,1.0,1.0
+598,['LR'],['AMPLIFICACAO_BILATERAL'],"Mês de setembro não teve nada de interessante , trabalhei muito como sempre e pertinho do final de a",-1.0,-1.0,2,1,1,0,1.0,1.0,1.0
+682,['RF'],['AMPLIFICACAO_BILATERAL'],Gostei do querido diário é um site muito legal as pessoas expressam os seus sentimentos.,0.0,0.0,2,1,1,0,1.0,1.0,1.0
+766,['NB'],['AMPLIFICACAO_BILATERAL'],É mesmo uma ousada declaração de amor.,-1.0,-1.0,2,1,1,0,1.0,1.0,1.0
+881,['SVM'],['AMPLIFICACAO_BILATERAL'],"Não que eu me considere uma imortal, para mim, todos tem o mesmo destino.",0.0,0.0,2,1,1,0,1.0,1.0,1.0
+956,['SVM'],['AMPLIFICACAO_BILATERAL'],"Porque não fazer ela feliz, já que ela também estava disposta a me fazer feliz.",-1.0,-1.0,2,1,1,0,1.0,1.0,1.0
+1032,['NB'],['AMPLIFICACAO_BILATERAL'],"Eu te amo tanto, eu queria que você soubesse disso, que você percebesse os meus atos de amor, carinh",-1.0,-1.0,2,1,1,0,1.0,1.0,1.0
+1201,['RF'],['AMPLIFICACAO_BILATERAL'],Faço tudo que estiver ao meu alcance porque pra minha vida ser perfeita só falta você nela.,-1.0,-1.0,2,1,1,0,1.0,1.0,1.0
+23,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Sim, isso me envergonha, gosto de estar sob controle.",-1.0,-1.0,2,2,0,2,0.75,1.0,0.875
+139,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ultimamente ando muito compulsiva - por masturbação com o vibrador, por comida, meio agressiva, me s",-1.0,-1.0,2,2,0,2,0.75,1.0,0.875
+150,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","To cansada de brigar com a minha mae, dela nunca estar do meu lado.",-1.0,-1.0,2,2,0,2,0.75,1.0,0.875
+207,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Falei com meu ex.,1.0,1.0,2,2,0,2,0.75,1.0,0.875
+301,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","O meu namorado não tem estilo nenhum, me ajudem?",1.0,1.0,2,2,0,2,0.75,1.0,0.875
+334,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Quando contei a mamãe ela ficou assustada com medo do que eu ia achar e quis saber quem me contou e ,1.0,1.0,2,2,0,2,1.0,0.75,0.875
+337,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Estou criando essa página pra desabafar com meu próprio computador.,0.0,0.0,2,2,0,2,0.75,1.0,0.875
+348,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Em quantos motivos eu já pensei para ser a razão do meu sofrimento, e até hoje eu não havia encontra",0.0,0.0,2,2,0,2,0.75,1.0,0.875
+416,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Apesar de ser tarja vermelha, não vou poder usar ele mais do que dois meses, por causa da dependênci",1.0,1.0,2,2,0,2,1.0,0.75,0.875
+444,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ele chamava todos os garotos de quem eu falava ser um amigo, de idiota, ele não era um amigo chato, ",1.0,1.0,2,2,0,2,1.0,0.75,0.875
+474,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Oi Querido Diário, estava com saudades de você, não estava escrevendo muito aqui porque minhas féria",1.0,1.0,2,2,0,2,1.0,0.75,0.875
+509,"['RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Não posso me prender a amigos que sei que não estarão comigo como dizem que vão.,1.0,1.0,2,2,0,2,1.0,0.75,0.875
+541,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Casei cedo e acho que não foi uma boa escolha essa.,0.0,0.0,2,2,0,2,1.0,0.75,0.875
+579,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Acabamos nos beijando mais e mais, meus braços o abraçaram.",1.0,1.0,2,2,0,2,1.0,0.75,0.875
+592,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Bom tudo começou em Abril do ano passado quando minha mãe começou a namorar um homem que eu nem sei ,0.0,0.0,2,2,0,2,1.0,0.75,0.875
+693,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Minha insônia atingiu um nível crítico e finalmente eu resolvi ir para o psiquiatra pra ver o que el,0.0,0.0,2,2,0,2,0.75,1.0,0.875
+740,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Fechei a porta, a Helen me olhava assustada, não disse nada só me direcionei para o banheiro, liguei",-1.0,-1.0,2,2,0,2,1.0,0.75,0.875
+763,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Sou seletiva em minhas amizades.,0.0,0.0,2,2,0,2,0.75,1.0,0.875
+806,"['RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Esses últimos 3 meses do mês é o período que mais trabalhamos pois ganhamos por comissão.,1.0,1.0,2,2,0,2,1.0,0.75,0.875
+819,"['RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Por um lado vai ser bom porque não vou ter que escutar minha mãe gritando no trânsito, o que ja ajud",-1.0,-1.0,2,2,0,2,1.0,0.75,0.875
+847,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Odeio sentir preguiça, fico me culpando por não aproveitar o mundo quando fico sem fazer nada, mas n",1.0,1.0,2,2,0,2,1.0,0.75,0.875
+862,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu fico chateada, óbvio que não abala o meu namoro esses comentários ridículos, mas eu acho que o se",-1.0,-1.0,2,2,0,2,1.0,0.75,0.875
+901,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu e meu namorado agora, temos ficado bastante tempo juntos, e ainda temos aquele sonho de dormi jun",0.0,0.0,2,2,0,2,0.75,1.0,0.875
+941,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Ai ele me achou melhor e colocou na receita apenas um comprimido de fluoxetina.,-1.0,-1.0,2,2,0,2,1.0,0.75,0.875
+1077,"['RF', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Todos na sala, inclusive meu pai, se levantou, a preocupação era visível na cara de todos.",1.0,1.0,2,2,0,2,1.0,0.75,0.875
+1133,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Já fiz e sofri coisas que me fazem sentir um lixo, passei por situações que não se pode desejar nem ",-1.0,-1.0,2,2,0,2,1.0,0.75,0.875
+1147,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Como eu já havia quebrado a cara em um outro relacionamento (aliás, em quase todos) nem dei muita bo",1.0,1.0,2,2,0,2,0.75,1.0,0.875
+57,['RF'],['AMPLIFICACAO_BILATERAL'],A miserável vida do Paulo Anderson.,-1.0,-1.0,2,1,1,0,0.75,1.0,0.875
+62,['SVM'],['AMPLIFICACAO_BILATERAL'],"Ai ele começou a tentar brincar com a minha íntima, tentava por cima do short.",-1.0,-1.0,2,1,1,0,0.75,1.0,0.875
+72,['NB'],['AMPLIFICACAO_BILATERAL'],"Quando tento alertar as pessaoas mais proximas elas dizem que a tu es magra deves engordar e tal, ma",-1.0,-1.0,2,1,1,0,1.0,0.75,0.875
+132,['RF'],['AMPLIFICACAO_BILATERAL'],"Já não bastava o fato de ter um bandido em casa , ele não deixava mais minha mãe falar comigo ele nã",-1.0,-1.0,2,1,1,0,0.75,1.0,0.875
+279,['SVM'],['AMPLIFICACAO_BILATERAL'],Ele desliga o celular de madrugada e no outro dia diz que acabou a bateria.,0.0,0.0,2,1,1,0,1.0,0.75,0.875
+326,['NB'],['AMPLIFICACAO_BILATERAL'],Os amigos dele começaram a me odiar porque ele só queria ficar comigo.,1.0,1.0,2,1,1,0,1.0,0.75,0.875
+369,['NB'],['AMPLIFICACAO_BILATERAL'],"No entanto, estar sozinho é absolutamente o oposto de estar com alguém.",-1.0,-1.0,2,1,1,0,0.75,1.0,0.875
+399,['RF'],['AMPLIFICACAO_BILATERAL'],"Aos 14 anos, vi meus pais brigarem, varias vezes meu pai sair de casa, a meus discutirem comigo, e e",1.0,1.0,2,1,1,0,1.0,0.75,0.875
+519,['SVM'],['AMPLIFICACAO_BILATERAL'],"Ás vezes me vêem na cabeça que ninguém gosta de mim, minha mãe é um porre o único que se salva e que",0.0,0.0,2,1,1,0,0.75,1.0,0.875
+533,['RF'],['AMPLIFICACAO_BILATERAL'],Biluca não é um nome muito conhecido não.,-1.0,-1.0,2,1,1,0,1.0,0.75,0.875
+578,['RF'],['AMPLIFICACAO_BILATERAL'],"Meu anjinho da guarda que se chamava Douglas, além de lindo era meu melhor amigo!",0.0,0.0,2,1,1,0,1.0,0.75,0.875
+586,['SVM'],['AMPLIFICACAO_BILATERAL'],"Vontade de grudar em você e nunca mais desgrudar, sentir tuas mãos afagando meus cabelos e dizendo q",0.0,0.0,2,1,1,0,1.0,0.75,0.875
+600,['RF'],['AMPLIFICACAO_BILATERAL'],"Fico feliz por isso, porque fomos feitos para brilhar.",-1.0,-1.0,2,1,1,0,1.0,0.75,0.875
+618,['RF'],['AMPLIFICACAO_BILATERAL'],"Mas há algo nela que min incomodava muito, seu modo de ver a vida, era vulgar, pensava apenas em fes",1.0,1.0,2,1,1,0,1.0,0.75,0.875
+636,['RF'],['AMPLIFICACAO_BILATERAL'],"Era seminário, prova e trabalho tudo junto, eu tava pra ficar louca mesmo, ainda mais eu, que detest",0.0,0.0,2,1,1,0,0.75,1.0,0.875
+647,['RF'],['AMPLIFICACAO_BILATERAL'],"Por que não sou bonita, por que sou uma tonta, porque não sou do jeito que minha mãe quer que eu sej",1.0,1.0,2,1,1,0,1.0,0.75,0.875
+650,['RF'],['AMPLIFICACAO_BILATERAL'],"Na páscoa, lá estávamos nós, no mesmo ano, sozinhos em casa de novo.",1.0,1.0,2,1,1,0,1.0,0.75,0.875
+750,['NB'],['AMPLIFICACAO_BILATERAL'],"Tava cheio hoje e isso é um saco, demora mais.",1.0,1.0,2,1,1,0,1.0,0.75,0.875
+922,['RF'],['AMPLIFICACAO_BILATERAL'],"Coisas acontecem nos piores momentos, faz parte dessa longa viagem chamada vida.",0.0,0.0,2,1,1,0,0.75,1.0,0.875
+962,['NB'],['AMPLIFICACAO_BILATERAL'],Aproveitei que já tinha acordado e liguei pro meu namorado pois a gente ia se ver de novo.,0.0,0.0,2,1,1,0,1.0,0.75,0.875
+1008,['RF'],['AMPLIFICACAO_BILATERAL'],"Sinceramente, o amor não se escolhe, apenas acontece.",-1.0,-1.0,2,1,1,0,1.0,0.75,0.875
+1051,['RF'],['AMPLIFICACAO_BILATERAL'],"Boca macia, gulosa, quente, que vai tentar engolir ele todo e não vai conseguir, vai lambe-lo comple",1.0,1.0,2,1,1,0,1.0,0.75,0.875
+1093,['LR'],['AMPLIFICACAO_BILATERAL'],"E você merece amor melhor, você merece coisa melhor, um cara melhor.",-1.0,-1.0,2,1,1,0,1.0,0.75,0.875
+1126,['RF'],['AMPLIFICACAO_BILATERAL'],Meu carro que gostaria de comprar vai ter que esperar afinal não sabia que coisas para casa saiam tã,-1.0,-1.0,2,1,1,0,1.0,0.75,0.875
+1180,['LR'],['AMPLIFICACAO_BILATERAL'],"Num certo dia, brigamos e eu não aguentei e terminei",0.0,0.0,2,1,1,0,1.0,0.75,0.875
+177,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Eu gosto muito dela e sei que ela me ama.,1.0,1.0,2,2,0,2,0.75,0.75,0.75
+210,"['SVM', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Amor platônico que me enche a alma.,1.0,1.0,2,2,0,2,0.75,0.75,0.75
+225,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu te Amo e cada gesto seu vai ficar aqui dentro do meu coração pra lembrar do teu amor por nós, eu ",1.0,1.0,2,2,0,2,0.75,0.75,0.75
+310,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eles foram, eu entrei na sala, ele estava na frente do computador, quando eu coloquei a bolsa e um s",1.0,1.0,2,2,0,2,0.75,0.75,0.75
+345,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Então fiz o cabelo dela, fiz uma escova pra fora, pra combinar com o corte, aí ela veio dizendo que ",1.0,1.0,2,2,0,2,0.75,0.75,0.75
+432,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Tentei dormir na varanda , estava tão bom , sabe , olhando a lua.",1.0,1.0,2,2,0,2,0.75,0.75,0.75
+488,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Mas meu marido é Materialista, Mal Humorado, digo quase Bi POLAR, um bom pai sim, mas não um bom mar",1.0,1.0,2,2,0,2,0.75,0.75,0.75
+773,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Na hora que fui embora ele me deu um bombom, serenata de amor.",0.0,0.0,2,2,0,2,0.5,1.0,0.75
+888,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu já cansei de correr atrás de quem não merece, agora se quiser que venha atrás de mim , você sabe ",1.0,1.0,2,2,0,2,0.75,0.75,0.75
+959,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Eu já não aguento mais ouvir desaforo, piada, jogando na minha cara coisas que ele fez por mim, e po",0.0,0.0,2,2,0,2,0.75,0.75,0.75
+1053,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Esse garoto não é metido, é super gente boa, mas de uns tempos pra cá eu me apaixonei por ele.",0.0,0.0,2,2,0,2,0.75,0.75,0.75
+1137,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Ao sentir o gosto doce de uma bebida, será o meu beijo a te esquentar.",-1.0,-1.0,2,2,0,2,0.75,0.75,0.75
+1146,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']",Paixão é apenas uma coisa de momento e gostar é diferente de amar.,1.0,1.0,2,2,0,2,0.75,0.75,0.75
+1150,"['NB', 'RF']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Mas isso, a partir de hoje vai mudar, porque a partir de hoje eu vou empenhar-me ao máximo, e vou co",1.0,1.0,2,2,0,2,0.75,0.75,0.75
+1172,"['NB', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Como é pública, o nível é bem elevado.",1.0,1.0,2,2,0,2,0.75,0.75,0.75
+1195,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","O único que sabe a resposta é ELE, portanto, reflita sobre a sua vida e peça perdão pelos seus pecad",-1.0,-1.0,2,2,0,2,0.5,1.0,0.75
+47,['RF'],['AMPLIFICACAO_BILATERAL'],Voltei pra casa meu pai brigou comigo apenas a minha irmã entendeu o que eu estava sentindo eu chore,0.0,0.0,2,1,1,0,0.75,0.75,0.75
+193,['SVM'],['AMPLIFICACAO_BILATERAL'],"Pior que só tem ele lá no horário que vou, e eu fico sem graça com isso né?",1.0,1.0,2,1,1,0,0.75,0.75,0.75
+212,['RF'],['AMPLIFICACAO_BILATERAL'],"Eu peço a Deus que me de paciência, porque tudo é uma fase.",-1.0,-1.0,2,1,1,0,0.75,0.75,0.75
+223,['RF'],['AMPLIFICACAO_BILATERAL'],"Uma sensação de fracasso tomou conta de mim, tristeza, desânimo e um total desalento pela vida.",-1.0,-1.0,2,1,1,0,0.75,0.75,0.75
+325,['RF'],['AMPLIFICACAO_BILATERAL'],"Mas tivemos um namoro perfeito, era de dar inveja a todos.",0.0,0.0,2,1,1,0,0.75,0.75,0.75
+374,['NB'],['AMPLIFICACAO_BILATERAL'],Não to aguentando mais segurar isso comigo.,0.0,0.0,2,1,1,0,1.0,0.5,0.75
+453,['NB'],['AMPLIFICACAO_BILATERAL'],"Quando estamos apaixonadas, dentro de nós a uma confusão de sentimentos que ficamos perdidos.",-1.0,-1.0,2,1,1,0,0.75,0.75,0.75
+482,['LR'],['AMPLIFICACAO_BILATERAL'],"Vai tomar no cú pra quem não gosta de mim, você acha que eu dependo da tua amizade?",-1.0,-1.0,2,1,1,0,0.75,0.75,0.75
+523,['RF'],['AMPLIFICACAO_BILATERAL'],"Se precisar, me procure; se sentir saudades, ligue; se estiver com algum problema, conte comigo; e s",1.0,1.0,2,1,1,0,0.75,0.75,0.75
+573,['RF'],['AMPLIFICACAO_BILATERAL'],Hoje foi um dia de tantas surpresas e alegria não sei bem como dizer é que ainda não estou acreditan,1.0,1.0,2,1,1,0,0.75,0.75,0.75
+699,['RF'],['AMPLIFICACAO_BILATERAL'],"Eu, uma amiga e a família dele, que família maravilhosa, todos brincalhões, unidos, amorosos.",1.0,1.0,2,1,1,0,0.75,0.75,0.75
+752,['RF'],['AMPLIFICACAO_BILATERAL'],"E me lembro também, como você conseguia aplacar a minha dor.",0.0,0.0,2,1,1,0,0.75,0.75,0.75
+804,['RF'],['AMPLIFICACAO_BILATERAL'],Te amo muito meu Pai!,0.0,0.0,2,1,1,0,0.75,0.75,0.75
+821,['NB'],['AMPLIFICACAO_BILATERAL'],Eu peguei achando que fosse aqueles livros de criancinhas que falam : Querido diário.. Hoje eu apren,0.0,0.0,2,1,1,0,0.75,0.75,0.75
+856,['RF'],['AMPLIFICACAO_BILATERAL'],"Ele insinuou que eu poderia estar grávida, eu disse que isso, nem pensar, pois eu tomava anticoncepc",0.0,0.0,2,1,1,0,0.75,0.75,0.75
+869,['RF'],['AMPLIFICACAO_BILATERAL'],"Passamos uns 20 minutos conversando antes do filme começar e o papo estava bom, ela sorria, me tocav",0.0,0.0,2,1,1,0,0.75,0.75,0.75
+915,['SVM'],['AMPLIFICACAO_BILATERAL'],"Gostoso, quentinho, agradável.",0.0,0.0,2,1,1,0,0.75,0.75,0.75
+935,['NB'],['AMPLIFICACAO_BILATERAL'],"Queria esquecer a luz dos teus olhos, pois assim eu não sentiria saudades deles, queria esquecer o t",0.0,0.0,2,1,1,0,0.75,0.75,0.75
+951,['LR'],['AMPLIFICACAO_BILATERAL'],"Quando uma pétala tocar o seu rosto, será minha mão deslizando pelo seu corpo.",0.0,0.0,2,1,1,0,0.5,1.0,0.75
+990,['LR'],['AMPLIFICACAO_BILATERAL'],"Bom continuando, nós sempre marcávamos um cineminha básico.",1.0,1.0,2,1,1,0,1.0,0.5,0.75
+1002,['NB'],['AMPLIFICACAO_BILATERAL'],Já estávamos namorando há 2 meses.,-1.0,-1.0,2,1,1,0,1.0,0.5,0.75
+1070,['RF'],['AMPLIFICACAO_BILATERAL'],"Vim pra cá depois que a luz voltou, fiquei olhando a foto dele que tenho.",-1.0,-1.0,2,1,1,0,0.75,0.75,0.75
+1081,['RF'],['AMPLIFICACAO_BILATERAL'],"Já falei algumas coisas pra ela, mas é complicado falar do namorado alheio né?",0.0,0.0,2,1,1,0,0.75,0.75,0.75
+1085,['RF'],['AMPLIFICACAO_BILATERAL'],"Eu já vinha recebendo vários sinais de que não era ele, mas não tinha percebido, e só agora depois d",-1.0,-1.0,2,1,1,0,0.75,0.75,0.75
+1149,['RF'],['AMPLIFICACAO_BILATERAL'],Às vezes tenho a sensação de que os animais são ligeiramente mais dotados de inteligência do que nós,1.0,1.0,2,1,1,0,0.75,0.75,0.75
+463,"['SVM', 'LR']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Mas uma coisa é certa, te amo muito e mesmo querendo te esquecer, te amo cada vez mais, hoje mais do",1.0,1.0,2,2,0,2,0.5,0.75,0.625
+1012,"['SVM', 'NB']","['AMPLIFICACAO_UNILATERAL', 'AMPLIFICACAO_UNILATERAL']","Mas infelizmente não tenho ela, e continuo viva, então tenho que viver, mesmo sem ela.",-1.0,-1.0,2,2,0,2,0.75,0.5,0.625
+68,['RF'],['AMPLIFICACAO_BILATERAL'],"E pode ter certeza, mãe, vou lhe dá muito orgulho.",0.0,0.0,2,1,1,0,0.5,0.75,0.625
+94,['NB'],['AMPLIFICACAO_BILATERAL'],Grito dezenas de vezes durante o dia.,0.0,0.0,2,1,1,0,0.5,0.75,0.625
+101,['NB'],['AMPLIFICACAO_BILATERAL'],"Meus sentidos de garota diziam que tinha alguma coisa errada, entao pedir para o lucar e o victor vo",0.0,0.0,2,1,1,0,0.75,0.5,0.625
+119,['RF'],['AMPLIFICACAO_BILATERAL'],Depois ela me abraçou e disse que todos nós temos nosso tempo de vida e que ninguém pode saber o seu,0.0,0.0,2,1,1,0,0.5,0.75,0.625
+152,['RF'],['AMPLIFICACAO_BILATERAL'],"A verdade dói, sempre doeu",-1.0,-1.0,2,1,1,0,0.5,0.75,0.625
+593,['SVM'],['AMPLIFICACAO_BILATERAL'],"E vou provar a todos que, tal como todas as outras raparigas, eu também consigo ter um corpo atlétic",-1.0,-1.0,2,1,1,0,0.75,0.5,0.625
+111,['SVM'],['AMPLIFICACAO_BILATERAL'],"Joguei os móveis, os pôsteres, a cor, joguei fora tudo aquilo que não precisava.",1.0,1.0,2,1,1,0,0.5,0.5,0.5
+10,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Passando então esses 3 horários, chegou o intervalo, encontrei de novo meu namorado, descemos juntos",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+12,['RF'],['AMPLIFICACAO_UNILATERAL'],"Tudo que eu quero é ficar sozinha, apagar a luz do quarto e esperar o tempo passar, esperando que a ",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+20,['RF'],['AMPLIFICACAO_UNILATERAL'],"Ela namora há quase 4 anos, já terminou uma vez, mas por pouco tempo.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+49,['RF'],['AMPLIFICACAO_UNILATERAL'],"Hoje eu fui na biblioteca da escola, na hora da aula de Educação Física, e peguei um livro.",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+58,['RF'],['AMPLIFICACAO_UNILATERAL'],"Mesmo assim, naquela hora te procurei.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+76,['RF'],['AMPLIFICACAO_UNILATERAL'],Ele me ameaçou disse que iria me matar.,1.0,1.0,1,1,0,1,1.0,1.0,1.0
+258,['RF'],['AMPLIFICACAO_UNILATERAL'],"Depois disso ficávamos de vez em quando, escondidos, para ninguém mais atrapalhar.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+265,['RF'],['AMPLIFICACAO_UNILATERAL'],"Ele conversava virado para mim com a mão no encosto do meu banco e, estranhamente comecei a sentir b",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+311,['RF'],['AMPLIFICACAO_UNILATERAL'],"Apaixonada pelas coisas simples que o mundo oferece como a mata, a chuva, o sol, a lua, o orvalho da",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+319,['RF'],['AMPLIFICACAO_UNILATERAL'],Ele puxou assunto comigo e parou de me chamar pelo meu nome e começou a me chamar pelo o meu apelido,0.0,0.0,1,1,0,1,1.0,1.0,1.0
+352,['RF'],['AMPLIFICACAO_UNILATERAL'],Mas acho que é porque estou chegando na adolescência e todos ficam assim nessa fase da vida.,-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+357,['RF'],['AMPLIFICACAO_UNILATERAL'],"E quando aquela pessoa chega perto à gente estremece a mão soa, o coração acelera, o nosso mundo fic",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+380,['RF'],['AMPLIFICACAO_UNILATERAL'],"Minha mãe ligava falando um monte, que eu era uma irresponsável e que as coisas não poderiam ficar a",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+388,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Eu me sinto tão sozinha e tão ferida por dentro, meu coração esta quebrado está transparecido no meu",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+389,['LR'],['AMPLIFICACAO_UNILATERAL'],"Hoje estou muito tranquilo, muito mesmo.",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+411,['RF'],['AMPLIFICACAO_UNILATERAL'],Mas ela é muito especial ela é a minha melhor amiga.,-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+449,['RF'],['AMPLIFICACAO_UNILATERAL'],"Estou aqui para compartilhar minha triste vida, mais especificamente minha triste vida como viciado ",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+451,['RF'],['AMPLIFICACAO_UNILATERAL'],"E por esperar demais, sonhar demais, criar expectativas demais, sempre acabamos nos decepcionando e ",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+469,['LR'],['AMPLIFICACAO_UNILATERAL'],Quando a bibliotecária foi entregar o livro quase morre de vergonha por ter pego aquele livro.,1.0,1.0,1,1,0,1,1.0,1.0,1.0
+494,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Meu dia foi bom, acordei cedo, ajudei minhas mãe e meu pai a arrumarem minha festinha, busquei minha",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+538,['LR'],['AMPLIFICACAO_UNILATERAL'],"Ele foi meu professor de Geografia do 3ºano, só que ele deu aula de agosto até dezembro .",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+597,['RF'],['AMPLIFICACAO_UNILATERAL'],"Ai a chorona aqui passou a noite chorando, até ficar de olhos inchados.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+611,['NB'],['AMPLIFICACAO_UNILATERAL'],odo mundo fica falando que eu vou passar mas eu sei que não.,-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+620,['RF'],['AMPLIFICACAO_UNILATERAL'],Posso tentar parar o vento ou sentar na brisa da primavera posso tentar parar o sol ou fazer com que,1.0,1.0,1,1,0,1,1.0,1.0,1.0
+639,['RF'],['AMPLIFICACAO_UNILATERAL'],"Ela me recorda tantas coisas lindas, é como se ela fosse cúmplice dos amantes, dos apaixonados e às ",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+774,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Então é isso, fico por aqui, hoje estou muito feliz e com saudade dele já, a gente é grudento do nos",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+782,['RF'],['AMPLIFICACAO_UNILATERAL'],"Sempre foi considerada pelos parentes um nada, não tinha dinheiro, era doente e muito infeliz.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+810,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Não tenho mais aquela aparência tão jovem, mas o meu coração ainda é o mesmo que te amou, que te deu",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+835,['RF'],['AMPLIFICACAO_UNILATERAL'],"Nunca passei fome e nem tive doença, agradeço a Deus por ter meus dois olhos,",0.0,0.0,1,1,0,1,1.0,1.0,1.0
+846,['SVM'],['AMPLIFICACAO_UNILATERAL'],"No sábado, dia 28 de julho, foi um sábado maravilhoso.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+853,['RF'],['AMPLIFICACAO_UNILATERAL'],Antes de te conhecer eu tinha muitos amigos.,1.0,1.0,1,1,0,1,1.0,1.0,1.0
+857,['RF'],['AMPLIFICACAO_UNILATERAL'],"Ele, como eu previa, não tinha camisinha, e eu me recusei a transar daquele jeito.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+865,['SVM'],['AMPLIFICACAO_UNILATERAL'],Ela não pode entrar na internet quando ele tá na casa dela (a não ser BEM RÁPIDO) pq tem que estar o,1.0,1.0,1,1,0,1,1.0,1.0,1.0
+912,['SVM'],['AMPLIFICACAO_UNILATERAL'],Descobri com minha mãe que meu padrasto estava traindo ela.,0.0,0.0,1,1,0,1,1.0,1.0,1.0
+914,['RF'],['AMPLIFICACAO_UNILATERAL'],"Já tinha amado alguém que nunca me amou, fiz de tudo pela minha ex, e de um dia para o outro ela me ",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+940,['RF'],['AMPLIFICACAO_UNILATERAL'],"Se ele puxar assunto quer dizer que ele gosta de falar com você, mas se caso você puxa assunto, e el",0.0,0.0,1,1,0,1,1.0,1.0,1.0
+955,['RF'],['AMPLIFICACAO_UNILATERAL'],"Algo gostoso, muito gostoso estava beijando pela primeira vez e foi muito bom pra mim.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+964,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Ao voltar para casa da minha mãe com 13 anos, minha irmã mais velha estava em uma vida de drogas e d",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+966,['NB'],['AMPLIFICACAO_UNILATERAL'],É acreditar num mundo melhor.,-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+1003,['LR'],['AMPLIFICACAO_UNILATERAL'],"Bem, eu não aguento mais essa ansiedade.",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+1015,['RF'],['AMPLIFICACAO_UNILATERAL'],Quando o cara tá interessado em mim as vezes eu não tô interessada no cara ou todo mundo ta interess,1.0,1.0,1,1,0,1,1.0,1.0,1.0
+1018,['LR'],['AMPLIFICACAO_UNILATERAL'],Eu não sabia o que fazer!,1.0,1.0,1,1,0,1,1.0,1.0,1.0
+1019,['RF'],['AMPLIFICACAO_UNILATERAL'],"Meu nome é Edvania Lemos, eu sou casada e tenho um filho de 12 anos de idade.",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+1027,['RF'],['AMPLIFICACAO_UNILATERAL'],"Acordei com Helen me olhando, sabia que ela também não estava bem, mas naquele momento era a única p",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+1045,['SVM'],['AMPLIFICACAO_UNILATERAL'],"A gente conversou e logo eu familiarizei com ela, achei que não teria coragem de contar os meus prob",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+1086,['RF'],['AMPLIFICACAO_UNILATERAL'],"Mas foi tranquilo. Deitei e dormi feito um bebê, das duas vezes que eu tomei.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+1115,['RF'],['AMPLIFICACAO_UNILATERAL'],"Parece que sempre sigo o caminho mais complicado, estou cansada de ser tudo tao dramático.",1.0,1.0,1,1,0,1,1.0,1.0,1.0
+1124,['NB'],['AMPLIFICACAO_UNILATERAL'],"Mas, o maior deles, é o ódio.",0.0,0.0,1,1,0,1,1.0,1.0,1.0
+1159,['RF'],['AMPLIFICACAO_UNILATERAL'],"Que vontade de voltar no tempo, ter você do meu lado, com seu olhar iluminado.",-1.0,-1.0,1,1,0,1,1.0,1.0,1.0
+70,['SVM'],['AMPLIFICACAO_UNILATERAL'],Na minha vida amorosa tudo é uma GRANDE merda.,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+75,['RF'],['AMPLIFICACAO_UNILATERAL'],Você me faz bem e eu sinto que sou amada verdadeiramente.,-1.0,-1.0,1,1,0,1,0.75,1.0,0.875
+88,['NB'],['AMPLIFICACAO_UNILATERAL'],"Não ouso jogar nada daquilo fora, por que é o que me resta de ti, não é?",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+120,['SVM'],['AMPLIFICACAO_UNILATERAL'],Resolvi cortar minha franja.,0.0,0.0,1,1,0,1,0.75,1.0,0.875
+129,['SVM'],['AMPLIFICACAO_UNILATERAL'],Minha vida é um sofrimento interno e eterno.,-1.0,-1.0,1,1,0,1,0.75,1.0,0.875
+131,['NB'],['AMPLIFICACAO_UNILATERAL'],"Eu te conheço como ninguém, o teu coração está aqui na minha mão, eu posso sentir os batimentos.",1.0,1.0,1,1,0,1,0.75,1.0,0.875
+159,['NB'],['AMPLIFICACAO_UNILATERAL'],Porém o medo de você se distanciar de mim é maior que tudo.,-1.0,-1.0,1,1,0,1,0.75,1.0,0.875
+187,['RF'],['AMPLIFICACAO_UNILATERAL'],"Até cheirar cola já pensei em fazer, na verdade foi uma coisa mais simbólica do meu desespero, sabia",-1.0,-1.0,1,1,0,1,0.75,1.0,0.875
+216,['RF'],['AMPLIFICACAO_UNILATERAL'],"Me sinto segura perto dele, ele é um fofo e me faz sentir super bem, amo pegar nos seus cabelos , am",0.0,0.0,1,1,0,1,0.75,1.0,0.875
+315,['RF'],['AMPLIFICACAO_UNILATERAL'],E cortou a minha franja no meio da testa e torta.,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+368,['LR'],['AMPLIFICACAO_UNILATERAL'],Perdão por eu não ter crescido da maneira e nem do modo que você esperava.,0.0,0.0,1,1,0,1,0.75,1.0,0.875
+391,['RF'],['AMPLIFICACAO_UNILATERAL'],Gente gostaria de desabafar com vocês minha historia com minha família.,-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+405,['RF'],['AMPLIFICACAO_UNILATERAL'],"Que seja eterno enquanto dure, e que dure para sempre.",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+408,['NB'],['AMPLIFICACAO_UNILATERAL'],"Quando acordei ele me abraçou, me beijou me chamando de preguiçosa e falou te amo  Ele é lindo demai",-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+414,['RF'],['AMPLIFICACAO_UNILATERAL'],Aí ele disse que a gente fazia outro dia.,-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+422,['LR'],['AMPLIFICACAO_UNILATERAL'],Quando somos jovens e nos apaixonamos vemos tudo de um modo fantasioso e cheio de coisas boas e entã,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+425,['NB'],['AMPLIFICACAO_UNILATERAL'],Ando muito estressada ultimamente.,-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+428,['SVM'],['AMPLIFICACAO_UNILATERAL'],"O antidepressivo tem sua parcela de contribuição, mas não é só ele.",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+483,['RF'],['AMPLIFICACAO_UNILATERAL'],"Ele provavelmente vai falar comigo, pelo facebook.",-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+511,['LR'],['AMPLIFICACAO_UNILATERAL'],"Fui muito infantil, o pior que continuo sendo, não sou mais uma garotinha, poxa sou uma mulher, tem ",-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+517,['RF'],['AMPLIFICACAO_UNILATERAL'],Estou ansiosa a te esperar.,-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+543,['LR'],['AMPLIFICACAO_UNILATERAL'],"Conversamos sobre um futuro , mais tão presente em nós , casamento , sobre ver algumas casas , nos i",0.0,0.0,1,1,0,1,1.0,0.75,0.875
+544,['RF'],['AMPLIFICACAO_UNILATERAL'],"Me desculpe, mas eu nunca serei perfeita e isso, acredite, dói mais em mim do que em você.",-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+565,['RF'],['AMPLIFICACAO_UNILATERAL'],"Entrei no banheiro e fui tirando minha roupa, olhando nos olhos dela perguntei se eu podia entrar, b",-1.0,-1.0,1,1,0,1,0.75,1.0,0.875
+575,['RF'],['AMPLIFICACAO_UNILATERAL'],Nós possuímos o ingrediente básico que tudo sustentará e que tão poucos tem o privilegio de ter: o A,-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+588,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Eu decidi aceitar, porque eu estava terrível mesmo ( ainda to, mas pelo menos agora que eu entrei de",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+614,['RF'],['AMPLIFICACAO_UNILATERAL'],Agora estou aqui com meus cartões todos tendo que ser parcelados (vou pagar o triplo do valor por co,-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+631,['RF'],['AMPLIFICACAO_UNILATERAL'],"E assim passou mais um mês, não comia, não vivia, vegetava, e ao final do dia vomitava, a Helen se t",1.0,1.0,1,1,0,1,0.75,1.0,0.875
+634,['NB'],['AMPLIFICACAO_UNILATERAL'],"Hoje cheguei lá era umas 7 horas, ele veio sorridente disse as coisas que tinha que fazer, e de apar",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+655,['RF'],['AMPLIFICACAO_UNILATERAL'],"O ponteiro das seis bateu, e o táxi estava a me esperar, entrei dentro de casa novamente, esperando ",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+692,['RF'],['AMPLIFICACAO_UNILATERAL'],Fala de uma quase adolescente (quase porque ela ainda ta se formando e tals) meu Deus.,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+701,['NB'],['AMPLIFICACAO_UNILATERAL'],Ultimamente meus instintos de sexo e agressividade andam muito aflorados.,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+765,['RF'],['AMPLIFICACAO_UNILATERAL'],"Ainda passo todos os natais de lá pra frente sozinha, e páscoas também.",1.0,1.0,1,1,0,1,0.75,1.0,0.875
+778,['RF'],['AMPLIFICACAO_UNILATERAL'],"Meu namorado não parece ser tão mais velho do que eu não, mas isso me chateia, porque o amor não dep",0.0,0.0,1,1,0,1,1.0,0.75,0.875
+784,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Conheci um amigo da minha irmã esses dias, ele tem 17 anos e pelo que percebi, é bem galinha, resolv",-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+798,['RF'],['AMPLIFICACAO_UNILATERAL'],"Oi querido diário, mais uma vez estou aqui me sentindo uma merda e a culpa é toda minha!",-1.0,-1.0,1,1,0,1,0.75,1.0,0.875
+809,['LR'],['AMPLIFICACAO_UNILATERAL'],Tipo tudo estava muito bem muito legal,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+849,['SVM'],['AMPLIFICACAO_UNILATERAL'],Eu não consigo ver uma loira gostosa na minha frente que eu já me excito!,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+913,['RF'],['AMPLIFICACAO_UNILATERAL'],"Mas também não adianta tu querer colocar um decote, e um short enfiado no cú , garotas desse tipo só",-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+937,['RF'],['AMPLIFICACAO_UNILATERAL'],Assim que subir a Erika vai te olhar com aqueles olhos de reprovação.,-1.0,-1.0,1,1,0,1,0.75,1.0,0.875
+969,['RF'],['AMPLIFICACAO_UNILATERAL'],E deixar alguém feliz vale mais do que saber da minha vida.,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+979,['RF'],['AMPLIFICACAO_UNILATERAL'],Mas tem hora que parece que vou explodir de tanto amor.,0.0,0.0,1,1,0,1,0.75,1.0,0.875
+981,['RF'],['AMPLIFICACAO_UNILATERAL'],O pensamento ' eu quero me matar' aparece com muita frequência.,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+984,['RF'],['AMPLIFICACAO_UNILATERAL'],"Depois de um tempo, deitamos no sofá (já era de tarde) pois ele queria ver o tal jogo que ia passar ",0.0,0.0,1,1,0,1,1.0,0.75,0.875
+994,['RF'],['AMPLIFICACAO_UNILATERAL'],"Pois é com ele que eu respiro, que eu sonho, e nele que guardo minhas alegrias.",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+995,['RF'],['AMPLIFICACAO_UNILATERAL'],Talvez do jeito que eu e minhas amigas fazemos esteja errado porém parece ser real.,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+996,['RF'],['AMPLIFICACAO_UNILATERAL'],"Confesso que fiquei muito chateada com isso, pois eu nunca deixei de lembrar dele nesses 10 meses de",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+1009,['RF'],['AMPLIFICACAO_UNILATERAL'],Foi um susto para muita gente.,-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+1037,['LR'],['AMPLIFICACAO_UNILATERAL'],"Dentro desse tempo(que não é curto), tive momentos bons e ruins(mais ruins) e parece que não consigo",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+1047,['NB'],['AMPLIFICACAO_UNILATERAL'],"Zootecnistas são profissionais responsáveis pelo estudo e controle da reprodução, aprimoramento gené",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+1061,['RF'],['AMPLIFICACAO_UNILATERAL'],"Quando o sangue esvair do seu corpo, será meu amor indo junto de ti.",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+1068,['RF'],['AMPLIFICACAO_UNILATERAL'],Senti um choque e um calor pelo corpo todo por essa situação inusitada.,1.0,1.0,1,1,0,1,1.0,0.75,0.875
+1083,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Sorte que ELE (namorado) me ligou , o tempo passou bem rápido, conversamos a beça , estamos bem agor",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+1087,['SVM'],['AMPLIFICACAO_UNILATERAL'],Pelo menos as matérias da faculdade vão ser mais legaizinhas e mais a ver com o curso.,-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+1110,['NB'],['AMPLIFICACAO_UNILATERAL'],"E quando finalmente cruzar a estrada, verás o caminho que te aguarda e o seu grande amor a lhe esper",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+1128,['RF'],['AMPLIFICACAO_UNILATERAL'],"Saímos da fabrica, e fomos ao lugar próximo com poucas estrelas, mas viável, chegando no quarto um s",-1.0,-1.0,1,1,0,1,0.75,1.0,0.875
+1169,['RF'],['AMPLIFICACAO_UNILATERAL'],"Meu avô , me ensinando o dever de casa e tentando arrancar meu dente mole.",1.0,1.0,1,1,0,1,1.0,0.75,0.875
+1170,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Depois de um tempo, estava eu dançando alegremente, como se nada estivesse acontecido.",-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+1175,['RF'],['AMPLIFICACAO_UNILATERAL'],"Romance é por tempo indeterminado, enquanto o lance tem tempos contados.",1.0,1.0,1,1,0,1,0.75,1.0,0.875
+1206,['RF'],['AMPLIFICACAO_UNILATERAL'],"Quando ele deixa claro que NÃO GOSTA DE TI, você chora ou/e fica triste por alguns dias, mas depois ",-1.0,-1.0,1,1,0,1,1.0,0.75,0.875
+107,['RF'],['AMPLIFICACAO_UNILATERAL'],"Pois é, eu não, eu nunca vou te abandonar, eu nunca canso de você, eu nunca quero o teu mal, eu só q",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+143,['RF'],['AMPLIFICACAO_UNILATERAL'],"Bem quando o meu filho fez 5 meses eu conheci um amigo da minha irmã, a principio foi uma amizade ma",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+174,['RF'],['AMPLIFICACAO_UNILATERAL'],"Gente eu sempre ando bem arrumada, cheirosa, maquiada do lado do meu namorado, nunca fiz ele passar ",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+181,['RF'],['AMPLIFICACAO_UNILATERAL'],"Ele de imediato assumiu a mim e ao meu filho que ainda era um bebê, e foi tudo perfeito!",1.0,1.0,1,1,0,1,0.5,1.0,0.75
+195,['RF'],['AMPLIFICACAO_UNILATERAL'],Hoje meu amigo (Luciano) me fez passar um mega mico.,0.0,0.0,1,1,0,1,0.75,0.75,0.75
+232,['NB'],['AMPLIFICACAO_UNILATERAL'],"Tipo, semana passada eu fiz o cabelo dela, pois eu faço curso de cabeleireiro, então tenho que trein",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+241,['RF'],['AMPLIFICACAO_UNILATERAL'],"Quando achei que teria paz, meus irmãos mais velhos eram muito agressivos, eles batiam por qualquer ",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+243,['NB'],['AMPLIFICACAO_UNILATERAL'],Atitude de uma tola apaixonada.,1.0,1.0,1,1,0,1,0.75,0.75,0.75
+249,['RF'],['AMPLIFICACAO_UNILATERAL'],"PUTA QUE PARIU DE NOVO, ela foi chamada na diretoria, deu os nomes de todo mundo que estava no jogo,",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+278,['RF'],['AMPLIFICACAO_UNILATERAL'],Sim sou uma patricinha !,0.0,0.0,1,1,0,1,0.75,0.75,0.75
+290,['RF'],['AMPLIFICACAO_UNILATERAL'],"Pode ser que nos vejamos amanhã, pode ser que só nos encontremos daqui a um ano, pode ser até que o ",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+296,['SVM'],['AMPLIFICACAO_UNILATERAL'],Hoje eu acordei e vi seu lado da cama vazio.,-1.0,-1.0,1,1,0,1,0.75,0.75,0.75
+331,['RF'],['AMPLIFICACAO_UNILATERAL'],"O nosso coração é sempre a vitima, sempre fica em pedaços.",0.0,0.0,1,1,0,1,0.75,0.75,0.75
+434,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Foi eu, minha irmã, namorado, pai e mãe.",0.0,0.0,1,1,0,1,0.75,0.75,0.75
+484,['RF'],['AMPLIFICACAO_UNILATERAL'],"Há 5 anos perdi meu motivo, minha esperança, perdi minha vontade de viver.",0.0,0.0,1,1,0,1,0.75,0.75,0.75
+628,['LR'],['AMPLIFICACAO_UNILATERAL'],Sonho com você a noite inteira e me sinto aflita e insegura por não saber se um dia vou transformar ,1.0,1.0,1,1,0,1,0.75,0.75,0.75
+651,['RF'],['AMPLIFICACAO_UNILATERAL'],"Mas eu ainda assim, sei que se eu simplesmente fosse brincar com você, como sempre, você esqueceria ",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+652,['RF'],['AMPLIFICACAO_UNILATERAL'],"Correr pela rua, voltar pra casa toda suja de terra, brincadeiras de pique-esconde , policia e ladrã",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+662,['RF'],['AMPLIFICACAO_UNILATERAL'],"De verdade, eu não tenho ânimo pra me arrumar, pra cuidar de mim, os pensamentos ruins tomam conta d",1.0,1.0,1,1,0,1,1.0,0.5,0.75
+670,['RF'],['AMPLIFICACAO_UNILATERAL'],TODA VEZ QUE MEU CUNHADO VEM EM CASA ELE DÁ UM GEITO DE FICAR SOZINHO COMIGO.,1.0,1.0,1,1,0,1,0.75,0.75,0.75
+697,['RF'],['AMPLIFICACAO_UNILATERAL'],Brincar de golzinho com meu irmão mais velho .,1.0,1.0,1,1,0,1,0.75,0.75,0.75
+715,['RF'],['AMPLIFICACAO_UNILATERAL'],Marcamos e lá estava ela me esperando no estacionamento.,-1.0,-1.0,1,1,0,1,0.75,0.75,0.75
+744,['RF'],['AMPLIFICACAO_UNILATERAL'],A minha mãe disse que estou muito rebelde!,-1.0,-1.0,1,1,0,1,0.75,0.75,0.75
+870,['RF'],['AMPLIFICACAO_UNILATERAL'],"Sinto minha vida tão bagunçada, vejo meus sonhos morrendo, minha vida tomar direção contrária aquilo",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+930,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Isso aconteceu na noite de 4º feira, e no domingo estava fazendo o almoço e meu marido estava vendo ",-1.0,-1.0,1,1,0,1,0.75,0.75,0.75
+952,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Já basta, não aguentando mais, eu discuti com minha tia hoje com minha mãe e estou chorando e parece",0.0,0.0,1,1,0,1,0.75,0.75,0.75
+968,['NB'],['AMPLIFICACAO_UNILATERAL'],Brincar de comidinha com as vizinhas !,1.0,1.0,1,1,0,1,0.75,0.75,0.75
+1043,['SVM'],['AMPLIFICACAO_UNILATERAL'],"Sou forte, madura, e aprendo com meus erros.",-1.0,-1.0,1,1,0,1,1.0,0.5,0.75
+1054,['RF'],['AMPLIFICACAO_UNILATERAL'],"Me sinto fraca pra lutar por tudo o que eu quero, e as pessoas sempre nos decepcionando.",-1.0,-1.0,1,1,0,1,0.75,0.75,0.75
+1138,['RF'],['AMPLIFICACAO_UNILATERAL'],"Estava morrendo de vontade de chorar, então eu segurei as lagrimas e disse pra ele que eu não podia ",1.0,1.0,1,1,0,1,0.75,0.75,0.75
+100,['RF'],['AMPLIFICACAO_UNILATERAL'],"Nesse momento to evitando ela, e ta me dando um aperto, no coração, mas tenho que fazer isso, não te",-1.0,-1.0,1,1,0,1,0.5,0.75,0.625
+117,['RF'],['AMPLIFICACAO_UNILATERAL'],Já comecei mal o dia.,-1.0,-1.0,1,1,0,1,0.5,0.75,0.625
+169,['LR'],['AMPLIFICACAO_UNILATERAL'],Seria maldade faltar pra um enquanto eu tenho e só não dou por que sou apegada aquilo.,0.0,0.0,1,1,0,1,0.5,0.75,0.625
+209,['RF'],['AMPLIFICACAO_UNILATERAL'],Presta atenção nas músicas que escuto e nas coisas que eu posto.,-1.0,-1.0,1,1,0,1,0.5,0.75,0.625
+292,['RF'],['AMPLIFICACAO_UNILATERAL'],"A senhora ainda brincava, fazia a gente sorrir e sempre que alguém dizia, como vai dona Maria?",-1.0,-1.0,1,1,0,1,0.5,0.75,0.625
+421,['NB'],['AMPLIFICACAO_UNILATERAL'],Era um belo trabalho.,0.0,0.0,1,1,0,1,0.5,0.75,0.625
+468,['RF'],['AMPLIFICACAO_UNILATERAL'],"Mas também tive uma alegria enorme fiz uma nova amiga, alguém que me pareceu ser muito especial e qu",0.0,0.0,1,1,0,1,0.5,0.75,0.625
+487,['NB'],['AMPLIFICACAO_UNILATERAL'],Amizades de escola eram verdadeiras.,-1.0,-1.0,1,1,0,1,0.75,0.5,0.625
+503,['RF'],['AMPLIFICACAO_UNILATERAL'],Me imagino visitando minha família nos fim de semanas e ouvindo as besteiras que meu pai fala e semp,1.0,1.0,1,1,0,1,0.75,0.5,0.625
+675,['RF'],['AMPLIFICACAO_UNILATERAL'],"já magoei minha esposa de tantas formas, que sequer tenho coragem de ligar para ela, mesmo achando q",1.0,1.0,1,1,0,1,0.75,0.5,0.625
+758,['NB'],['AMPLIFICACAO_UNILATERAL'],"Pois bem, eu vi ele, ele me viu, mas não falou comigo.",-1.0,-1.0,1,1,0,1,0.75,0.5,0.625
+989,['RF'],['AMPLIFICACAO_UNILATERAL'],Nunca devemos esquecer de que somos nós os arquiteto do nosso próprio destino cada um tem o seu livr,-1.0,-1.0,1,1,0,1,0.5,0.75,0.625
+1080,['SVM'],['AMPLIFICACAO_UNILATERAL'],"No dia estabelecido, à frente da tenda do feiticeiro, os dois esperavam com as aves dentro de um sac",1.0,1.0,1,1,0,1,0.5,0.75,0.625
+1118,['RF'],['AMPLIFICACAO_UNILATERAL'],"Quando um brisa acariciar sua pele, será meu suspiro a passar.",1.0,1.0,1,1,0,1,0.5,0.75,0.625
+1171,['LR'],['AMPLIFICACAO_UNILATERAL'],"Me perdoa, eu cometi erros imperdoáveis, assim como já perdoei, eu cometi deslizes exagerados, e não",1.0,1.0,1,1,0,1,0.5,0.75,0.625
+164,['NB'],['AMPLIFICACAO_UNILATERAL'],"Então, resolvem fazer um pacto, o pacto da cinderela, onde prometem umas ás outras que vão fazer tud",0.0,0.0,1,1,0,1,0.5,0.5,0.5
+277,['SVM'],['AMPLIFICACAO_UNILATERAL'],Tudo que é diferente incomoda o igual.,-1.0,-1.0,1,1,0,1,0.5,0.5,0.5
+702,['NB'],['AMPLIFICACAO_UNILATERAL'],Foi a coisa mais linda a formatura dessa minha afilhada.,1.0,1.0,1,1,0,1,0.5,0.5,0.5
