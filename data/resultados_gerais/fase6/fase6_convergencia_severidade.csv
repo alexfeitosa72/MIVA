@@ -1,0 +1,5 @@
+estudo,severidade,n,pct
+A_empirico_MQD1465,Severa,4,100.0
+B_sintetico_controlado,Leve,2,4.166666666666667
+B_sintetico_controlado,Moderada,15,31.25
+B_sintetico_controlado,Severa,31,64.58333333333333
