@@ -1,0 +1,21 @@
+{
+  // Git Auto-fetch: busca atualizações do remoto automaticamente
+  "git.autofetch": true,
+  "git.autofetchPeriod": 180,
+  
+  // Mostrar contador de commits não sincronizados na barra de status
+  "git.showPushSuccessNotification": true,
+  
+  // Avisos sobre operações Git
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  
+  // Mostrar decorações Git inline
+  "git.decorations.enabled": true,
+  
+  // Sugerir fazer push após commit
+  "git.postCommitCommand": "sync",
+  
+  // Avisos visuais
+  "git.showUnpublishedCommitsButton": "always"
+}
