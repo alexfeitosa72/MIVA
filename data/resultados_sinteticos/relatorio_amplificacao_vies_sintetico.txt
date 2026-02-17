@@ -1,0 +1,310 @@
+================================================================================
+RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MIVA FASE 3 (SINTÉTICO)
+================================================================================
+
+Data: 17/02/2026 15:20:37
+Seed: 42
+K-Fold: 5
+N Datasets: 12
+N Amostras por dataset: 999
+
+--------------------------------------------------------------------------------
+DATASET: SynSA-99
+--------------------------------------------------------------------------------
+
+BASELINE (Anotadores Sintéticos):
+  Cohen κ          : 0.9850
+  Weighted κ       : 0.9842
+  IC 95%           : [0.9745, 0.9940]
+  Faixa L&K        : Almost Perfect
+  Cramér's V       : 0.9850
+  χ²               : 1938.49
+  p-value          : 0.00e+00
+
+AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
+
+κ_inicial (anotadores): 0.9850
+
+SVM:
+  κ_modelos       : 0.6354
+  Faixa L&K       : Substantial
+  Δκ              : +0.3496
+  IC 95% Δκ       : [+0.3078, +0.3900]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+NB:
+  κ_modelos       : 0.6475
+  Faixa L&K       : Substantial
+  Δκ              : +0.3375
+  IC 95% Δκ       : [+0.2964, +0.3780]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+RF:
+  κ_modelos       : 0.2503
+  Faixa L&K       : Fair
+  Δκ              : +0.7347
+  IC 95% Δκ       : [+0.6863, +0.7859]
+  Faixas perdidas : 3
+  Severidade      : Severa
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+LR:
+  κ_modelos       : 0.6740
+  Faixa L&K       : Substantial
+  Δκ              : +0.3109
+  IC 95% Δκ       : [+0.2749, +0.3523]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+
+--------------------------------------------------------------------------------
+DATASET: SynSA-90
+--------------------------------------------------------------------------------
+
+BASELINE (Anotadores Sintéticos):
+  Cohen κ          : 0.8498
+  Weighted κ       : 0.8491
+  IC 95%           : [0.8242, 0.8777]
+  Faixa L&K        : Almost Perfect
+  Cramér's V       : 0.8499
+  χ²               : 1443.07
+  p-value          : 3.16e-311
+
+AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
+
+κ_inicial (anotadores): 0.8498
+
+SVM:
+  κ_modelos       : 0.3941
+  Faixa L&K       : Fair
+  Δκ              : +0.4557
+  IC 95% Δκ       : [+0.4114, +0.5016]
+  Faixas perdidas : 3
+  Severidade      : Severa
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+NB:
+  κ_modelos       : 0.3896
+  Faixa L&K       : Fair
+  Δκ              : +0.4602
+  IC 95% Δκ       : [+0.4134, +0.5078]
+  Faixas perdidas : 3
+  Severidade      : Severa
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+RF:
+  κ_modelos       : 0.1571
+  Faixa L&K       : Slight
+  Δκ              : +0.6927
+  IC 95% Δκ       : [+0.6468, +0.7393]
+  Faixas perdidas : 4
+  Severidade      : Severa
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+LR:
+  κ_modelos       : 0.4188
+  Faixa L&K       : Moderate
+  Δκ              : +0.4310
+  IC 95% Δκ       : [+0.3877, +0.4762]
+  Faixas perdidas : 2
+  Severidade      : Moderada
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+
+--------------------------------------------------------------------------------
+DATASET: SynSA-75
+--------------------------------------------------------------------------------
+
+BASELINE (Anotadores Sintéticos):
+  Cohen κ          : 0.6246
+  Weighted κ       : 0.6239
+  IC 95%           : [0.5833, 0.6621]
+  Faixa L&K        : Substantial
+  Cramér's V       : 0.6246
+  χ²               : 779.55
+  p-value          : 2.07e-167
+
+AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
+
+κ_inicial (anotadores): 0.6246
+
+SVM:
+  κ_modelos       : 0.2957
+  Faixa L&K       : Fair
+  Δκ              : +0.3289
+  IC 95% Δκ       : [+0.2845, +0.3755]
+  Faixas perdidas : 2
+  Severidade      : Moderada
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+NB:
+  κ_modelos       : 0.2928
+  Faixa L&K       : Fair
+  Δκ              : +0.3318
+  IC 95% Δκ       : [+0.2841, +0.3779]
+  Faixas perdidas : 2
+  Severidade      : Moderada
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+RF:
+  κ_modelos       : 0.1415
+  Faixa L&K       : Slight
+  Δκ              : +0.4831
+  IC 95% Δκ       : [+0.4384, +0.5306]
+  Faixas perdidas : 3
+  Severidade      : Severa
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+LR:
+  κ_modelos       : 0.2888
+  Faixa L&K       : Fair
+  Δκ              : +0.3358
+  IC 95% Δκ       : [+0.2928, +0.3862]
+  Faixas perdidas : 2
+  Severidade      : Moderada
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+
+--------------------------------------------------------------------------------
+DATASET: SynSA-60
+--------------------------------------------------------------------------------
+
+BASELINE (Anotadores Sintéticos):
+  Cohen κ          : 0.3994
+  Weighted κ       : 0.3986
+  IC 95%           : [0.3572, 0.4442]
+  Faixa L&K        : Fair
+  Cramér's V       : 0.3994
+  χ²               : 318.73
+  p-value          : 9.85e-68
+
+AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
+
+κ_inicial (anotadores): 0.3994
+
+SVM:
+  κ_modelos       : 0.1562
+  Faixa L&K       : Slight
+  Δκ              : +0.2432
+  IC 95% Δκ       : [+0.1990, +0.2901]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+NB:
+  κ_modelos       : 0.1459
+  Faixa L&K       : Slight
+  Δκ              : +0.2535
+  IC 95% Δκ       : [+0.2106, +0.2987]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+RF:
+  κ_modelos       : 0.0946
+  Faixa L&K       : Slight
+  Δκ              : +0.3048
+  IC 95% Δκ       : [+0.2591, +0.3495]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+LR:
+  κ_modelos       : 0.1848
+  Faixa L&K       : Slight
+  Δκ              : +0.2146
+  IC 95% Δκ       : [+0.1713, +0.2643]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+
+--------------------------------------------------------------------------------
+DATASET: SynSA-50
+--------------------------------------------------------------------------------
+
+BASELINE (Anotadores Sintéticos):
+  Cohen κ          : 0.2507
+  Weighted κ       : 0.2508
+  IC 95%           : [0.2011, 0.2974]
+  Faixa L&K        : Fair
+  Cramér's V       : 0.2508
+  χ²               : 125.63
+  p-value          : 3.35e-26
+
+AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
+
+κ_inicial (anotadores): 0.2507
+
+SVM:
+  κ_modelos       : 0.0975
+  Faixa L&K       : Slight
+  Δκ              : +0.1533
+  IC 95% Δκ       : [+0.1066, +0.1982]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+NB:
+  κ_modelos       : 0.1043
+  Faixa L&K       : Slight
+  Δκ              : +0.1465
+  IC 95% Δκ       : [+0.1028, +0.1907]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+RF:
+  κ_modelos       : 0.0614
+  Faixa L&K       : Slight
+  Δκ              : +0.1894
+  IC 95% Δκ       : [+0.1433, +0.2334]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+LR:
+  κ_modelos       : 0.1256
+  Faixa L&K       : Slight
+  Δκ              : +0.1252
+  IC 95% Δκ       : [+0.0828, +0.1686]
+  Faixas perdidas : 1
+  Severidade      : Leve
+  Amplifica?      : SIM
+  Significativo?  : AMPLIFICA
+
+
+================================================================================
+SUMÁRIO GERAL
+================================================================================
+
+SVM: 12/12 datasets apresentam amplificação de viés
+NB: 12/12 datasets apresentam amplificação de viés
+RF: 12/12 datasets apresentam amplificação de viés
+LR: 12/12 datasets apresentam amplificação de viés
+
+================================================================================
