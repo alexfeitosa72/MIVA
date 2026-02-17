@@ -2,7 +2,7 @@
 RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MIVA FASE 2
 ================================================================================
 
-Data: 16/02/2026 17:22:51
+Data: 17/02/2026 12:49:14
 Seed: 42
 K-Fold: 5
 N Amostras: 1209
@@ -30,26 +30,26 @@ AMPLIFICAÇÃO
 SVM:
   κ_modelos : 0.4647
   Δκ        : +0.3005
-  Severidade: Severa
+  Severidade: Leve
   Amplifica?: SIM
 
 NB:
   κ_modelos : 0.4862
   Δκ        : +0.2791
-  Severidade: Severa
+  Severidade: Leve
   Amplifica?: SIM
 
 RF:
   κ_modelos : 0.4378
   Δκ        : +0.3275
-  Severidade: Severa
+  Severidade: Leve
   Amplifica?: SIM
 
 LR:
   κ_modelos : 0.4986
   Δκ        : +0.2666
-  Severidade: Severa
+  Severidade: Leve
   Amplifica?: SIM
 
 ================================================================================
-⚠ 4/4 modelos amplificaram viés.
+[AVISO] 4/4 modelos amplificaram viés.
