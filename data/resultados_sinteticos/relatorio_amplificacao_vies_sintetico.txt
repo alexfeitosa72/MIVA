@@ -2,7 +2,7 @@
 RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MIVA FASE 3 (SINTÉTICO)
 ================================================================================
 
-Data: 17/02/2026 15:20:37
+Data: 18/02/2026 09:51:27
 Seed: 42
 K-Fold: 5
 N Datasets: 12
@@ -14,7 +14,6 @@ DATASET: SynSA-99
 
 BASELINE (Anotadores Sintéticos):
   Cohen κ          : 0.9850
-  Weighted κ       : 0.9842
   IC 95%           : [0.9745, 0.9940]
   Faixa L&K        : Almost Perfect
   Cramér's V       : 0.9850
@@ -72,7 +71,6 @@ DATASET: SynSA-90
 
 BASELINE (Anotadores Sintéticos):
   Cohen κ          : 0.8498
-  Weighted κ       : 0.8491
   IC 95%           : [0.8242, 0.8777]
   Faixa L&K        : Almost Perfect
   Cramér's V       : 0.8499
@@ -125,59 +123,58 @@ LR:
 
 
 --------------------------------------------------------------------------------
-DATASET: SynSA-75
+DATASET: SynSA-85
 --------------------------------------------------------------------------------
 
 BASELINE (Anotadores Sintéticos):
-  Cohen κ          : 0.6246
-  Weighted κ       : 0.6239
-  IC 95%           : [0.5833, 0.6621]
+  Cohen κ          : 0.7748
+  IC 95%           : [0.7417, 0.8077]
   Faixa L&K        : Substantial
-  Cramér's V       : 0.6246
-  χ²               : 779.55
-  p-value          : 2.07e-167
+  Cramér's V       : 0.7748
+  χ²               : 1199.35
+  p-value          : 2.20e-258
 
 AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 
-κ_inicial (anotadores): 0.6246
+κ_inicial (anotadores): 0.7748
 
 SVM:
-  κ_modelos       : 0.2957
-  Faixa L&K       : Fair
-  Δκ              : +0.3289
-  IC 95% Δκ       : [+0.2845, +0.3755]
-  Faixas perdidas : 2
-  Severidade      : Moderada
+  κ_modelos       : 0.4051
+  Faixa L&K       : Moderate
+  Δκ              : +0.3697
+  IC 95% Δκ       : [+0.3231, +0.4177]
+  Faixas perdidas : 1
+  Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.2928
-  Faixa L&K       : Fair
-  Δκ              : +0.3318
-  IC 95% Δκ       : [+0.2841, +0.3779]
-  Faixas perdidas : 2
-  Severidade      : Moderada
+  κ_modelos       : 0.4129
+  Faixa L&K       : Moderate
+  Δκ              : +0.3619
+  IC 95% Δκ       : [+0.3159, +0.4104]
+  Faixas perdidas : 1
+  Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.1415
+  κ_modelos       : 0.1787
   Faixa L&K       : Slight
-  Δκ              : +0.4831
-  IC 95% Δκ       : [+0.4384, +0.5306]
+  Δκ              : +0.5961
+  IC 95% Δκ       : [+0.5486, +0.6410]
   Faixas perdidas : 3
   Severidade      : Severa
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.2888
-  Faixa L&K       : Fair
-  Δκ              : +0.3358
-  IC 95% Δκ       : [+0.2928, +0.3862]
-  Faixas perdidas : 2
-  Severidade      : Moderada
+  κ_modelos       : 0.4056
+  Faixa L&K       : Moderate
+  Δκ              : +0.3692
+  IC 95% Δκ       : [+0.3215, +0.4149]
+  Faixas perdidas : 1
+  Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
@@ -188,7 +185,6 @@ DATASET: SynSA-60
 
 BASELINE (Anotadores Sintéticos):
   Cohen κ          : 0.3994
-  Weighted κ       : 0.3986
   IC 95%           : [0.3572, 0.4442]
   Faixa L&K        : Fair
   Cramér's V       : 0.3994
@@ -246,7 +242,6 @@ DATASET: SynSA-50
 
 BASELINE (Anotadores Sintéticos):
   Cohen κ          : 0.2507
-  Weighted κ       : 0.2508
   IC 95%           : [0.2011, 0.2974]
   Faixa L&K        : Fair
   Cramér's V       : 0.2508
