@@ -2,7 +2,7 @@
 RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MIVA FASE 3 (SINTÉTICO)
 ================================================================================
 
-Data: 18/02/2026 09:51:27
+Data: 20/02/2026 12:20:36
 Seed: 42
 K-Fold: 5
 N Datasets: 12
@@ -25,43 +25,43 @@ AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 κ_inicial (anotadores): 0.9850
 
 SVM:
-  κ_modelos       : 0.6354
-  Faixa L&K       : Substantial
-  Δκ              : +0.3496
-  IC 95% Δκ       : [+0.3078, +0.3900]
-  Faixas perdidas : 1
-  Severidade      : Leve
-  Amplifica?      : SIM
+  κ_modelos       : 0.8653
+  Faixa L&K       : Almost Perfect
+  Δκ              : +0.1197
+  IC 95% Δκ       : [+0.0916, +0.1442]
+  Faixas perdidas : 0
+  Severidade      : Ausente
+  Amplifica?      : NÃO
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.6475
-  Faixa L&K       : Substantial
-  Δκ              : +0.3375
-  IC 95% Δκ       : [+0.2964, +0.3780]
-  Faixas perdidas : 1
-  Severidade      : Leve
-  Amplifica?      : SIM
+  κ_modelos       : 0.8922
+  Faixa L&K       : Almost Perfect
+  Δκ              : +0.0928
+  IC 95% Δκ       : [+0.0711, +0.1172]
+  Faixas perdidas : 0
+  Severidade      : Ausente
+  Amplifica?      : NÃO
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.2503
+  κ_modelos       : 0.2927
   Faixa L&K       : Fair
-  Δκ              : +0.7347
-  IC 95% Δκ       : [+0.6863, +0.7859]
+  Δκ              : +0.6923
+  IC 95% Δκ       : [+0.6456, +0.7357]
   Faixas perdidas : 3
   Severidade      : Severa
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.6740
-  Faixa L&K       : Substantial
-  Δκ              : +0.3109
-  IC 95% Δκ       : [+0.2749, +0.3523]
-  Faixas perdidas : 1
-  Severidade      : Leve
-  Amplifica?      : SIM
+  κ_modelos       : 0.8913
+  Faixa L&K       : Almost Perfect
+  Δκ              : +0.0937
+  IC 95% Δκ       : [+0.0706, +0.1172]
+  Faixas perdidas : 0
+  Severidade      : Ausente
+  Amplifica?      : NÃO
   Significativo?  : AMPLIFICA
 
 
@@ -82,42 +82,42 @@ AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 κ_inicial (anotadores): 0.8498
 
 SVM:
-  κ_modelos       : 0.3941
-  Faixa L&K       : Fair
-  Δκ              : +0.4557
-  IC 95% Δκ       : [+0.4114, +0.5016]
-  Faixas perdidas : 3
-  Severidade      : Severa
+  κ_modelos       : 0.6107
+  Faixa L&K       : Substantial
+  Δκ              : +0.2392
+  IC 95% Δκ       : [+0.1960, +0.2764]
+  Faixas perdidas : 1
+  Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.3896
-  Faixa L&K       : Fair
-  Δκ              : +0.4602
-  IC 95% Δκ       : [+0.4134, +0.5078]
-  Faixas perdidas : 3
-  Severidade      : Severa
+  κ_modelos       : 0.5964
+  Faixa L&K       : Moderate
+  Δκ              : +0.2534
+  IC 95% Δκ       : [+0.2117, +0.2936]
+  Faixas perdidas : 2
+  Severidade      : Moderada
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.1571
-  Faixa L&K       : Slight
-  Δκ              : +0.6927
-  IC 95% Δκ       : [+0.6468, +0.7393]
-  Faixas perdidas : 4
+  κ_modelos       : 0.2199
+  Faixa L&K       : Fair
+  Δκ              : +0.6300
+  IC 95% Δκ       : [+0.5840, +0.6781]
+  Faixas perdidas : 3
   Severidade      : Severa
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.4188
-  Faixa L&K       : Moderate
-  Δκ              : +0.4310
-  IC 95% Δκ       : [+0.3877, +0.4762]
-  Faixas perdidas : 2
-  Severidade      : Moderada
+  κ_modelos       : 0.6143
+  Faixa L&K       : Substantial
+  Δκ              : +0.2356
+  IC 95% Δκ       : [+0.1952, +0.2746]
+  Faixas perdidas : 1
+  Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
@@ -139,40 +139,40 @@ AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 κ_inicial (anotadores): 0.7748
 
 SVM:
-  κ_modelos       : 0.4051
+  κ_modelos       : 0.4938
   Faixa L&K       : Moderate
-  Δκ              : +0.3697
-  IC 95% Δκ       : [+0.3231, +0.4177]
+  Δκ              : +0.2809
+  IC 95% Δκ       : [+0.2351, +0.3242]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.4129
+  κ_modelos       : 0.5513
   Faixa L&K       : Moderate
-  Δκ              : +0.3619
-  IC 95% Δκ       : [+0.3159, +0.4104]
+  Δκ              : +0.2235
+  IC 95% Δκ       : [+0.1781, +0.2663]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.1787
-  Faixa L&K       : Slight
-  Δκ              : +0.5961
-  IC 95% Δκ       : [+0.5486, +0.6410]
-  Faixas perdidas : 3
-  Severidade      : Severa
+  κ_modelos       : 0.2260
+  Faixa L&K       : Fair
+  Δκ              : +0.5488
+  IC 95% Δκ       : [+0.5013, +0.5958]
+  Faixas perdidas : 2
+  Severidade      : Moderada
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.4056
+  κ_modelos       : 0.5190
   Faixa L&K       : Moderate
-  Δκ              : +0.3692
-  IC 95% Δκ       : [+0.3215, +0.4149]
+  Δκ              : +0.2558
+  IC 95% Δκ       : [+0.2105, +0.2975]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
@@ -196,40 +196,40 @@ AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 κ_inicial (anotadores): 0.3994
 
 SVM:
-  κ_modelos       : 0.1562
-  Faixa L&K       : Slight
-  Δκ              : +0.2432
-  IC 95% Δκ       : [+0.1990, +0.2901]
-  Faixas perdidas : 1
-  Severidade      : Leve
-  Amplifica?      : SIM
+  κ_modelos       : 0.2397
+  Faixa L&K       : Fair
+  Δκ              : +0.1597
+  IC 95% Δκ       : [+0.1156, +0.2038]
+  Faixas perdidas : 0
+  Severidade      : Ausente
+  Amplifica?      : NÃO
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.1459
+  κ_modelos       : 0.1779
   Faixa L&K       : Slight
-  Δκ              : +0.2535
-  IC 95% Δκ       : [+0.2106, +0.2987]
+  Δκ              : +0.2215
+  IC 95% Δκ       : [+0.1711, +0.2678]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.0946
+  κ_modelos       : 0.1052
   Faixa L&K       : Slight
-  Δκ              : +0.3048
-  IC 95% Δκ       : [+0.2591, +0.3495]
+  Δκ              : +0.2942
+  IC 95% Δκ       : [+0.2466, +0.3334]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.1848
+  κ_modelos       : 0.1993
   Faixa L&K       : Slight
-  Δκ              : +0.2146
-  IC 95% Δκ       : [+0.1713, +0.2643]
+  Δκ              : +0.2001
+  IC 95% Δκ       : [+0.1537, +0.2450]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
@@ -253,40 +253,40 @@ AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 κ_inicial (anotadores): 0.2507
 
 SVM:
-  κ_modelos       : 0.0975
+  κ_modelos       : 0.1550
   Faixa L&K       : Slight
-  Δκ              : +0.1533
-  IC 95% Δκ       : [+0.1066, +0.1982]
+  Δκ              : +0.0957
+  IC 95% Δκ       : [+0.0495, +0.1436]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.1043
+  κ_modelos       : 0.1182
   Faixa L&K       : Slight
-  Δκ              : +0.1465
-  IC 95% Δκ       : [+0.1028, +0.1907]
+  Δκ              : +0.1325
+  IC 95% Δκ       : [+0.0835, +0.1762]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.0614
+  κ_modelos       : 0.0553
   Faixa L&K       : Slight
-  Δκ              : +0.1894
-  IC 95% Δκ       : [+0.1433, +0.2334]
+  Δκ              : +0.1954
+  IC 95% Δκ       : [+0.1533, +0.2388]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.1256
+  κ_modelos       : 0.1753
   Faixa L&K       : Slight
-  Δκ              : +0.1252
-  IC 95% Δκ       : [+0.0828, +0.1686]
+  Δκ              : +0.0754
+  IC 95% Δκ       : [+0.0322, +0.1216]
   Faixas perdidas : 1
   Severidade      : Leve
   Amplifica?      : SIM
@@ -297,9 +297,9 @@ LR:
 SUMÁRIO GERAL
 ================================================================================
 
-SVM: 12/12 datasets apresentam amplificação de viés
-NB: 12/12 datasets apresentam amplificação de viés
+SVM: 10/12 datasets apresentam amplificação de viés
+NB: 10/12 datasets apresentam amplificação de viés
 RF: 12/12 datasets apresentam amplificação de viés
-LR: 12/12 datasets apresentam amplificação de viés
+LR: 10/12 datasets apresentam amplificação de viés
 
 ================================================================================
