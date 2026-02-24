@@ -2,7 +2,7 @@
 RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MIVA FASE 3 (SINTÉTICO)
 ================================================================================
 
-Data: 21/02/2026 10:54:18
+Data: 24/02/2026 11:28:53
 Seed: 42
 K-Fold: 5
 N Datasets: 12
