@@ -1,0 +1,488 @@
+%%%% PROPOSTAS CITADAS %%%%
+
+@inproceedings{azevedo2021nat,
+  author    = {Azevedo, Gabriel De and Pettine, Gustavo and Feder, Felipe and Portugal, Gabriel and Mendes, Carlos Otavio Schocair and Ribeiro, Rafael Castaneda and Mauro, Renato Campos and Junior, Fabio Paschoal and Guedes, Gustavo},
+  title     = {NAT: Towards an Emotional Agent},
+  booktitle = {Proceedings of the 16th Iberian Conference on Information Systems and Technologies (CISTI)},
+  year      = {2021},
+  month     = jun,
+  publisher = {IEEE Computer Society},
+  doi       = {10.23919/CISTI52073.2021.9476326}
+}
+
+@inproceedings{biester-etal-2022-analyzing,
+  author    = {Laura Biester and Vanita Sharma and Ashkan Kazemi and Naihao Deng and Steven Wilson and Rada Mihalcea},
+  title     = {Analyzing the Effects of Annotator Gender across 4 {NLP} Tasks},
+  booktitle = {Proceedings of the 1st Workshop on Perspectivist Approaches to {NLP} @LREC2022},
+  year      = {2022},
+  month     = jun,
+  address   = {Marseille, France},
+  publisher = {European Language Resources Association},
+  pages     = {10--19},
+  url       = {https://aclanthology.org/2022.nlperspectives-1.2/}
+}
+
+@inproceedings{blodgett2020language,
+  title     = {Language (technology) is power: A critical survey of "bias" in NLP},
+  author    = {Blodgett, Su Lin and Barocas, Solon and Daumé III, Hal and Wallach, Hanna},
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+  pages     = {5454--5476},
+  year      = {2020},
+  publisher = {Association for Computational Linguistics},
+  address   = {Online}
+}
+
+@article{ding2022shortcuts,
+  author    = {Ding, Z. and Adelani, D. I. and N{\'e}v{\'e}ol, A. and Schwartz, H. A. and Hovy, D.},
+  title     = {Will You Find These Shortcuts? A Protocol for Evaluating the Faithfulness of Input Salience Methods for Text Classification},
+  journal   = {ACM Transactions on Interactive Intelligent Systems},
+  volume    = {12},
+  number    = {4},
+  pages     = {28},
+  year      = {2022},
+  publisher = {ACM},
+  doi       = {10.1145/3555632}
+}
+
+@inproceedings{Firmino2024SexismoMPB,
+  title     = {Identificando Padrões de Sexismo na Música Brasileira através do Processamento de Linguagem Natural},
+  author    = {Firmino, Vit{\'o}ria Pereira and Lopes, Janaina Nogueira de S. and Reis, Val{\'e}ria Q.},
+  booktitle = {Anais do XI Encontro de Computação de Mato Grosso do Sul (ECMS 2024)},
+  year      = {2024},
+  address   = {Campo Grande, Brasil},
+  publisher = {SBC},
+  url       = {https://github.com/vitoriafirmino/busca-padroes-sexismo-com-pln}
+}
+
+@inproceedings{geva2019modeling,
+  title     = {Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets},
+  author    = {Geva, Mor and Goldberg, Yoav and Berant, Jonathan},
+  booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP)},
+  pages     = {1161--1166},
+  year      = {2019},
+  address   = {Hong Kong, China},
+  publisher = {Association for Computational Linguistics},
+  doi       = {10.18653/v1/D19-1107}
+}
+
+@article{gupta2023bias,
+  author    = {Gupta, S. and Maheshwari, A. and Sharma, A. and Kumar, S. and Khanna, V. and Chadha, A. and Ratn, R. and Sawhney, R.},
+  title     = {Bias in Natural Language Processing: A Survey},
+  journal   = {arXiv preprint arXiv:2306.08158},
+  year      = {2023},
+  doi       = {10.48550/arXiv.2306.08158}
+}
+
+@inproceedings{havens-etal-2022-uncertainty,
+  title     = {Uncertainty and Inclusivity in Gender Bias Annotation: An Annotation Taxonomy and Annotated Datasets of British English Text},
+  author    = {Havens, Lucy and Terras, Melissa and Bach, Benjamin and Alex, Beatrice},
+  booktitle = {Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP)},
+  year      = {2022},
+  address   = {Seattle, Washington},
+  publisher = {Association for Computational Linguistics},
+  pages     = {140--152},
+  doi       = {10.18653/v1/2022.gebnlp-1.14}
+}
+
+@article{mehrabi2021survey,
+  title     = {A Survey on Bias and Fairness in Machine Learning},
+  author    = {Mehrabi, Ninareh and others},
+  journal   = {ACM Computing Surveys (CSUR)},
+  volume    = {54},
+  number    = {6},
+  pages     = {1--35},
+  year      = {2021},
+  publisher = {ACM}
+}
+
+@inproceedings{minatel2023data,
+  title     = {Data stratification analysis on the propagation of discriminatory effects in binary classification},
+  author    = {Minatel, Davi and others},
+  booktitle = {Anais do 11º Symposium on Knowledge Discovery, Mining and Learning (KDMiLe)},
+  pages     = {73--80},
+  year      = {2023},
+  address   = {Belo Horizonte, MG},
+  publisher = {Sociedade Brasileira de Computação}
+}
+
+@misc{MITTechReview2023_TrabalhadoresDados,
+  author    = {{MIT Technology Review Brasil}},
+  title     = {Somos todos trabalhadores de dados não remunerados da Inteligência Artificial},
+  year      = {2023},
+  month     = jun,
+  url       = {https://mittechreview.com.br/somos-todos-trabalhadores-de-dados-nao-remunerados-da-inteligencia-artificial/},
+  note      = {Acessado em: 30 dez. 2025}
+}
+
+@article{moreira2024fairpivara,
+  author    = {Moreira, V. and Souza, E. and Oliveira, J. and Brum, H. and Oliveira, A. and Rocha, A. and Botelho, G.},
+  title     = {FairPIVARA: Reducing and Assessing Biases in Pre-trained Language Models for Portuguese},
+  journal   = {arXiv preprint arXiv:2409.19474},
+  year      = {2024},
+  doi       = {10.48550/arxiv.2409.19474}
+}
+
+@article{paullada2021data,
+  author    = {Amandalynne Paullada and others},
+  title     = {Data and its (Dis)Contents: A Survey of Dataset Development and Use in Machine Learning Research},
+  journal   = {Patterns},
+  volume    = {2},
+  number    = {11},
+  pages     = {100336},
+  year      = {2021},
+  publisher = {Cell Press}
+}
+
+@inproceedings{prabhakaran2021releasing,
+  title     = {Releasing Gender Bias in Sentiment Classification with Explanations},
+  author    = {Prabhakaran, Vinodkumar and Hutchinson, Ben and Mitchell, Margaret},
+  booktitle = {Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency},
+  pages     = {206--216},
+  year      = {2021},
+  publisher = {ACM}
+}
+
+@inproceedings{raji2021benchmark,
+  author    = {Inioluwa Deborah Raji and Emily M. Bender and others},
+  title     = {AI and the Everything in the Whole Wide World Benchmark},
+  booktitle = {Proceedings of the NeurIPS 2021 Datasets and Benchmarks Track},
+  year      = {2021},
+  publisher = {NeurIPS},
+  pages     = {1--10}
+}
+
+@inproceedings{SaeLim2024AnnotationBiasCMA,
+  author    = {Sitiporn Sae Lim and others},
+  title     = {Identifying and Mitigating Annotation Bias in Natural Language Understanding using Causal Mediation Analysis},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2024},
+  year      = {2024},
+  publisher = {Association for Computational Linguistics},
+  doi       = {10.18653/v1/2024.findings-acl.686}
+}
+
+@article{schwindt2020predizibilidade,
+  title     = {Predizibilidade da marca{\c{c}}{\~a}o de g{\^e}nero em substantivos no portugu{\^e}s brasileiro},
+  author    = {Schwindt, Luiz Carlos},
+  journal   = {G{\^e}nero e l{\'\i}ngua (gem): formas e usos},
+  pages     = {279--294},
+  volume    = {1},
+  year      = {2020},
+  publisher = {Editora da UFBA Salvador}
+}
+
+@inproceedings{shah2020predictive,
+  title     = {Predictive biases in natural language processing models: A conceptual framework and overview},
+  author    = {Shah, Deven Santosh and Schwartz, H. Andrew and Hovy, Dirk},
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
+  pages     = {5248--5264},
+  year      = {2020},
+  publisher = {Association for Computational Linguistics}
+}
+
+@inproceedings{silva2024nlp,
+  title     = {NLP Pipeline for Gender Bias Detection in Portuguese Literature},
+  author    = {Silva, Mariana Oliveira and Moro, Mirella M.},
+  booktitle = {Anais do Seminário Integrado de Software e Hardware (SEMISH)},
+  year      = {2024},
+  publisher = {Sociedade Brasileira de Computação},
+  address   = {Brasília, Brazil},
+  pages     = {1--10}
+}
+
+@article{Stanczak2021SurveyGenderBiasNLP,
+  author    = {Karolina Stańczak and Isabelle Augenstein},
+  title     = {A Survey on Gender Bias in Natural Language Processing},
+  journal   = {arXiv preprint arXiv:2112.14168},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2112.14168}
+}
+
+@inproceedings{Sun2019MitigatingGenderBiasNLP,
+  author    = {Tony Sun and Andrew Gaut and others},
+  title     = {Mitigating Gender Bias in Natural Language Processing: Literature Review},
+  booktitle = {Proceedings of the 57th Annual Meeting of the ACL},
+  year      = {2019},
+  pages     = {1630--1640},
+  publisher = {Association for Computational Linguistics}
+}
+
+@inproceedings{taso2023discriminacao,
+  author    = {Taso, F. T. S. and Reis, V. Q. and Martinez, F. V.},
+  title     = {Discrimina{\c{c}}{\~a}o Algor{\'i}tmica de G{\^e}nero: Estudo de Caso e An{\'a}lise no Contexto Brasileiro},
+  booktitle = {Anais do IV Workshop sobre as Implica{\c{c}}{\~o}es da Computa{\c{c}}{\~a}o na Sociedade (WICS 2023)},
+  pages     = {229--240},
+  year      = {2023},
+  publisher = {SBC},
+  address   = {Porto Alegre, Brasil},
+  doi       = {10.5753/wics.2023.229980}
+}
+
+@inproceedings{toker2024calibration,
+  author    = {Toker, S. and Akbari, M. and Neves, L. and Oliveira, C. T. and Reis, M. and Ferreira, A. and Cozman, F. G.},
+  title     = {Does Calibration Help Reduce Annotator Bias in Machine Learning?},
+  booktitle = {Proceedings of the 38th AAAI Conference on Artificial Intelligence},
+  volume    = {38},
+  pages     = {9376--9384},
+  year      = {2024},
+  doi       = {10.1609/aaai.v38i9.28882}
+}
+
+@inproceedings{zhao2017men,
+  title     = {Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints},
+  author    = {Zhao, Jieyu and Wang, Tianlu and Yatskar, Mark and Ordonez, Vicente and Chang, Kai-Wei},
+  booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {2979--2989},
+  year      = {2017},
+  address   = {Copenhagen, Denmark},
+  publisher = {Association for Computational Linguistics}
+}
+
+
+%%%% PROPOSTAS POR CITAR %%%%
+
+@inproceedings{alves2022vita2,
+  author    = {Alves, A. A. C. and de Souza, L. F. M. and Varjolo, L. D. and Mauro, R. C. and Belloze, K. and Paschoal, F. and Guedes, G.},
+  title     = {VITA 2.0 – Class evaluation system},
+  booktitle = {Proceedings of the 17th Iberian Conference on Information Systems and Technologies (CISTI)},
+  year      = {2022},
+  address   = {Online},
+  publisher = {Iberian Conference on Information Systems and Technologies}
+}
+
+@book{bryman1997quantitative,
+  title     = {Quantitative Data Analysis with SPSS for Windows: A Guide for Social Scientists},
+  author    = {Bryman, Alan and Cramer, Duncan},
+  year      = {1997},
+  publisher = {Routledge},
+  address   = {London},
+  language  = {en}
+}
+
+@inproceedings{Carneiro_WhenAnnotatorsDisagree,
+  author    = {Carneiro, Erica and Feitosa, Alexander and Guedes, Gustavo},
+  title     = {When Annotators Disagree: A Controlled Evaluation of Gender Bias in Sentiment Analysis Using Synthetic Datasets},
+  booktitle = {Proceedings of the XVI Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL 2025)},
+  year      = {2025},
+  url       = {https://sol.sbc.org.br/index.php/stil/article/view/37816/37594},
+  note      = {Acessado em: 02 nov. 2025}
+}
+
+@article{cohen1960coefficient,
+  title     = {A coefficient of agreement for nominal scales},
+  author    = {Cohen, Jacob},
+  journal   = {Educational and Psychological Measurement},
+  volume    = {20},
+  number    = {1},
+  pages     = {37--46},
+  year      = {1960},
+  publisher = {SAGE Publications}
+}
+
+@inproceedings{dixon2018bias,
+  author    = {Lucas Dixon and Jeffrey Li and Nithum Sorensen and Niels Thain and Fernanda Viégas and Martin Wattenberg},
+  title     = {Measuring and Mitigating Unintended Bias in Text Classification},
+  booktitle = {Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society (AIES '18)},
+  pages     = {67--73},
+  year      = {2018},
+  address   = {New Orleans, LA, USA},
+  publisher = {Association for Computing Machinery},
+  doi       = {10.1145/3278721.3278729}
+}
+
+@inproceedings{Feitosa2025_BeyondSystematicBias,
+  author    = {Feitosa, Alexander and Carneiro, Erica and Guedes, Gustavo},
+  title     = {Beyond Systematic Bias: Investigating Gender Differences in Portuguese Text Classification Annotation Patterns},
+  booktitle = {Proceedings of the XX Simpósio Brasileiro de Banco de Dados e Mineração de Conhecimento (KDMiLe 2025)},
+  year      = {2025},
+  url       = {https://sol.sbc.org.br/index.php/kdmile/article/view/37218/37003},
+  note      = {Acessado em: 02 nov. 2025}
+}
+
+@inproceedings{joachims1998,
+  author    = {Thorsten Joachims},
+  title     = {Text Categorization with Support Vector Machines: Learning with Many Relevant Features},
+  booktitle = {European Conference on Machine Learning (ECML 1998)},
+  pages     = {137--142},
+  year      = {1998},
+  address   = {Berlin Heidelberg, Germany},
+  publisher = {Springer}
+}
+
+@article{landis1977measurement,
+  author    = {Landis, J. Richard and Koch, Gary G.},
+  title     = {The Measurement of Observer Agreement for Categorical Data},
+  journal   = {Biometrics},
+  volume    = {33},
+  number    = {1},
+  pages     = {159--174},
+  year      = {1977}
+}
+
+
+%%%%% COLETADAS (EM ANÁLISE) %%%%%
+
+@inproceedings{devinney-etal-2022-theories,
+  author    = {Hannah Devinney and Jenny Bj{\"o}rklund and Henrik Bj{\"o}rklund},
+  title     = {Theories of ``Gender'' in {NLP} Bias Research},
+  booktitle = {Proceedings of the 2022 {ACM} Conference on Fairness, Accountability, and Transparency ({FAccT}~'22)},
+  year      = {2022},
+  publisher = {Association for Computing Machinery},
+  address   = {Seoul, Republic of Korea},
+  pages     = {2083--2102},
+  doi       = {10.1145/3531146.3534627}
+}
+
+@article{gallegos2024bias,
+  title     = {Bias and fairness in large language models: A survey},
+  author    = {Gallegos, Isabel O. and Rossi, Ryan A. and Barrow, Joe and Tanjim, Md Mehrab and Kim, Sungchul and Dernoncourt, Franck and Yu, Tong and Zhang, Ruiyi and Ahmed, Nesreen K.},
+  journal   = {Computational Linguistics},
+  volume    = {50},
+  number    = {3},
+  pages     = {1097--1179},
+  year      = {2024},
+  publisher = {MIT Press}
+}
+
+@inproceedings{gautam-srinath-2024-blind,
+  author    = {Sanjana Gautam and Mukund Srinath},
+  title     = {Blind Spots and Biases. Exploring the Role of Annotator Cognitive Biases in {NLP}},
+  booktitle = {Proceedings of the Third Workshop on Bridging Human--Computer Interaction and Natural Language Processing},
+  year      = {2024},
+  address   = {Mexico City, Mexico},
+  publisher = {Association for Computational Linguistics},
+  pages     = {82--88},
+  doi       = {10.18653/v1/2024.hcinlp-1.8}
+}
+
+@article{hovy-prabhumoye-2021-five,
+  author    = {Dirk Hovy and Shrimai Prabhumoye},
+  title     = {Five Sources of Bias in Natural Language Processing},
+  journal   = {Language and Linguistics Compass},
+  year      = {2021},
+  volume    = {15},
+  number    = {8},
+  pages     = {e12432},
+  doi       = {10.1111/lnc3.12432}
+}
+
+@inproceedings{jiang-etal-2024-examining,
+  title     = {Re-examining Sexism and Misogyny Classification with Annotator Attitudes},
+  author    = {Jiang, Aiqi and Vitsakis, Nikolas and Dinkar, Tanvi and Abercrombie, Gavin and Konstas, Ioannis},
+  booktitle = {Findings of the Association for Computational Linguistics: EMNLP 2024},
+  year      = {2024},
+  address   = {Miami, Florida, USA},
+  publisher = {Association for Computational Linguistics},
+  doi       = {10.18653/v1/2024.findings-emnlp.887},
+  pages     = {15103--15125}
+}
+
+@inproceedings{kenyon-dean-etal-2018-sentiment,
+  title     = {Sentiment Analysis: It{'}s Complicated!},
+  author    = {Kenyon-Dean, Kian and Ahmed, Eisha and others},
+  booktitle = {Proceedings of the 2018 Conference of the NAACL: HLT},
+  year      = {2018},
+  address   = {New Orleans, Louisiana},
+  publisher = {Association for Computational Linguistics},
+  pages     = {1886--1895},
+  doi       = {10.18653/v1/N18-1171}
+}
+
+@inproceedings{kiritchenko-mohammad-2018-examining,
+  title     = {Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems},
+  author    = {Kiritchenko, Svetlana and Mohammad, Saif},
+  booktitle = {Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2018)},
+  year      = {2018},
+  address   = {New Orleans, Louisiana},
+  publisher = {Association for Computational Linguistics},
+  pages     = {43--53},
+  doi       = {10.18653/v1/S18-2005}
+}
+
+@article{kowsari2019text,
+  title     = {Text classification algorithms: A survey},
+  author    = {Kowsari, Kamran and others},
+  journal   = {Information},
+  volume    = {10},
+  number    = {4},
+  pages     = {150},
+  year      = {2019},
+  publisher = {MDPI}
+}
+
+@article{kumar2020exploring,
+  title     = {Exploring Impact of Age and Gender on Sentiment Analysis Using Machine Learning},
+  author    = {Kumar, Sudhanshu and others},
+  journal   = {Electronics},
+  volume    = {9},
+  number    = {2},
+  pages     = {374},
+  year      = {2020},
+  publisher = {MDPI},
+  doi       = {10.3390/electronics9020374}
+}
+
+@article{levshina2024revered,
+  title     = {Revered and reviled: a sentiment analysis of female and male referents in three languages},
+  author    = {Levshina, Natalia and Koptjevskaja-Tamm, Maria and {\"O}stling, Robert},
+  journal   = {Frontiers in Communication},
+  volume    = {9},
+  pages     = {1266407},
+  year      = {2024},
+  publisher = {Frontiers Media SA}
+}
+
+@inproceedings{Manela2021Stereotype,
+  author    = {Manela, Daniel De Vassimon and others},
+  title     = {Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models},
+  booktitle = {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing},
+  pages     = {2232--2242},
+  year      = {2021},
+  publisher = {Association for Computational Linguistics}
+}
+
+@article{Perrigo2023_OpenAI_Kenya,
+  author    = {Perrigo, Billy},
+  title     = {Exclusive: OpenAI Used Kenyan Workers on Less Than \$2 Per Hour to Make ChatGPT Less Toxic},
+  journal   = {TIME},
+  year      = {2023},
+  month     = jan,
+  url       = {https://time.com/6247678/openai-chatgpt-kenya-workers/},
+  note      = {Acessado em: 30 dez. 2025}
+}
+
+@inproceedings{sobhani-delany-2024-towards,
+  author    = {Nasim Sobhani and Sarah Jane Delany},
+  title     = {Towards Fairer {NLP} Models. Handling Gender Bias in Classification Tasks},
+  booktitle = {Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)},
+  year      = {2024},
+  pages     = {167--178},
+  publisher = {Association for Computational Linguistics}
+}
+
+@inproceedings{tahaei-bergler-2024-analysis,
+  author    = {Narjes Tahaei and Sabine Bergler},
+  title     = {Analysis of Annotator Demographics in Sexism Detection},
+  booktitle = {Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)},
+  year      = {2024},
+  pages     = {376--383},
+  publisher = {Association for Computational Linguistics}
+}
+
+@article{zhou-2024-queer-bias,
+  author    = {Amy (Azure) Zhou},
+  title     = {Queer Bias in Natural Language Processing. Towards More Expansive Frameworks of Gender and Sexuality in {NLP} Bias Research},
+  journal   = {GRACE. Global Review of {AI} Community Ethics},
+  year      = {2024},
+  volume    = {2},
+  number    = {1},
+  url       = {https://ojs.stanford.edu/ojs/index.php/grace/article/view/3221}
+}
+
+@inproceedings{zhu-etal-2024-plms,
+  author    = {Shucheng Zhu and Bingjie Du and Jishun Zhao and Ying Liu and Pengyuan Liu},
+  title     = {Do {PLM}s and Annotators Share the Same Gender Bias. Definition, Dataset, and Framework of Contextualized Gender Bias},
+  booktitle = {Proceedings of the 5th Workshop on Gender Bias in Natural Language Processing (GeBNLP)},
+  year      = {2024},
+  pages     = {20--32},
+  publisher = {Association for Computational Linguistics}
+}
