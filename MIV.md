@@ -1,8 +1,8 @@
-# MIVA -- Metodologia de Identificacao de Vies Amplificado
+# MIV -- Metodologia de Identificacao de Vies
 
 ## 1. Descricao do Estudo
 
-A MIVA e uma metodologia proposta para detectar e quantificar a **amplificacao de vies** em modelos de classificacao de texto treinados com anotacoes provenientes de diferentes grupos demograficos. O estudo investiga se classificadores supervisionados, ao aprenderem a partir de rotulos atribuidos por anotadores humanos segregados por genero, produzem predicoes que divergem entre si mais do que as proprias anotacoes originais divergiam.
+A MIV e uma metodologia proposta para detectar vies em modelos de classificacao de texto treinados com anotacoes provenientes de diferentes grupos demograficos. O estudo investiga se classificadores supervisionados, ao aprenderem a partir de rotulos atribuidos por anotadores humanos segregados por genero, produzem predicoes que divergem entre si mais do que as proprias anotacoes originais divergiam.
 
 Os resultados, obtidos tanto em dados empiricos quanto em dados sinteticos com concordancia controlada, confirmaram que todos os classificadores avaliados amplificam sistematicamente as divergencias iniciais entre os grupos de anotadores, com magnitude e severidade que variam conforme o tipo de modelo utilizado.
 
@@ -44,7 +44,7 @@ Replicacao da mesma metodologia da Fase 2 sobre os 12 datasets sinteticos, permi
 
 ### Resultados Unificados
 
-Comparacao sistematica dos resultados empiricos e sinteticos, consolidando evidencias sobre a presenca, magnitude e severidade da amplificacao.
+Comparacao sistematica dos resultados empiricos e sinteticos, consolidando evidencias sobre a presenca, magnitude e severidade da amplificacao, quando encontrada.
 
 ---
 
@@ -53,7 +53,7 @@ Comparacao sistematica dos resultados empiricos e sinteticos, consolidando evide
 | Metrica                                    | Finalidade                                                                                                          |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
 | Kappa de Cohen                             | Concordancia entre anotadores (baseline) e entre predicoes dos modelos (pos-treinamento)     |
-| Delta Kappa                                | Diferenca entre o kappa dos anotadores e o kappa dos modelos; metrica central da MIVA que quantifica a amplificacao |
+| Delta Kappa                                | Diferenca entre o kappa dos anotadores e o kappa dos modelos; metrica central da MIV que quantifica a amplificacao |
 | V de Cramer                                | Forca da associacao entre as predicoes dos dois grupos                                                              |
 | Qui-quadrado                               | Teste de independencia estatistica entre as predicoes                                                               |
 | Intervalo de confianca por bootstrap (95%) | Significancia estatistica do Delta Kappa, obtida por reamostragem com 1.000 iteracoes                               |
@@ -131,7 +131,7 @@ Alta concordancia entre anotadores nao impede amplificacao severa em modelos de 
 
 ## 8. Trabalho Futuro
 
-Uma analise qualitativa complementar esta prevista para investigar individualmente as frases com classificacao mais divergente entre os modelos pareados, identificando padroes recorrentes de amplificacao (bilateral, unilateral, preservacao, resolucao e persistencia). Essa etapa visa aprofundar a compreensao dos mecanismos linguisticos subjacentes a amplificacao detectada pela MIVA.
+Uma analise qualitativa complementar esta prevista para investigar individualmente as frases com classificacao mais divergente entre os modelos pareados, identificando padroes recorrentes de amplificacao (bilateral, unilateral, preservacao, resolucao e persistencia). Essa etapa visa aprofundar a compreensao dos mecanismos linguisticos subjacentes a amplificacao detectada pela MIV.
 
 ---
 
@@ -141,7 +141,7 @@ Uma analise qualitativa complementar esta prevista para investigar individualmen
 fase1_processamento_logs_pcibex.ipynb   Processamento dos logs e construcao do dataset
 fase2_experimento_empirico.ipynb        Experimento com dados empíricos (MQD-1209)
 fase3_experimento_sintetico.ipynb       Experimento com dados sinteticos (SynSA)
-resultados_MIVA.ipynb                   Analise comparativa unificada
+resultados_MIV.ipynb                   Analise comparativa unificada
 
 data/
   MQD-1465.csv                          Dataset original
