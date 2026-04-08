@@ -1,0 +1,18 @@
+{
+    "sourceFile": "data/resultados_empiricos/insights_estatisticos_fase2.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1775660927456,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1775660927456,
+            "name": "Commit-0",
+            "content": "# Principais Insights Estatísticos — MIVA Fase 2\r\n\r\n**Data de geração:** 08/04/2026 10:44:34\r\n\r\n## 1) Baseline entre anotadores\r\n- **Cohen's Kappa inicial:** `0.7664`\r\n- **IC 95% do Kappa (bootstrap):** `[0.7363, 0.7954]`\r\n- **Concordância observada:** `0.8453` (84.53%)\r\n- **Cramér's V:** `0.7679`\r\n\r\n> Interpretação: há concordância inicial relativamente alta entre os grupos de anotadores.\r\n\r\n## 2) Concordância entre modelos pareados\r\n- **Média de κ_modelos (4 classificadores):** `0.4877`\r\n- **Melhor κ_modelos:** `LR` com `0.5120`\r\n- **Pior κ_modelos:** `NB` com `0.4582`\r\n\r\n## 3) Amplificação de viés (Δκ = κ_inicial - κ_modelos)\r\n- **Δκ médio:** `+0.2787`\r\n- **Maior amplificação:** `NB` com `Δκ=+0.3082`\r\n- **Menor amplificação:** `LR` com `Δκ=+0.2544`\r\n- **Modelos com amplificação detectada:** `4/4`\r\n\r\n### Severidade (Landis & Koch, 1977)\r\n- **Ausente:** 0 modelo(s)\r\n- **Leve:** 4 modelo(s)\r\n- **Moderada:** 0 modelo(s)\r\n- **Severa:** 0 modelo(s)\r\n\r\n## 4) Significância estatística (bootstrap de Δκ)\r\n- **Modelos com Δκ estatisticamente significativo:** `4/4`\r\n- **SVM:** IC 95% = [+0.2620, +0.3411] → significativo\r\n- **NB:** IC 95% = [+0.2419, +0.3140] → significativo\r\n- **RF:** IC 95% = [+0.2870, +0.3679] → significativo\r\n- **LR:** IC 95% = [+0.2291, +0.3033] → significativo\r\n\r\n## 5) Conclusão executiva\r\n- Os classificadores reproduzem padrões com **menor concordância inter-grupos** do que a observada entre anotadores humanos.\r\n- Houve **amplificação de viés em todos os modelos testados** nesta configuração experimental.\r\n- A queda de faixa de concordância foi predominantemente **leve** (1 faixa em Landis & Koch), mas consistente.\r\n\r\n---\r\nArquivo gerado automaticamente em: `data\\resultados_empiricos\\insights_estatisticos_fase2.md`"
+        }
+    ]
+}
