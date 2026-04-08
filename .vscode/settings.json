@@ -17,5 +17,6 @@
   "git.postCommitCommand": "sync",
   
   // Avisos visuais
-  "git.showUnpublishedCommitsButton": "always"
+  "git.showUnpublishedCommitsButton": "always",
+  "claudeUsageBar.displayMode": "both"
 }

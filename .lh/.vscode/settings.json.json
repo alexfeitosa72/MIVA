@@ -3,11 +3,15 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 1,
             "patches": [
                 {
                     "date": 1771275789198,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1775652782722,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -16,6 +16,7 @@\n   // Sugerir fazer push após commit\r\n   \"git.postCommitCommand\": \"sync\",\r\n   \r\n   // Avisos visuais\r\n-  \"git.showUnpublishedCommitsButton\": \"always\"\r\n+  \"git.showUnpublishedCommitsButton\": \"always\",\r\n+  \"claudeUsageBar.displayMode\": \"both\"\r\n }\r\n"
                 }
             ],
             "date": 1771275789198,
