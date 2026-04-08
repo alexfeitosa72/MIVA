@@ -18,9 +18,9 @@ O corpus original contem 1.465 frases extraidas da plataforma "Meu Querido Diari
 
 As anotacoes foram coletadas por meio da plataforma PCIbex Farm, com participantes divididos em dois grupos por genero autodeclarado (masculino e feminino). O dataset foi segmentado em 10 blocos de ate 150 frases, distribuidos aleatoriamente com semente fixa para reprodutibilidade. Cada frase recebeu exatamente quatro classificacoes por grupo de genero, e o rotulo final foi definido por voto de pluralidade, onde a classe com mais votos prevalece, descartando apenas os casos de empate entre as duas classes mais votadas.
 
-### 2.3. Dataset Processado (MQD-1209)
+### 2.3. Dataset Processado (MQD-1222)
 
-Apos remocao de duplicatas, filtragem por voto de pluralidade e garantia de paridade entre generos, o dataset final utilizado no experimento empirico contem 1.209 frases com classificacoes majoritarias validas para ambos os grupos.
+Apos remocao de duplicatas, filtragem por voto de pluralidade e garantia de paridade entre generos, o dataset final utilizado no experimento empirico contem 1.222 frases com classificacoes majoritarias validas para ambos os grupos.
 
 ### 2.4. Datasets Sinteticos (SynSA)
 
@@ -32,7 +32,7 @@ Para validacao em ambiente controlado, foram gerados 12 datasets sinteticos com 
 
 ### Fase 1 -- Processamento dos Logs
 
-Processamento dos registros brutos exportados da plataforma de anotacao. Inclui concatenacao dos blocos, identificacao de genero dos anotadores, aplicacao do criterio de pluralidade e construcao do dataset MQD-1209 com as classificacoes majoritarias por grupo.
+Processamento dos registros brutos exportados da plataforma de anotacao. Inclui concatenacao dos blocos, identificacao de genero dos anotadores, aplicacao do criterio de pluralidade e construcao do dataset MQD-1222 com as classificacoes majoritarias por grupo.
 
 ### Fase 2 -- Experimento Empirico
 
@@ -92,28 +92,34 @@ A representacao textual foi feita com TF-IDF (unigramas a trigramas, limite de 1
 
 ## 6. Resultados Esperados e Obtidos
 
-### 6.1. Experimento Empirico (MQD-1209)
+### 6.1. Experimento Empirico (MQD-1222)
 
-O coeficiente de concordancia entre os anotadores humanos (baseline) foi de 0,7652, classificado como Substantial. Todos os quatro modelos apresentaram concordancia inferior entre suas predicoes, com Delta Kappa positivo e estatisticamente significativo (intervalos de confianca a 95% excluem o zero):
+O coeficiente de concordancia entre os anotadores humanos (baseline) foi de 0,7664, classificado como Substantial. Todos os quatro modelos apresentaram concordancia inferior entre suas predicoes, com Delta Kappa positivo e estatisticamente significativo em todos os casos (intervalos de confianca bootstrap a 95% excluem o zero):
 
 | Classificador | Kappa dos modelos | Delta Kappa | Severidade     |
 | ------------- | ----------------- | ----------- | -------------- |
-| SVM           | 0,4647            | +0,3005     | Leve (1 faixa) |
-| NB            | 0,4862            | +0,2791     | Leve (1 faixa) |
-| RF            | 0,4378            | +0,3275     | Leve (1 faixa) |
-| LR            | 0,4986            | +0,2666     | Leve (1 faixa) |
+| SVM           | 0,4944            | +0,2720     | Leve (1 faixa) |
+| NB            | 0,4582            | +0,3082     | Leve (1 faixa) |
+| RF            | 0,4863            | +0,2801     | Leve (1 faixa) |
+| LR            | 0,5120            | +0,2544     | Leve (1 faixa) |
 
 A concordancia caiu da faixa Substantial (anotadores) para a faixa Moderate (modelos) em todos os casos.
 
 ### 6.2. Experimento Sintetico
 
-Os 12 datasets sinteticos, abrangendo todos os quatro classificadores (48 combinacoes), apresentaram amplificacao em 100% dos casos. Em datasets de alta concordancia (acima de 90%), o Random Forest apresentou amplificacao severa, com Delta Kappa superior a 0,70 e perda de tres a quatro faixas, mesmo quando a concordancia inicial era proxima da unanimidade.
+Os 12 datasets sinteticos, abrangendo todos os quatro classificadores (48 combinacoes), apresentaram amplificacao em 100% dos casos. Em datasets de alta concordancia (acima de 90%), o Random Forest apresentou amplificacao severa, com Delta Kappa superior a 0,63 e perda de tres faixas, mesmo quando a concordancia inicial era proxima da unanimidade.
 
 ### 6.3. Ordenacao dos Classificadores por Amplificacao
 
-Do menos ao mais amplificador, observou-se a seguinte ordenacao, consistente entre as fases empirica e sintetica:
+No experimento sintetico, a ordenacao dos classificadores do menos ao mais amplificador foi:
 
 **Regressao Logistica < Naive Bayes < SVM < Random Forest**
+
+No experimento empirico, a ordenacao observada foi:
+
+**Regressao Logistica < SVM < Random Forest < Naive Bayes**
+
+Em ambas as fases, a Regressao Logistica foi consistentemente o classificador menos amplificador. No cenario sintetico, o Random Forest destacou-se como o mais amplificador por larga margem.
 
 ### 6.4. Resultado Contra-Intuitivo
 
@@ -139,7 +145,7 @@ Uma analise qualitativa complementar esta prevista para investigar individualmen
 
 ```
 fase1_processamento_logs_pcibex.ipynb   Processamento dos logs e construcao do dataset
-fase2_experimento_empirico.ipynb        Experimento com dados empíricos (MQD-1209)
+fase2_experimento_empirico.ipynb        Experimento com dados empíricos (MQD-1222)
 fase3_experimento_sintetico.ipynb       Experimento com dados sinteticos (SynSA)
 resultados_MIV.ipynb                   Analise comparativa unificada
 

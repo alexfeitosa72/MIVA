@@ -2,51 +2,51 @@
 RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MIVA FASE 2
 ================================================================================
 
-Data: 24/02/2026 11:23:42
+Data: 08/04/2026 10:30:23
 Seed: 42
 K-Fold: 5
-N Amostras: 1209
+N Amostras: 1222
 
 --------------------------------------------------------------------------------
 BASELINE
 --------------------------------------------------------------------------------
 
-Cohen_Kappa              : 0.7652
-Concordancia             : 0.8445
-Chi2                     : 1422.18
-p_value                  : 1.07e-306
-Cramers_V                : 0.7669
-N_amostras               : 1209
-Kappa_IC95_Lower         : 0.7352
-Kappa_IC95_Upper         : 0.7962
+Cohen_Kappa              : 0.7664
+Concordancia             : 0.8453
+Chi2                     : 1441.03
+p_value                  : 8.76e-311
+Cramers_V                : 0.7679
+N_amostras               : 1222
+Kappa_IC95_Lower         : 0.7363
+Kappa_IC95_Upper         : 0.7954
 
 --------------------------------------------------------------------------------
 AMPLIFICAÇÃO
 --------------------------------------------------------------------------------
 
-κ_inicial: 0.7652
+κ_inicial: 0.7664
 
 SVM:
-  κ_modelos : 0.4647
-  Δκ        : +0.3005
+  κ_modelos : 0.4944
+  Δκ        : +0.2720
   Severidade: Leve
   Amplifica?: SIM
 
 NB:
-  κ_modelos : 0.4862
-  Δκ        : +0.2791
+  κ_modelos : 0.4582
+  Δκ        : +0.3082
   Severidade: Leve
   Amplifica?: SIM
 
 RF:
-  κ_modelos : 0.4378
-  Δκ        : +0.3275
+  κ_modelos : 0.4863
+  Δκ        : +0.2801
   Severidade: Leve
   Amplifica?: SIM
 
 LR:
-  κ_modelos : 0.4986
-  Δκ        : +0.2666
+  κ_modelos : 0.5120
+  Δκ        : +0.2544
   Severidade: Leve
   Amplifica?: SIM
 
