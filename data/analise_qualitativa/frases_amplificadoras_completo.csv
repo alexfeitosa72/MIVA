@@ -1,81 +1,81 @@
 frase_id,frase,n_modelos_total,modelo,baseline_masculino,baseline_feminino,pred_masculino,pred_feminino
-400,"Você me prometeu, eu sei, eu me lembro, você jurou que ia ser pra sempre.",4,SVM,negativa,negativa,positiva,neutra
-400,"Você me prometeu, eu sei, eu me lembro, você jurou que ia ser pra sempre.",4,NB,negativa,negativa,positiva,neutra
-400,"Você me prometeu, eu sei, eu me lembro, você jurou que ia ser pra sempre.",4,RF,negativa,negativa,positiva,neutra
-400,"Você me prometeu, eu sei, eu me lembro, você jurou que ia ser pra sempre.",4,LR,negativa,negativa,positiva,neutra
-452,Eu queria ter ido pra quadra mas a professora queria que a gente ficasse na sala de vídeo e ver o filme chato.,4,SVM,negativa,negativa,positiva,neutra
-452,Eu queria ter ido pra quadra mas a professora queria que a gente ficasse na sala de vídeo e ver o filme chato.,4,NB,negativa,negativa,positiva,neutra
-452,Eu queria ter ido pra quadra mas a professora queria que a gente ficasse na sala de vídeo e ver o filme chato.,4,RF,negativa,negativa,positiva,neutra
-452,Eu queria ter ido pra quadra mas a professora queria que a gente ficasse na sala de vídeo e ver o filme chato.,4,LR,negativa,negativa,positiva,neutra
-672,Eu insisti e eu mesma fui comprar a camisinha na farmácia.,4,SVM,negativa,negativa,positiva,neutra
-672,Eu insisti e eu mesma fui comprar a camisinha na farmácia.,4,NB,negativa,negativa,positiva,neutra
-672,Eu insisti e eu mesma fui comprar a camisinha na farmácia.,4,RF,negativa,negativa,positiva,neutra
-672,Eu insisti e eu mesma fui comprar a camisinha na farmácia.,4,LR,negativa,negativa,positiva,neutra
-712,"Ano passado foi tudo muito perfeito e esse ano, nenhum pouco.",4,SVM,negativa,negativa,positiva,neutra
-712,"Ano passado foi tudo muito perfeito e esse ano, nenhum pouco.",4,NB,negativa,negativa,positiva,neutra
-712,"Ano passado foi tudo muito perfeito e esse ano, nenhum pouco.",4,RF,negativa,negativa,positiva,neutra
-712,"Ano passado foi tudo muito perfeito e esse ano, nenhum pouco.",4,LR,negativa,negativa,positiva,neutra
-880,"O caso é não fica atrás dele, sei que é difícil não demonstrar o que sente, mas pode ter certeza, eles não dão tanto valor a garotas que ficam atrás deles, enchendo o saco o tempo todo.",4,SVM,negativa,negativa,positiva,neutra
-880,"O caso é não fica atrás dele, sei que é difícil não demonstrar o que sente, mas pode ter certeza, eles não dão tanto valor a garotas que ficam atrás deles, enchendo o saco o tempo todo.",4,NB,negativa,negativa,positiva,neutra
-880,"O caso é não fica atrás dele, sei que é difícil não demonstrar o que sente, mas pode ter certeza, eles não dão tanto valor a garotas que ficam atrás deles, enchendo o saco o tempo todo.",4,RF,negativa,negativa,positiva,neutra
-880,"O caso é não fica atrás dele, sei que é difícil não demonstrar o que sente, mas pode ter certeza, eles não dão tanto valor a garotas que ficam atrás deles, enchendo o saco o tempo todo.",4,LR,negativa,negativa,positiva,neutra
-919,Me imagino passando perto da casa dos meus pais e deixando um pão quentinho a tarde.,4,SVM,negativa,negativa,positiva,neutra
-919,Me imagino passando perto da casa dos meus pais e deixando um pão quentinho a tarde.,4,NB,negativa,negativa,positiva,neutra
-919,Me imagino passando perto da casa dos meus pais e deixando um pão quentinho a tarde.,4,RF,negativa,negativa,positiva,neutra
-919,Me imagino passando perto da casa dos meus pais e deixando um pão quentinho a tarde.,4,LR,negativa,negativa,positiva,neutra
-1097,Declarações de amizade e dos desenhos doidos no caderno de escola.,4,SVM,negativa,negativa,positiva,neutra
-1097,Declarações de amizade e dos desenhos doidos no caderno de escola.,4,NB,negativa,negativa,positiva,neutra
-1097,Declarações de amizade e dos desenhos doidos no caderno de escola.,4,RF,negativa,negativa,positiva,neutra
-1097,Declarações de amizade e dos desenhos doidos no caderno de escola.,4,LR,negativa,negativa,positiva,neutra
-1200,Entrei lá decidida que só sairia com algum outro remédio além do antidepressivo.,4,SVM,negativa,negativa,positiva,neutra
-1200,Entrei lá decidida que só sairia com algum outro remédio além do antidepressivo.,4,NB,negativa,negativa,positiva,neutra
-1200,Entrei lá decidida que só sairia com algum outro remédio além do antidepressivo.,4,RF,negativa,negativa,positiva,neutra
-1200,Entrei lá decidida que só sairia com algum outro remédio além do antidepressivo.,4,LR,negativa,negativa,positiva,neutra
-126,"Me imagino pensando em filhos, afinal tenho um sonho: adotar.",4,SVM,positiva,positiva,negativa,neutra
-126,"Me imagino pensando em filhos, afinal tenho um sonho: adotar.",4,NB,positiva,positiva,negativa,neutra
-126,"Me imagino pensando em filhos, afinal tenho um sonho: adotar.",4,RF,positiva,positiva,negativa,neutra
-126,"Me imagino pensando em filhos, afinal tenho um sonho: adotar.",4,LR,positiva,positiva,negativa,neutra
-302,Minhas amigas descobriram por que me pegaram a força e tiraram meu casaco pra ver o que eu tanto escondia.,4,SVM,positiva,positiva,negativa,neutra
-302,Minhas amigas descobriram por que me pegaram a força e tiraram meu casaco pra ver o que eu tanto escondia.,4,NB,positiva,positiva,negativa,neutra
-302,Minhas amigas descobriram por que me pegaram a força e tiraram meu casaco pra ver o que eu tanto escondia.,4,RF,positiva,positiva,negativa,neutra
-302,Minhas amigas descobriram por que me pegaram a força e tiraram meu casaco pra ver o que eu tanto escondia.,4,LR,positiva,positiva,negativa,neutra
-324,Tenho percebido como minha vida tem mudado de uns anos pra cá e como eu mudei.,4,SVM,positiva,positiva,negativa,neutra
-324,Tenho percebido como minha vida tem mudado de uns anos pra cá e como eu mudei.,4,NB,positiva,positiva,negativa,neutra
-324,Tenho percebido como minha vida tem mudado de uns anos pra cá e como eu mudei.,4,RF,positiva,positiva,negativa,neutra
-324,Tenho percebido como minha vida tem mudado de uns anos pra cá e como eu mudei.,4,LR,positiva,positiva,negativa,neutra
-542,Ele queria fazer sexo anal em mim e tava insistindo muito.,4,SVM,negativa,negativa,positiva,neutra
-542,Ele queria fazer sexo anal em mim e tava insistindo muito.,4,NB,negativa,negativa,positiva,neutra
-542,Ele queria fazer sexo anal em mim e tava insistindo muito.,4,RF,negativa,negativa,positiva,neutra
-542,Ele queria fazer sexo anal em mim e tava insistindo muito.,4,LR,negativa,negativa,positiva,neutra
-747,"Preciso de bons curativos, que não sejam eternos, afinal nada é para sempre, mas, que não sejam descartáveis.",4,SVM,negativa,negativa,positiva,neutra
-747,"Preciso de bons curativos, que não sejam eternos, afinal nada é para sempre, mas, que não sejam descartáveis.",4,NB,negativa,negativa,positiva,neutra
-747,"Preciso de bons curativos, que não sejam eternos, afinal nada é para sempre, mas, que não sejam descartáveis.",4,RF,negativa,negativa,positiva,neutra
-747,"Preciso de bons curativos, que não sejam eternos, afinal nada é para sempre, mas, que não sejam descartáveis.",4,LR,negativa,negativa,positiva,neutra
-1005,Pelo menos pornografia não engorda.,4,SVM,negativa,negativa,positiva,neutra
-1005,Pelo menos pornografia não engorda.,4,NB,negativa,negativa,positiva,neutra
-1005,Pelo menos pornografia não engorda.,4,RF,negativa,negativa,positiva,neutra
-1005,Pelo menos pornografia não engorda.,4,LR,negativa,negativa,positiva,neutra
-127,"Bom hoje começo escrever meu diário virtual, já que não tenho um único amigo pra me ouvir quando preciso.",4,SVM,negativa,negativa,positiva,neutra
-127,"Bom hoje começo escrever meu diário virtual, já que não tenho um único amigo pra me ouvir quando preciso.",4,NB,negativa,negativa,positiva,neutra
-127,"Bom hoje começo escrever meu diário virtual, já que não tenho um único amigo pra me ouvir quando preciso.",4,RF,negativa,negativa,positiva,neutra
-127,"Bom hoje começo escrever meu diário virtual, já que não tenho um único amigo pra me ouvir quando preciso.",4,LR,negativa,negativa,positiva,neutra
-791,Fazer as escolhas certas é que é o difícil da coisa.,4,SVM,negativa,negativa,positiva,neutra
-791,Fazer as escolhas certas é que é o difícil da coisa.,4,NB,negativa,negativa,positiva,neutra
-791,Fazer as escolhas certas é que é o difícil da coisa.,4,RF,negativa,negativa,positiva,neutra
-791,Fazer as escolhas certas é que é o difícil da coisa.,4,LR,negativa,negativa,positiva,neutra
-1177,"Eu queria muito ter a amizade dele, mas ele sempre vem com segundas intenções, estou quase dando um fim nisso, quer dizer de outra forma, excluindo ele.",4,SVM,neutra,neutra,positiva,negativa
-1177,"Eu queria muito ter a amizade dele, mas ele sempre vem com segundas intenções, estou quase dando um fim nisso, quer dizer de outra forma, excluindo ele.",4,NB,neutra,neutra,positiva,negativa
-1177,"Eu queria muito ter a amizade dele, mas ele sempre vem com segundas intenções, estou quase dando um fim nisso, quer dizer de outra forma, excluindo ele.",4,RF,neutra,neutra,positiva,negativa
-1177,"Eu queria muito ter a amizade dele, mas ele sempre vem com segundas intenções, estou quase dando um fim nisso, quer dizer de outra forma, excluindo ele.",4,LR,neutra,neutra,positiva,negativa
-669,"Ela pode até ficar meio sem jeito, mas, se a conversa dos dois havia sido agradável para ela, com certeza ela irá aceitar o convite;",4,SVM,positiva,positiva,neutra,negativa
-669,"Ela pode até ficar meio sem jeito, mas, se a conversa dos dois havia sido agradável para ela, com certeza ela irá aceitar o convite;",4,NB,positiva,positiva,positiva,negativa
-669,"Ela pode até ficar meio sem jeito, mas, se a conversa dos dois havia sido agradável para ela, com certeza ela irá aceitar o convite;",4,RF,positiva,positiva,neutra,negativa
-669,"Ela pode até ficar meio sem jeito, mas, se a conversa dos dois havia sido agradável para ela, com certeza ela irá aceitar o convite;",4,LR,positiva,positiva,neutra,negativa
-725,"Me lembro que eu comia muito na escola, para não ter que comer em casa, e tomava banho escondido, era muito triste.",4,SVM,negativa,negativa,negativa,neutra
-725,"Me lembro que eu comia muito na escola, para não ter que comer em casa, e tomava banho escondido, era muito triste.",4,NB,negativa,negativa,positiva,neutra
-725,"Me lembro que eu comia muito na escola, para não ter que comer em casa, e tomava banho escondido, era muito triste.",4,RF,negativa,negativa,positiva,neutra
-725,"Me lembro que eu comia muito na escola, para não ter que comer em casa, e tomava banho escondido, era muito triste.",4,LR,negativa,negativa,positiva,neutra
-1048,"Mas foi em uma semana, muito bem planejada por mim, que enfim ocorreu o nosso encontro dos sonhos.",4,SVM,negativa,negativa,positiva,neutra
-1048,"Mas foi em uma semana, muito bem planejada por mim, que enfim ocorreu o nosso encontro dos sonhos.",4,NB,negativa,negativa,positiva,neutra
-1048,"Mas foi em uma semana, muito bem planejada por mim, que enfim ocorreu o nosso encontro dos sonhos.",4,RF,negativa,negativa,positiva,negativa
-1048,"Mas foi em uma semana, muito bem planejada por mim, que enfim ocorreu o nosso encontro dos sonhos.",4,LR,negativa,negativa,positiva,neutra
+1128,"Quando o telefone toca,já me acelera o coração",4.0,SVM,negativa,negativa,positiva,neutra
+1128,"Quando o telefone toca,já me acelera o coração",4.0,NB,negativa,negativa,positiva,neutra
+1128,"Quando o telefone toca,já me acelera o coração",4.0,RF,negativa,negativa,positiva,neutra
+1128,"Quando o telefone toca,já me acelera o coração",4.0,LR,negativa,negativa,positiva,neutra
+255,"Tive uma crise de choro enquanto fazia sexo com meu namorado, acusando ele de não me amar, de me tratar como um objeto e pra ele não tocar mais em mim.",4.0,SVM,negativa,negativa,positiva,neutra
+255,"Tive uma crise de choro enquanto fazia sexo com meu namorado, acusando ele de não me amar, de me tratar como um objeto e pra ele não tocar mais em mim.",4.0,NB,negativa,negativa,positiva,neutra
+255,"Tive uma crise de choro enquanto fazia sexo com meu namorado, acusando ele de não me amar, de me tratar como um objeto e pra ele não tocar mais em mim.",4.0,RF,negativa,negativa,positiva,neutra
+255,"Tive uma crise de choro enquanto fazia sexo com meu namorado, acusando ele de não me amar, de me tratar como um objeto e pra ele não tocar mais em mim.",4.0,LR,negativa,negativa,positiva,neutra
+26,"Estar sozinho é triste, enche o saco dos outros e deve fazer mal para a saúde.",4.0,SVM,neutra,neutra,positiva,negativa
+26,"Estar sozinho é triste, enche o saco dos outros e deve fazer mal para a saúde.",4.0,NB,neutra,neutra,positiva,negativa
+26,"Estar sozinho é triste, enche o saco dos outros e deve fazer mal para a saúde.",4.0,RF,neutra,neutra,positiva,negativa
+26,"Estar sozinho é triste, enche o saco dos outros e deve fazer mal para a saúde.",4.0,LR,neutra,neutra,positiva,negativa
+1196,"Chegando na casa dele, eu me senti confortável.",4.0,SVM,negativa,negativa,positiva,neutra
+1196,"Chegando na casa dele, eu me senti confortável.",4.0,NB,negativa,negativa,positiva,neutra
+1196,"Chegando na casa dele, eu me senti confortável.",4.0,RF,negativa,negativa,positiva,neutra
+1196,"Chegando na casa dele, eu me senti confortável.",4.0,LR,negativa,negativa,positiva,neutra
+401,"Você me prometeu, eu sei, eu me lembro, você jurou que ia ser pra sempre.",4.0,SVM,negativa,negativa,positiva,neutra
+401,"Você me prometeu, eu sei, eu me lembro, você jurou que ia ser pra sempre.",4.0,NB,negativa,negativa,positiva,neutra
+401,"Você me prometeu, eu sei, eu me lembro, você jurou que ia ser pra sempre.",4.0,RF,negativa,negativa,positiva,neutra
+401,"Você me prometeu, eu sei, eu me lembro, você jurou que ia ser pra sempre.",4.0,LR,negativa,negativa,positiva,neutra
+14,Seu lado da sapateira era cheio de sapatos que nunca acabava e eu sempre reclamava da confusão.,4.0,SVM,negativa,negativa,positiva,neutra
+14,Seu lado da sapateira era cheio de sapatos que nunca acabava e eu sempre reclamava da confusão.,4.0,NB,negativa,negativa,positiva,neutra
+14,Seu lado da sapateira era cheio de sapatos que nunca acabava e eu sempre reclamava da confusão.,4.0,RF,negativa,negativa,positiva,neutra
+14,Seu lado da sapateira era cheio de sapatos que nunca acabava e eu sempre reclamava da confusão.,4.0,LR,negativa,negativa,positiva,neutra
+722,"Ano passado foi tudo muito perfeito e esse ano, nenhum pouco.",4.0,SVM,negativa,negativa,positiva,neutra
+722,"Ano passado foi tudo muito perfeito e esse ano, nenhum pouco.",4.0,NB,negativa,negativa,positiva,neutra
+722,"Ano passado foi tudo muito perfeito e esse ano, nenhum pouco.",4.0,RF,negativa,negativa,neutra,positiva
+722,"Ano passado foi tudo muito perfeito e esse ano, nenhum pouco.",4.0,LR,negativa,negativa,positiva,neutra
+1213,Entrei lá decidida que só sairia com algum outro remédio além do antidepressivo.,4.0,SVM,negativa,negativa,positiva,neutra
+1213,Entrei lá decidida que só sairia com algum outro remédio além do antidepressivo.,4.0,NB,negativa,negativa,positiva,neutra
+1213,Entrei lá decidida que só sairia com algum outro remédio além do antidepressivo.,4.0,RF,negativa,negativa,positiva,neutra
+1213,Entrei lá decidida que só sairia com algum outro remédio além do antidepressivo.,4.0,LR,negativa,negativa,positiva,neutra
+679,Eu insisti e eu mesma fui comprar a camisinha na farmácia.,4.0,SVM,negativa,negativa,positiva,neutra
+679,Eu insisti e eu mesma fui comprar a camisinha na farmácia.,4.0,NB,negativa,negativa,positiva,neutra
+679,Eu insisti e eu mesma fui comprar a camisinha na farmácia.,4.0,RF,negativa,negativa,positiva,neutra
+679,Eu insisti e eu mesma fui comprar a camisinha na farmácia.,4.0,LR,negativa,negativa,positiva,neutra
+30,"Sou sozinho apesar de ser casado, mas há tempo que este casamento não passa de um papel assinado, o amor se foi juntamente com o respeito e a confiança, tudo o que sobrou foi o comodismo, a tristeza e a falta de esperança por falta da minha esposa.",4.0,SVM,neutra,neutra,positiva,negativa
+30,"Sou sozinho apesar de ser casado, mas há tempo que este casamento não passa de um papel assinado, o amor se foi juntamente com o respeito e a confiança, tudo o que sobrou foi o comodismo, a tristeza e a falta de esperança por falta da minha esposa.",4.0,NB,neutra,neutra,positiva,negativa
+30,"Sou sozinho apesar de ser casado, mas há tempo que este casamento não passa de um papel assinado, o amor se foi juntamente com o respeito e a confiança, tudo o que sobrou foi o comodismo, a tristeza e a falta de esperança por falta da minha esposa.",4.0,RF,neutra,neutra,positiva,negativa
+30,"Sou sozinho apesar de ser casado, mas há tempo que este casamento não passa de um papel assinado, o amor se foi juntamente com o respeito e a confiança, tudo o que sobrou foi o comodismo, a tristeza e a falta de esperança por falta da minha esposa.",4.0,LR,neutra,neutra,positiva,negativa
+155,"Depois meu pai, simplesmente chegou e falou algo do tipo Sua sem coração, não notou que seu cachorro não está mais aí, que roubaram ele?.",4.0,SVM,negativa,negativa,positiva,neutra
+155,"Depois meu pai, simplesmente chegou e falou algo do tipo Sua sem coração, não notou que seu cachorro não está mais aí, que roubaram ele?.",4.0,NB,negativa,negativa,positiva,neutra
+155,"Depois meu pai, simplesmente chegou e falou algo do tipo Sua sem coração, não notou que seu cachorro não está mais aí, que roubaram ele?.",4.0,RF,negativa,negativa,positiva,neutra
+155,"Depois meu pai, simplesmente chegou e falou algo do tipo Sua sem coração, não notou que seu cachorro não está mais aí, que roubaram ele?.",4.0,LR,negativa,negativa,positiva,neutra
+931,Me imagino passando perto da casa dos meus pais e deixando um pão quentinho a tarde.,4.0,SVM,negativa,negativa,positiva,neutra
+931,Me imagino passando perto da casa dos meus pais e deixando um pão quentinho a tarde.,4.0,NB,negativa,negativa,positiva,neutra
+931,Me imagino passando perto da casa dos meus pais e deixando um pão quentinho a tarde.,4.0,RF,negativa,negativa,positiva,neutra
+931,Me imagino passando perto da casa dos meus pais e deixando um pão quentinho a tarde.,4.0,LR,negativa,negativa,positiva,neutra
+388,"E Minha vida nunca e nunca será algo que possa chama de vida, os meus amigos(colegas) parecem ter uma vida melhor que a minha, não quero mais ter que esconder que estou sofrendo.",4.0,SVM,negativa,negativa,positiva,neutra
+388,"E Minha vida nunca e nunca será algo que possa chama de vida, os meus amigos(colegas) parecem ter uma vida melhor que a minha, não quero mais ter que esconder que estou sofrendo.",4.0,NB,negativa,negativa,positiva,neutra
+388,"E Minha vida nunca e nunca será algo que possa chama de vida, os meus amigos(colegas) parecem ter uma vida melhor que a minha, não quero mais ter que esconder que estou sofrendo.",4.0,RF,negativa,negativa,positiva,negativa
+388,"E Minha vida nunca e nunca será algo que possa chama de vida, os meus amigos(colegas) parecem ter uma vida melhor que a minha, não quero mais ter que esconder que estou sofrendo.",4.0,LR,negativa,negativa,positiva,neutra
+1176,"Meu fim de semana foi razoável, digamos que esperava um pouquinho mais.",4.0,SVM,positiva,positiva,negativa,neutra
+1176,"Meu fim de semana foi razoável, digamos que esperava um pouquinho mais.",4.0,NB,positiva,positiva,negativa,neutra
+1176,"Meu fim de semana foi razoável, digamos que esperava um pouquinho mais.",4.0,RF,positiva,positiva,positiva,neutra
+1176,"Meu fim de semana foi razoável, digamos que esperava um pouquinho mais.",4.0,LR,positiva,positiva,negativa,neutra
+830,"Por um lado vai ser bom porque não vou ter que escutar minha mãe gritando no trânsito, o que ja ajuda muito.",4.0,SVM,negativa,negativa,positiva,neutra
+830,"Por um lado vai ser bom porque não vou ter que escutar minha mãe gritando no trânsito, o que ja ajuda muito.",4.0,NB,negativa,negativa,positiva,negativa
+830,"Por um lado vai ser bom porque não vou ter que escutar minha mãe gritando no trânsito, o que ja ajuda muito.",4.0,RF,negativa,negativa,positiva,neutra
+830,"Por um lado vai ser bom porque não vou ter que escutar minha mãe gritando no trânsito, o que ja ajuda muito.",4.0,LR,negativa,negativa,positiva,neutra
+1125,Ela se interessa por todos os seus assuntos sem pé e sem cabeça.,4.0,SVM,neutra,neutra,positiva,negativa
+1125,Ela se interessa por todos os seus assuntos sem pé e sem cabeça.,4.0,NB,neutra,neutra,positiva,negativa
+1125,Ela se interessa por todos os seus assuntos sem pé e sem cabeça.,4.0,RF,neutra,neutra,positiva,neutra
+1125,Ela se interessa por todos os seus assuntos sem pé e sem cabeça.,4.0,LR,neutra,neutra,positiva,negativa
+1004,"Pra comemorar pedimos pizza, e eu fiz uma carta e deixei do lado dele da cama!",4.0,SVM,neutra,neutra,positiva,negativa
+1004,"Pra comemorar pedimos pizza, e eu fiz uma carta e deixei do lado dele da cama!",4.0,NB,neutra,neutra,positiva,negativa
+1004,"Pra comemorar pedimos pizza, e eu fiz uma carta e deixei do lado dele da cama!",4.0,RF,neutra,neutra,positiva,neutra
+1004,"Pra comemorar pedimos pizza, e eu fiz uma carta e deixei do lado dele da cama!",4.0,LR,neutra,neutra,positiva,negativa
+951,"Imaginem uma menina de 14 anos alta, e sem peito, bunda, cochas longas e finas, com certeza ficaria uma merda.",4.0,SVM,negativa,negativa,positiva,neutra
+951,"Imaginem uma menina de 14 anos alta, e sem peito, bunda, cochas longas e finas, com certeza ficaria uma merda.",4.0,NB,negativa,negativa,positiva,neutra
+951,"Imaginem uma menina de 14 anos alta, e sem peito, bunda, cochas longas e finas, com certeza ficaria uma merda.",4.0,RF,negativa,negativa,positiva,negativa
+951,"Imaginem uma menina de 14 anos alta, e sem peito, bunda, cochas longas e finas, com certeza ficaria uma merda.",4.0,LR,negativa,negativa,positiva,neutra
+21,"Mãe, desculpe por eu ser quem sou, por eu ser tão e unicamente eu, por eu ser diferente, por eu ser tão errada aos olhos teus.",4.0,SVM,negativa,negativa,positiva,neutra
+21,"Mãe, desculpe por eu ser quem sou, por eu ser tão e unicamente eu, por eu ser diferente, por eu ser tão errada aos olhos teus.",4.0,NB,negativa,negativa,positiva,neutra
+21,"Mãe, desculpe por eu ser quem sou, por eu ser tão e unicamente eu, por eu ser diferente, por eu ser tão errada aos olhos teus.",4.0,RF,negativa,negativa,positiva,negativa
+21,"Mãe, desculpe por eu ser quem sou, por eu ser tão e unicamente eu, por eu ser diferente, por eu ser tão errada aos olhos teus.",4.0,LR,negativa,negativa,positiva,neutra
+856,"Pois é, me orgulho de mim mesma, porque mesmo com todos os problemas, continuo aqui intacta.",4.0,SVM,negativa,negativa,positiva,neutra
+856,"Pois é, me orgulho de mim mesma, porque mesmo com todos os problemas, continuo aqui intacta.",4.0,NB,negativa,negativa,positiva,neutra
+856,"Pois é, me orgulho de mim mesma, porque mesmo com todos os problemas, continuo aqui intacta.",4.0,RF,negativa,negativa,neutra,negativa
+856,"Pois é, me orgulho de mim mesma, porque mesmo com todos os problemas, continuo aqui intacta.",4.0,LR,negativa,negativa,positiva,neutra

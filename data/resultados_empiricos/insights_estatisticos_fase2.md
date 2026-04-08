@@ -1,6 +1,6 @@
-# Principais Insights Estatísticos — MIVA Fase 2
+# Principais Insights Estatísticos — MADA Fase 2
 
-**Data de geração:** 08/04/2026 10:44:34
+**Data de geração:** 08/04/2026 13:44:34
 
 ## 1) Baseline entre anotadores
 - **Cohen's Kappa inicial:** `0.7664`
@@ -29,10 +29,10 @@
 
 ## 4) Significância estatística (bootstrap de Δκ)
 - **Modelos com Δκ estatisticamente significativo:** `4/4`
-- **SVM:** IC 95% = [+0.2620, +0.3411] → significativo
-- **NB:** IC 95% = [+0.2419, +0.3140] → significativo
-- **RF:** IC 95% = [+0.2870, +0.3679] → significativo
-- **LR:** IC 95% = [+0.2291, +0.3033] → significativo
+  - SVM: Δκ observado `+0.2720`, IC95% `[+0.2335, +0.3095]`, direção: **AMPLIFICA**
+  - NB: Δκ observado `+0.3082`, IC95% `[+0.2710, +0.3436]`, direção: **AMPLIFICA**
+  - RF: Δκ observado `+0.2801`, IC95% `[+0.2375, +0.3179]`, direção: **AMPLIFICA**
+  - LR: Δκ observado `+0.2544`, IC95% `[+0.2175, +0.2900]`, direção: **AMPLIFICA**
 
 ## 5) Conclusão executiva
 - Os classificadores reproduzem padrões com **menor concordância inter-grupos** do que a observada entre anotadores humanos.

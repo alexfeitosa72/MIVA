@@ -1,0 +1,18 @@
+{
+    "sourceFile": "data/resultados_empiricos/relatorio_amplificacao_vies.txt",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1775671233071,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1775671233071,
+            "name": "Commit-0",
+            "content": "================================================================================\r\nRELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MADAA FASE 2\r\n================================================================================\r\n\r\nData: 08/04/2026 10:30:23\r\nSeed: 42\r\nK-Fold: 5\r\nN Amostras: 1222\r\n\r\n--------------------------------------------------------------------------------\r\nBASELINE\r\n--------------------------------------------------------------------------------\r\n\r\nCohen_Kappa              : 0.7664\r\nConcordancia             : 0.8453\r\nChi2                     : 1441.03\r\np_value                  : 8.76e-311\r\nCramers_V                : 0.7679\r\nN_amostras               : 1222\r\nKappa_IC95_Lower         : 0.7363\r\nKappa_IC95_Upper         : 0.7954\r\n\r\n--------------------------------------------------------------------------------\r\nAMPLIFICAÇÃO\r\n--------------------------------------------------------------------------------\r\n\r\nκ_inicial: 0.7664\r\n\r\nSVM:\r\n  κ_modelos : 0.4944\r\n  Δκ        : +0.2720\r\n  Severidade: Leve\r\n  Amplifica?: SIM\r\n\r\nNB:\r\n  κ_modelos : 0.4582\r\n  Δκ        : +0.3082\r\n  Severidade: Leve\r\n  Amplifica?: SIM\r\n\r\nRF:\r\n  κ_modelos : 0.4863\r\n  Δκ        : +0.2801\r\n  Severidade: Leve\r\n  Amplifica?: SIM\r\n\r\nLR:\r\n  κ_modelos : 0.5120\r\n  Δκ        : +0.2544\r\n  Severidade: Leve\r\n  Amplifica?: SIM\r\n\r\n================================================================================\r\n[AVISO] 4/4 modelos amplificaram viés.\r\n"
+        }
+    ]
+}
