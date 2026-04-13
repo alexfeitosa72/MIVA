@@ -1,0 +1,19 @@
+{
+  "db_acl": 7,
+  "db_scopus": 4,
+  "db_wos": 2,
+  "db_sol": 0,
+  "db_acm-dl": 83,
+  "db_other": 0,
+  "other_sources": 158,
+  "duplicates": 2,
+  "auto_excluded": 0,
+  "screened": 252,
+  "excluded_screen": 66,
+  "sought": 186,
+  "not_retrieved": 0,
+  "assessed": 186,
+  "excluded_ft": 0,
+  "exclusion_reasons": [],
+  "included": 186
+}
