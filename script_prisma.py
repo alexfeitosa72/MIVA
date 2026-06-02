@@ -6,22 +6,22 @@ import textwrap
 # DADOS DO ESTUDO
 # =========================
 dados = {
-    "bases": 320,
-    "outras_fontes": 18,
-    "duplicados": 42,
+    "bases": 96,
+    "outras_fontes": 66,
+    "duplicados": 2,
     "outros_removidos": 0,
-    "triados": 296,
-    "excluidos_titulo_resumo": 210,
-    "buscados": 86,
-    "nao_recuperados": 3,
-    "avaliados": 83,
+    "triados": 160,
+    "excluidos_titulo_resumo": 62,
+    "buscados": 98,
+    "nao_recuperados": 0,
+    "avaliados": 98,
     "excluidos_elegibilidade": {
-        "Fora do escopo": 28,
-        "Sem relação direta com viés/anotação": 17,
-        "Sem experimento empírico": 10,
-        "Duplicidade temática": 6,
+        "Fora do escopo": 19,
+        "Sem relação direta com viés/anotação": 11,
+        "Sem experimento empírico": 0,
+        "Duplicidade temática": 10,
     },
-    "incluidos": 22
+    "incluidos": 58
 }
 
 # =========================

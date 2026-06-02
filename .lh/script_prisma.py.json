@@ -3,11 +3,75 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 16,
             "patches": [
                 {
                     "date": 1780361557566,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1780361737570,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n # =========================\r\n # DADOS DO ESTUDO\r\n # =========================\r\n dados = {\r\n-    \"bases\": 320,\r\n+    \"bases\": 3,\r\n     \"outras_fontes\": 18,\r\n     \"duplicados\": 42,\r\n     \"outros_removidos\": 0,\r\n     \"triados\": 296,\r\n"
+                },
+                {
+                    "date": 1780361749225,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,10 +5,10 @@\n # =========================\r\n # DADOS DO ESTUDO\r\n # =========================\r\n dados = {\r\n-    \"bases\": 3,\r\n-    \"outras_fontes\": 18,\r\n+    \"bases\": 98,\r\n+    \"outras_fontes\": 66,\r\n     \"duplicados\": 42,\r\n     \"outros_removidos\": 0,\r\n     \"triados\": 296,\r\n     \"excluidos_titulo_resumo\": 210,\r\n"
+                },
+                {
+                    "date": 1780361754313,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n # =========================\r\n dados = {\r\n     \"bases\": 98,\r\n     \"outras_fontes\": 66,\r\n-    \"duplicados\": 42,\r\n+    \"duplicados\": 2,\r\n     \"outros_removidos\": 0,\r\n     \"triados\": 296,\r\n     \"excluidos_titulo_resumo\": 210,\r\n     \"buscados\": 86,\r\n"
+                },
+                {
+                    "date": 1780361786565,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n # =========================\r\n # DADOS DO ESTUDO\r\n # =========================\r\n dados = {\r\n-    \"bases\": 98,\r\n+    \"bases\": 96,\r\n     \"outras_fontes\": 66,\r\n     \"duplicados\": 2,\r\n     \"outros_removidos\": 0,\r\n     \"triados\": 296,\r\n"
+                },
+                {
+                    "date": 1780361941442,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -9,9 +9,9 @@\n     \"bases\": 96,\r\n     \"outras_fontes\": 66,\r\n     \"duplicados\": 2,\r\n     \"outros_removidos\": 0,\r\n-    \"triados\": 296,\r\n+    \"triados\": 29616,\r\n     \"excluidos_titulo_resumo\": 210,\r\n     \"buscados\": 86,\r\n     \"nao_recuperados\": 3,\r\n     \"avaliados\": 83,\r\n"
+                },
+                {
+                    "date": 1780361957545,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -9,10 +9,10 @@\n     \"bases\": 96,\r\n     \"outras_fontes\": 66,\r\n     \"duplicados\": 2,\r\n     \"outros_removidos\": 0,\r\n-    \"triados\": 29616,\r\n-    \"excluidos_titulo_resumo\": 210,\r\n+    \"triados\": 160,\r\n+    \"excluidos_titulo_resumo\": 62,\r\n     \"buscados\": 86,\r\n     \"nao_recuperados\": 3,\r\n     \"avaliados\": 83,\r\n     \"excluidos_elegibilidade\": {\r\n"
+                },
+                {
+                    "date": 1780361987339,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,9 +11,9 @@\n     \"duplicados\": 2,\r\n     \"outros_removidos\": 0,\r\n     \"triados\": 160,\r\n     \"excluidos_titulo_resumo\": 62,\r\n-    \"buscados\": 86,\r\n+    \"buscados\": 860,\r\n     \"nao_recuperados\": 3,\r\n     \"avaliados\": 83,\r\n     \"excluidos_elegibilidade\": {\r\n         \"Fora do escopo\": 28,\r\n"
+                },
+                {
+                    "date": 1780362216939,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,9 +11,9 @@\n     \"duplicados\": 2,\r\n     \"outros_removidos\": 0,\r\n     \"triados\": 160,\r\n     \"excluidos_titulo_resumo\": 62,\r\n-    \"buscados\": 860,\r\n+    \"buscados\": 98,\r\n     \"nao_recuperados\": 3,\r\n     \"avaliados\": 83,\r\n     \"excluidos_elegibilidade\": {\r\n         \"Fora do escopo\": 28,\r\n"
+                },
+                {
+                    "date": 1780362232288,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n     \"outros_removidos\": 0,\r\n     \"triados\": 160,\r\n     \"excluidos_titulo_resumo\": 62,\r\n     \"buscados\": 98,\r\n-    \"nao_recuperados\": 3,\r\n+    \"nao_recuperados\": 30,\r\n     \"avaliados\": 83,\r\n     \"excluidos_elegibilidade\": {\r\n         \"Fora do escopo\": 28,\r\n         \"Sem relação direta com viés/anotação\": 17,\r\n"
+                },
+                {
+                    "date": 1780362285803,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,10 +12,10 @@\n     \"outros_removidos\": 0,\r\n     \"triados\": 160,\r\n     \"excluidos_titulo_resumo\": 62,\r\n     \"buscados\": 98,\r\n-    \"nao_recuperados\": 30,\r\n-    \"avaliados\": 83,\r\n+    \"nao_recuperados\": 0,\r\n+    \"avaliados\": 8398,\r\n     \"excluidos_elegibilidade\": {\r\n         \"Fora do escopo\": 28,\r\n         \"Sem relação direta com viés/anotação\": 17,\r\n         \"Sem experimento empírico\": 10,\r\n"
+                },
+                {
+                    "date": 1780362328153,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -13,11 +13,11 @@\n     \"triados\": 160,\r\n     \"excluidos_titulo_resumo\": 62,\r\n     \"buscados\": 98,\r\n     \"nao_recuperados\": 0,\r\n-    \"avaliados\": 8398,\r\n+    \"avaliados\": 98,\r\n     \"excluidos_elegibilidade\": {\r\n-        \"Fora do escopo\": 28,\r\n+        \"Fora do escopo\": 2819,\r\n         \"Sem relação direta com viés/anotação\": 17,\r\n         \"Sem experimento empírico\": 10,\r\n         \"Duplicidade temática\": 6,\r\n     },\r\n"
+                },
+                {
+                    "date": 1780362346305,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,10 +15,10 @@\n     \"buscados\": 98,\r\n     \"nao_recuperados\": 0,\r\n     \"avaliados\": 98,\r\n     \"excluidos_elegibilidade\": {\r\n-        \"Fora do escopo\": 2819,\r\n-        \"Sem relação direta com viés/anotação\": 17,\r\n+        \"Fora do escopo\": 19,\r\n+        \"Sem relação direta com viés/anotação\": 0,\r\n         \"Sem experimento empírico\": 10,\r\n         \"Duplicidade temática\": 6,\r\n     },\r\n     \"incluidos\": 22\r\n"
+                },
+                {
+                    "date": 1780362363042,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -17,9 +17,9 @@\n     \"avaliados\": 98,\r\n     \"excluidos_elegibilidade\": {\r\n         \"Fora do escopo\": 19,\r\n         \"Sem relação direta com viés/anotação\": 0,\r\n-        \"Sem experimento empírico\": 10,\r\n+        \"Sem experimento empírico\": 100,\r\n         \"Duplicidade temática\": 6,\r\n     },\r\n     \"incluidos\": 22\r\n }\r\n"
+                },
+                {
+                    "date": 1780362382648,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -16,10 +16,10 @@\n     \"nao_recuperados\": 0,\r\n     \"avaliados\": 98,\r\n     \"excluidos_elegibilidade\": {\r\n         \"Fora do escopo\": 19,\r\n-        \"Sem relação direta com viés/anotação\": 0,\r\n-        \"Sem experimento empírico\": 100,\r\n+        \"Sem relação direta com viés/anotação\": 011,\r\n+        \"Sem experimento empírico\": 0,\r\n         \"Duplicidade temática\": 6,\r\n     },\r\n     \"incluidos\": 22\r\n }\r\n"
+                },
+                {
+                    "date": 1780362396365,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -16,13 +16,13 @@\n     \"nao_recuperados\": 0,\r\n     \"avaliados\": 98,\r\n     \"excluidos_elegibilidade\": {\r\n         \"Fora do escopo\": 19,\r\n-        \"Sem relação direta com viés/anotação\": 011,\r\n+        \"Sem relação direta com viés/anotação\": 11,\r\n         \"Sem experimento empírico\": 0,\r\n         \"Duplicidade temática\": 6,\r\n     },\r\n-    \"incluidos\": 22\r\n+    \"incluidos\": 2258\r\n }\r\n \r\n # =========================\r\n # CONFIGURAÇÃO VISUAL\r\n"
+                },
+                {
+                    "date": 1780362423350,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -18,11 +18,11 @@\n     \"excluidos_elegibilidade\": {\r\n         \"Fora do escopo\": 19,\r\n         \"Sem relação direta com viés/anotação\": 11,\r\n         \"Sem experimento empírico\": 0,\r\n-        \"Duplicidade temática\": 6,\r\n+        \"Duplicidade temática\": 10,\r\n     },\r\n-    \"incluidos\": 2258\r\n+    \"incluidos\": 58\r\n }\r\n \r\n # =========================\r\n # CONFIGURAÇÃO VISUAL\r\n"
                 }
             ],
             "date": 1780361557566,
