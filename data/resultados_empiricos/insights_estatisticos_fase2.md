@@ -1,6 +1,6 @@
 # Principais Insights Estatísticos — MADA Fase 2
 
-**Data de geração:** 08/04/2026 13:44:34
+**Data de geração:** 07/06/2026 16:32:36
 
 ## 1) Baseline entre anotadores
 - **Cohen's Kappa inicial:** `0.7664`

@@ -1,0 +1,11 @@
+﻿componente,versao
+python,3.13.7
+pandas,2.2.3
+numpy,2.2.1
+matplotlib,3.10.0
+scikit-learn,1.6.1
+scipy,1.15.1
+seaborn,0.13.2
+statsmodels,0.14.4
+nltk,nao_instalado
+joblib,1.4.2
