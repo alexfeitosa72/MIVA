@@ -1,6 +1,6 @@
 # Principais Insights Estatísticos — MADA Fase 2
 
-**Data de geração:** 07/06/2026 16:32:36
+**Data de geração:** 20/06/2026 11:07:26
 
 ## 1) Baseline entre anotadores
 - **Cohen's Kappa inicial:** `0.7664`
@@ -11,14 +11,14 @@
 > Interpretação: há concordância inicial relativamente alta entre os grupos de anotadores.
 
 ## 2) Concordância entre modelos pareados
-- **Média de κ_modelos (4 classificadores):** `0.4877`
-- **Melhor κ_modelos:** `LR` com `0.5120`
-- **Pior κ_modelos:** `NB` com `0.4582`
+- **Média de κ_modelos (4 classificadores):** `0.4904`
+- **Melhor κ_modelos:** `LR` com `0.5140`
+- **Pior κ_modelos:** `NB` com `0.4680`
 
 ## 3) Amplificação de viés (Δκ = κ_inicial - κ_modelos)
-- **Δκ médio:** `+0.2787`
-- **Maior amplificação:** `NB` com `Δκ=+0.3082`
-- **Menor amplificação:** `LR` com `Δκ=+0.2544`
+- **Δκ médio:** `+0.2760`
+- **Maior amplificação:** `NB` com `Δκ=+0.2984`
+- **Menor amplificação:** `LR` com `Δκ=+0.2524`
 - **Modelos com amplificação detectada:** `4/4`
 
 ### Severidade (Landis & Koch, 1977)
@@ -29,10 +29,10 @@
 
 ## 4) Significância estatística (bootstrap de Δκ)
 - **Modelos com Δκ estatisticamente significativo:** `4/4`
-  - SVM: Δκ observado `+0.2720`, IC95% `[+0.2335, +0.3095]`, direção: **AMPLIFICA**
-  - NB: Δκ observado `+0.3082`, IC95% `[+0.2710, +0.3436]`, direção: **AMPLIFICA**
-  - RF: Δκ observado `+0.2801`, IC95% `[+0.2375, +0.3179]`, direção: **AMPLIFICA**
-  - LR: Δκ observado `+0.2544`, IC95% `[+0.2175, +0.2900]`, direção: **AMPLIFICA**
+  - SVM: Δκ observado `+0.2888`, IC95% `[+0.2476, +0.3248]`, direção: **AMPLIFICA**
+  - NB: Δκ observado `+0.2984`, IC95% `[+0.2638, +0.3373]`, direção: **AMPLIFICA**
+  - RF: Δκ observado `+0.2645`, IC95% `[+0.2232, +0.3029]`, direção: **AMPLIFICA**
+  - LR: Δκ observado `+0.2524`, IC95% `[+0.2159, +0.2903]`, direção: **AMPLIFICA**
 
 ## 5) Conclusão executiva
 - Os classificadores reproduzem padrões com **menor concordância inter-grupos** do que a observada entre anotadores humanos.

@@ -2,7 +2,7 @@
 RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MADA FASE 2
 ================================================================================
 
-Data: 07/06/2026 16:32:36
+Data: 20/06/2026 11:07:26
 Seed: 42
 K-Fold: 5
 N Amostras: 1222
@@ -27,26 +27,26 @@ AMPLIFICAÇÃO
 κ_inicial: 0.7664
 
 SVM:
-  κ_modelos : 0.4944
-  Δκ        : +0.2720
+  κ_modelos : 0.4776
+  Δκ        : +0.2888
   Severidade: Leve
   Amplifica?: SIM
 
 NB:
-  κ_modelos : 0.4582
-  Δκ        : +0.3082
+  κ_modelos : 0.4680
+  Δκ        : +0.2984
   Severidade: Leve
   Amplifica?: SIM
 
 RF:
-  κ_modelos : 0.4863
-  Δκ        : +0.2801
+  κ_modelos : 0.5019
+  Δκ        : +0.2645
   Severidade: Leve
   Amplifica?: SIM
 
 LR:
-  κ_modelos : 0.5120
-  Δκ        : +0.2544
+  κ_modelos : 0.5140
+  Δκ        : +0.2524
   Severidade: Leve
   Amplifica?: SIM
 
