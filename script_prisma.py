@@ -200,7 +200,7 @@ caixa(
     43,
     w_main,
     7.5,
-    f"Relatórios buscados para recuperação do texto completo "
+    f"Artigos buscados para recuperação do texto completo "
     f"(n = {dados['buscados']})",
     bold=True
 )
@@ -210,7 +210,7 @@ caixa(
     33,
     w_main,
     7.5,
-    f"Relatórios não recuperados "
+    f"Artigos não recuperados "
     f"(n = {dados['nao_recuperados']})"
 )
 
@@ -222,7 +222,7 @@ caixa(
     22,
     w_main,
     7.5,
-    f"Relatórios avaliados para elegibilidade "
+    f"Artigos avaliados para elegibilidade "
     f"(n = {dados['avaliados']})",
     bold=True
 )
@@ -237,7 +237,7 @@ caixa(
     8,
     w_main,
     11,
-    "Relatórios excluídos, com justificativa:\n" + motivos,
+    "Artigos excluídos, com justificativa:\n" + motivos,
     fontsize=7.6,
     wrap=50
 )

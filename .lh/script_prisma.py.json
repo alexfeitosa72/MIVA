@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 16,
+            "activePatchIndex": 18,
             "patches": [
                 {
                     "date": 1780361557566,
@@ -72,6 +72,14 @@
                 {
                     "date": 1780362423350,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -18,11 +18,11 @@\n     \"excluidos_elegibilidade\": {\r\n         \"Fora do escopo\": 19,\r\n         \"Sem relação direta com viés/anotação\": 11,\r\n         \"Sem experimento empírico\": 0,\r\n-        \"Duplicidade temática\": 6,\r\n+        \"Duplicidade temática\": 10,\r\n     },\r\n-    \"incluidos\": 2258\r\n+    \"incluidos\": 58\r\n }\r\n \r\n # =========================\r\n # CONFIGURAÇÃO VISUAL\r\n"
+                },
+                {
+                    "date": 1782655567780,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -209,9 +209,9 @@\n     x_main,\r\n     33,\r\n     w_main,\r\n     7.5,\r\n-    f\"Relatórios não recuperados \"\r\n+    f\"Artigos não recuperados \"\r\n     f\"(n = {dados['nao_recuperados']})\"\r\n )\r\n \r\n # =========================\r\n"
+                },
+                {
+                    "date": 1782655575369,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -199,9 +199,9 @@\n     x_main,\r\n     43,\r\n     w_main,\r\n     7.5,\r\n-    f\"Relatórios buscados para recuperação do texto completo \"\r\n+    f\"Artigos buscados para recuperação do texto completo \"\r\n     f\"(n = {dados['buscados']})\",\r\n     bold=True\r\n )\r\n \r\n@@ -221,9 +221,9 @@\n     x_main,\r\n     22,\r\n     w_main,\r\n     7.5,\r\n-    f\"Relatórios avaliados para elegibilidade \"\r\n+    f\"Artigos avaliados para elegibilidade \"\r\n     f\"(n = {dados['avaliados']})\",\r\n     bold=True\r\n )\r\n \r\n@@ -236,9 +236,9 @@\n     x_main,\r\n     8,\r\n     w_main,\r\n     11,\r\n-    \"Relatórios excluídos, com justificativa:\\n\" + motivos,\r\n+    \"Artigos excluídos, com justificativa:\\n\" + motivos,\r\n     fontsize=7.6,\r\n     wrap=50\r\n )\r\n \r\n"
                 }
             ],
             "date": 1780361557566,

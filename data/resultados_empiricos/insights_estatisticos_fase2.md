@@ -1,6 +1,6 @@
 # Principais Insights Estatísticos — MADA Fase 2
 
-**Data de geração:** 20/06/2026 11:07:26
+**Data de geração:** 28/06/2026 13:34:44
 
 ## 1) Baseline entre anotadores
 - **Cohen's Kappa inicial:** `0.7664`
@@ -22,10 +22,10 @@
 - **Modelos com amplificação detectada:** `4/4`
 
 ### Severidade (Landis & Koch, 1977)
-- **Ausente:** 0 modelo(s)
-- **Leve:** 4 modelo(s)
-- **Moderada:** 0 modelo(s)
-- **Severa:** 0 modelo(s)
+- **Nulo:** 0 modelo(s)
+- **Restrito:** 4 modelo(s)
+- **Amplo:** 0 modelo(s)
+- **Acentuado:** 0 modelo(s)
 
 ## 4) Significância estatística (bootstrap de Δκ)
 - **Modelos com Δκ estatisticamente significativo:** `4/4`
@@ -37,7 +37,7 @@
 ## 5) Conclusão executiva
 - Os classificadores reproduzem padrões com **menor concordância inter-grupos** do que a observada entre anotadores humanos.
 - Houve **amplificação de viés em todos os modelos testados** nesta configuração experimental.
-- A queda de faixa de concordância foi predominantemente **leve** (1 faixa em Landis & Koch), mas consistente.
+- A queda de faixa de concordância foi predominantemente **Restrito** (1 faixa em Landis & Koch), mas consistente.
 
 ---
 Arquivo gerado automaticamente em: `data\resultados_empiricos\insights_estatisticos_fase2.md`

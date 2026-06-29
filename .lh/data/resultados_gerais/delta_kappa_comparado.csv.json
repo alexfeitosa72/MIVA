@@ -1,0 +1,30 @@
+{
+    "sourceFile": "data/resultados_gerais/delta_kappa_comparado.csv",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 3,
+            "patches": [
+                {
+                    "date": 1782663456806,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1782663462351,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n Modelo,Δκ_empirico,Severidade_empirico,Faixas_empirico,Δκ_sintetico_media,Severidade_sintetico_modal,Faixas_sintetico_media\r\n-SVM,0.2887929749194091,Restrito,1,0.19734824126052028,Leve,1.0\r\n-NB,0.2983984287334982,Leve,1,0.1955006469820769,Leve,1.0833333333333333\r\n+SVM,0.2887929749194091,Restrito,1,0.19734824126052028,Restrito,1.0\r\n+NB,0.2983984287334982,Restrito,1,0.1955006469820769,Restrito,1.0833333333333333\r\n RF,0.2644833736973423,Leve,1,0.46640335371710306,Severa,2.25\r\n LR,0.2524247216791764,Leve,1,0.18347320335357697,Leve,0.9166666666666666\r\n"
+                },
+                {
+                    "date": 1782663468577,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n Modelo,Δκ_empirico,Severidade_empirico,Faixas_empirico,Δκ_sintetico_media,Severidade_sintetico_modal,Faixas_sintetico_media\r\n SVM,0.2887929749194091,Restrito,1,0.19734824126052028,Restrito,1.0\r\n NB,0.2983984287334982,Restrito,1,0.1955006469820769,Restrito,1.0833333333333333\r\n-RF,0.2644833736973423,Leve,1,0.46640335371710306,Severa,2.25\r\n-LR,0.2524247216791764,Leve,1,0.18347320335357697,Leve,0.9166666666666666\r\n+RF,0.2644833736973423,Restrito,1,0.46640335371710306,Severa,2.25\r\n+LR,0.2524247216791764,Restrito,1,0.18347320335357697,Leve,0.9166666666666666\r\n"
+                },
+                {
+                    "date": 1782664345745,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n Modelo,Δκ_empirico,Severidade_empirico,Faixas_empirico,Δκ_sintetico_media,Severidade_sintetico_modal,Faixas_sintetico_media\r\n SVM,0.2887929749194091,Restrito,1,0.19734824126052028,Restrito,1.0\r\n NB,0.2983984287334982,Restrito,1,0.1955006469820769,Restrito,1.0833333333333333\r\n-RF,0.2644833736973423,Restrito,1,0.46640335371710306,Severa,2.25\r\n-LR,0.2524247216791764,Restrito,1,0.18347320335357697,Leve,0.9166666666666666\r\n+RF,0.2644833736973423,Restrito,1,0.46640335371710306,Acentuado,2.25\r\n+LR,0.2524247216791764,Restrito,1,0.18347320335357697,Restrito,0.9166666666666666\r\n"
+                }
+            ],
+            "date": 1782663456806,
+            "name": "Commit-0",
+            "content": "Modelo,Δκ_empirico,Severidade_empirico,Faixas_empirico,Δκ_sintetico_media,Severidade_sintetico_modal,Faixas_sintetico_media\r\nSVM,0.2887929749194091,Restrito,1,0.19734824126052028,Leve,1.0\r\nNB,0.2983984287334982,Leve,1,0.1955006469820769,Leve,1.0833333333333333\r\nRF,0.2644833736973423,Leve,1,0.46640335371710306,Severa,2.25\r\nLR,0.2524247216791764,Leve,1,0.18347320335357697,Leve,0.9166666666666666\r\n"
+        }
+    ]
+}

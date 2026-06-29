@@ -3,11 +3,19 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1775671233071,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1782663438918,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,9 +1,9 @@\n ================================================================================\r\n-RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MADAA FASE 2\r\n+RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MADA FASE 2\r\n ================================================================================\r\n \r\n-Data: 08/04/2026 10:30:23\r\n+Data: 28/06/2026 11:27:33\r\n Seed: 42\r\n K-Fold: 5\r\n N Amostras: 1222\r\n \r\n@@ -26,28 +26,28 @@\n \r\n κ_inicial: 0.7664\r\n \r\n SVM:\r\n-  κ_modelos : 0.4944\r\n-  Δκ        : +0.2720\r\n-  Severidade: Leve\r\n+  κ_modelos : 0.4776\r\n+  Δκ        : +0.2888\r\n+  Severidade: Restrito\r\n   Amplifica?: SIM\r\n \r\n NB:\r\n-  κ_modelos : 0.4582\r\n-  Δκ        : +0.3082\r\n+  κ_modelos : 0.4680\r\n+  Δκ        : +0.2984\r\n   Severidade: Leve\r\n   Amplifica?: SIM\r\n \r\n RF:\r\n-  κ_modelos : 0.4863\r\n-  Δκ        : +0.2801\r\n+  κ_modelos : 0.5019\r\n+  Δκ        : +0.2645\r\n   Severidade: Leve\r\n   Amplifica?: SIM\r\n \r\n LR:\r\n-  κ_modelos : 0.5120\r\n-  Δκ        : +0.2544\r\n+  κ_modelos : 0.5140\r\n+  Δκ        : +0.2524\r\n   Severidade: Leve\r\n   Amplifica?: SIM\r\n \r\n ================================================================================\r\n"
+                },
+                {
+                    "date": 1782663445354,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,21 +34,21 @@\n \r\n NB:\r\n   κ_modelos : 0.4680\r\n   Δκ        : +0.2984\r\n-  Severidade: Leve\r\n+  Severidade: Restrito\r\n   Amplifica?: SIM\r\n \r\n RF:\r\n   κ_modelos : 0.5019\r\n   Δκ        : +0.2645\r\n-  Severidade: Leve\r\n+  Severidade: Restrito\r\n   Amplifica?: SIM\r\n \r\n LR:\r\n   κ_modelos : 0.5140\r\n   Δκ        : +0.2524\r\n-  Severidade: Leve\r\n+  Severidade: Restrito\r\n   Amplifica?: SIM\r\n \r\n ================================================================================\r\n [AVISO] 4/4 modelos amplificaram viés.\r\n"
                 }
             ],
             "date": 1775671233071,

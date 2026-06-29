@@ -57,10 +57,10 @@ def n_faixas_queda(kappa_orig, kappa_modelo):
     return max(0, fi - fm)
 
 def severidade(n_faixas):
-    if n_faixas == 0: return "Ausente"
-    if n_faixas == 1: return "Leve"
-    if n_faixas == 2: return "Moderada"
-    return "Severa"
+    if n_faixas == 0: return "Nulo"
+    if n_faixas == 1: return "Restrito"
+    if n_faixas == 2: return "Amplo"
+    return "Acentuado"
 
 def rodar_rf(df):
     tfidf = TfidfVectorizer(max_features=10000, ngram_range=(1, 3), min_df=3)
