@@ -1,6 +1,6 @@
 # Principais Insights Estatísticos — MADA Fase 2
 
-**Data de geração:** 28/06/2026 22:54:21
+**Data de geração:** 12/07/2026 11:01:32
 
 ## 1) Baseline entre anotadores
 - **Cohen's Kappa inicial:** `0.7664`
@@ -11,11 +11,11 @@
 > Interpretação: há concordância inicial relativamente alta entre os grupos de anotadores.
 
 ## 2) Concordância entre modelos pareados
-- **Média de κ_modelos (4 classificadores):** `0.4904`
-- **Melhor κ_modelos:** `LR` com `0.5140`
-- **Pior κ_modelos:** `NB` com `0.4680`
+- **Média de κ_pred (4 classificadores):** `0.4904`
+- **Melhor κ_pred:** `LR` com `0.5140`
+- **Pior κ_pred:** `NB` com `0.4680`
 
-## 3) Amplificação de viés (Δκ = κ_inicial - κ_modelos)
+## 3) Amplificação de viés (Δκ = κ_anot - κ_pred)
 - **Δκ médio:** `+0.2760`
 - **Maior amplificação:** `NB` com `Δκ=+0.2984`
 - **Menor amplificação:** `LR` com `Δκ=+0.2524`

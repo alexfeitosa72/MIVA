@@ -1,4 +1,4 @@
-Estudo,Dataset,Modelo,κ_inicial,κ_modelos,Δκ,Severidade,Faixas_Perdidas,Amplificacao_Detectada
+Estudo,Dataset,Modelo,κ_anot,κ_pred,Δκ,Severidade,Faixas_Perdidas,Amplificacao_Detectada
 Empírico,MQD-1209,SVM,0.7663971485154925,0.4776041735960833,0.2887929749194091,Restrito,1.0,True
 Empírico,MQD-1209,NB,0.7663971485154925,0.4679987197819942,0.2983984287334982,Restrito,1.0,True
 Empírico,MQD-1209,RF,0.7663971485154925,0.5019137748181501,0.2644833736973423,Restrito,1.0,True

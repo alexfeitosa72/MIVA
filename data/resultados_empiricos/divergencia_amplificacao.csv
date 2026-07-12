@@ -1,4 +1,4 @@
-modelo,kappa_inicial,kappa_modelos,delta_kappa,faixa_inicial_lk,faixa_modelo_lk,faixas_perdidas,severidade,amplificacao_detectada
+modelo,kappa_anot,kappa_pred,delta_kappa,faixa_inicial_lk,faixa_modelo_lk,faixas_perdidas,severidade,amplificacao_detectada
 SVM,0.7663971485154925,0.47760417359608337,0.2887929749194091,Substantial,Moderate,1,Restrito,True
 NB,0.7663971485154925,0.46799871978199425,0.2983984287334982,Substantial,Moderate,1,Restrito,True
 RF,0.7663971485154925,0.5019137748181501,0.2644833736973423,Substantial,Moderate,1,Restrito,True

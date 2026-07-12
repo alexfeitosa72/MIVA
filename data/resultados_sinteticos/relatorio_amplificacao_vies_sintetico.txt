@@ -2,7 +2,7 @@
 RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MADA FASE 3 (SINTÉTICO)
 ================================================================================
 
-Data: 28/06/2026 14:15:09
+Data: 12/07/2026 11:13:33
 Seed: 42
 K-Fold: 5
 N Datasets: 12
@@ -22,10 +22,10 @@ BASELINE (Anotadores Sintéticos):
 
 AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 
-κ_inicial (anotadores): 0.9850
+κ_anot (anotadores): 0.9850
 
 SVM:
-  κ_modelos       : 0.8697
+  κ_pred       : 0.8697
   Faixa L&K       : Almost Perfect
   Δκ              : +0.1153
   IC 95% Δκ       : [+0.0876, +0.1414]
@@ -35,7 +35,7 @@ SVM:
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.8909
+  κ_pred       : 0.8909
   Faixa L&K       : Almost Perfect
   Δκ              : +0.0941
   IC 95% Δκ       : [+0.0709, +0.1178]
@@ -45,7 +45,7 @@ NB:
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.3834
+  κ_pred       : 0.3834
   Faixa L&K       : Fair
   Δκ              : +0.6015
   IC 95% Δκ       : [+0.5563, +0.6426]
@@ -55,7 +55,7 @@ RF:
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.8958
+  κ_pred       : 0.8958
   Faixa L&K       : Almost Perfect
   Δκ              : +0.0892
   IC 95% Δκ       : [+0.0662, +0.1128]
@@ -79,10 +79,10 @@ BASELINE (Anotadores Sintéticos):
 
 AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 
-κ_inicial (anotadores): 0.8498
+κ_anot (anotadores): 0.8498
 
 SVM:
-  κ_modelos       : 0.5954
+  κ_pred       : 0.5954
   Faixa L&K       : Moderate
   Δκ              : +0.2545
   IC 95% Δκ       : [+0.2133, +0.2951]
@@ -92,7 +92,7 @@ SVM:
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.5970
+  κ_pred       : 0.5970
   Faixa L&K       : Moderate
   Δκ              : +0.2528
   IC 95% Δκ       : [+0.2103, +0.2933]
@@ -102,7 +102,7 @@ NB:
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.2746
+  κ_pred       : 0.2746
   Faixa L&K       : Fair
   Δκ              : +0.5752
   IC 95% Δκ       : [+0.5329, +0.6245]
@@ -112,7 +112,7 @@ RF:
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.6107
+  κ_pred       : 0.6107
   Faixa L&K       : Substantial
   Δκ              : +0.2392
   IC 95% Δκ       : [+0.1995, +0.2796]
@@ -136,10 +136,10 @@ BASELINE (Anotadores Sintéticos):
 
 AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 
-κ_inicial (anotadores): 0.7748
+κ_anot (anotadores): 0.7748
 
 SVM:
-  κ_modelos       : 0.5086
+  κ_pred       : 0.5086
   Faixa L&K       : Moderate
   Δκ              : +0.2662
   IC 95% Δκ       : [+0.2215, +0.3090]
@@ -149,7 +149,7 @@ SVM:
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.5383
+  κ_pred       : 0.5383
   Faixa L&K       : Moderate
   Δκ              : +0.2365
   IC 95% Δκ       : [+0.1935, +0.2795]
@@ -159,7 +159,7 @@ NB:
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.2496
+  κ_pred       : 0.2496
   Faixa L&K       : Fair
   Δκ              : +0.5252
   IC 95% Δκ       : [+0.4788, +0.5681]
@@ -169,7 +169,7 @@ RF:
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.5174
+  κ_pred       : 0.5174
   Faixa L&K       : Moderate
   Δκ              : +0.2574
   IC 95% Δκ       : [+0.2138, +0.2998]
@@ -193,10 +193,10 @@ BASELINE (Anotadores Sintéticos):
 
 AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 
-κ_inicial (anotadores): 0.3994
+κ_anot (anotadores): 0.3994
 
 SVM:
-  κ_modelos       : 0.2197
+  κ_pred       : 0.2197
   Faixa L&K       : Fair
   Δκ              : +0.1797
   IC 95% Δκ       : [+0.1334, +0.2256]
@@ -206,7 +206,7 @@ SVM:
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.1875
+  κ_pred       : 0.1875
   Faixa L&K       : Slight
   Δκ              : +0.2119
   IC 95% Δκ       : [+0.1635, +0.2573]
@@ -216,7 +216,7 @@ NB:
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.0340
+  κ_pred       : 0.0340
   Faixa L&K       : Slight
   Δκ              : +0.3654
   IC 95% Δκ       : [+0.3205, +0.4149]
@@ -226,7 +226,7 @@ RF:
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.2070
+  κ_pred       : 0.2070
   Faixa L&K       : Fair
   Δκ              : +0.1924
   IC 95% Δκ       : [+0.1484, +0.2381]
@@ -250,10 +250,10 @@ BASELINE (Anotadores Sintéticos):
 
 AMPLIFICAÇÃO DE VIÉS (Landis & Koch, 1977):
 
-κ_inicial (anotadores): 0.2507
+κ_anot (anotadores): 0.2507
 
 SVM:
-  κ_modelos       : 0.1517
+  κ_pred       : 0.1517
   Faixa L&K       : Slight
   Δκ              : +0.0991
   IC 95% Δκ       : [+0.0544, +0.1439]
@@ -263,7 +263,7 @@ SVM:
   Significativo?  : AMPLIFICA
 
 NB:
-  κ_modelos       : 0.1230
+  κ_pred       : 0.1230
   Faixa L&K       : Slight
   Δκ              : +0.1278
   IC 95% Δκ       : [+0.0752, +0.1669]
@@ -273,7 +273,7 @@ NB:
   Significativo?  : AMPLIFICA
 
 RF:
-  κ_modelos       : 0.0445
+  κ_pred       : 0.0445
   Faixa L&K       : Slight
   Δκ              : +0.2062
   IC 95% Δκ       : [+0.1629, +0.2512]
@@ -283,7 +283,7 @@ RF:
   Significativo?  : AMPLIFICA
 
 LR:
-  κ_modelos       : 0.1661
+  κ_pred       : 0.1661
   Faixa L&K       : Slight
   Δκ              : +0.0846
   IC 95% Δκ       : [+0.0407, +0.1352]
