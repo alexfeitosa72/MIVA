@@ -1,10 +1,10 @@
 # Principais Insights Estatísticos — MADA Fase 2
 
-**Data de geração:** 12/07/2026 11:01:32
+**Data de geração:** 13/07/2026 12:04:18
 
 ## 1) Baseline entre anotadores
 - **Cohen's Kappa inicial:** `0.7664`
-- **IC 95% do Kappa (bootstrap):** `[0.7363, 0.7954]`
+- **IC 95% do Kappa (bootstrap):** `[0.7348, 0.7958]`
 - **Concordância observada:** `0.8453` (84.53%)
 - **Cramér's V:** `0.7679`
 
@@ -29,10 +29,10 @@
 
 ## 4) Significância estatística (bootstrap de Δκ)
 - **Modelos com Δκ estatisticamente significativo:** `4/4`
-  - SVM: Δκ observado `+0.2888`, IC95% `[+0.2476, +0.3248]`, direção: **AMPLIFICA**
-  - NB: Δκ observado `+0.2984`, IC95% `[+0.2638, +0.3373]`, direção: **AMPLIFICA**
-  - RF: Δκ observado `+0.2645`, IC95% `[+0.2232, +0.3029]`, direção: **AMPLIFICA**
-  - LR: Δκ observado `+0.2524`, IC95% `[+0.2159, +0.2903]`, direção: **AMPLIFICA**
+  - SVM: Δκ observado `+0.2888`, IC95% `[+0.2491, +0.3258]`, direção: **AMPLIFICA**
+  - NB: Δκ observado `+0.2984`, IC95% `[+0.2626, +0.3365]`, direção: **AMPLIFICA**
+  - RF: Δκ observado `+0.2645`, IC95% `[+0.2232, +0.3027]`, direção: **AMPLIFICA**
+  - LR: Δκ observado `+0.2524`, IC95% `[+0.2159, +0.2899]`, direção: **AMPLIFICA**
 
 ## 5) Conclusão executiva
 - Os classificadores reproduzem padrões com **menor concordância inter-grupos** do que a observada entre anotadores humanos.
