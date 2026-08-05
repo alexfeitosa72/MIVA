@@ -1,0 +1,11 @@
+metrica,valor
+prop_exatamente_4_masculino,0.4101161995898838
+prop_exatamente_4_feminino,0.7949419002050581
+taxa_empate_4votos_masculino,0.11666666666666667
+taxa_empate_4votos_feminino,0.16337059329320722
+z_stat_empate,2.6204680550387325
+p_valor_empate,0.008780915644284404
+kappa_anot_primeiros4,0.7935833548656995
+N_primeiros4,1111.0
+kappa_anot_combinatorio,0.7663971485154925
+N_combinatorio,1222.0
