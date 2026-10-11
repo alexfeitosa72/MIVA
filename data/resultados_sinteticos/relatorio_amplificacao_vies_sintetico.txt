@@ -2,7 +2,7 @@
 RELATÓRIO DE AMPLIFICAÇÃO DE VIÉS - MADA FASE 3 (SINTÉTICO)
 ================================================================================
 
-Data: 10/10/2026 17:57:01
+Data: 11/10/2026 10:14:47
 Seed: 42
 K-Fold: 5
 N Datasets: 12
